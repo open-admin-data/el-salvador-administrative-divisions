@@ -1,0 +1,4 @@
+id,name.local,name.en,name.slug,code.id,children_count.municipality,geo.lat,geo.lon
+SV09001,San Miguel Centro,San Miguel Centro,san-miguel-centro-sv09001,SV09001,6,13.39,-88.169
+SV09002,San Miguel Norte,San Miguel Norte,san-miguel-norte-sv09002,SV09002,8,13.738,-88.383
+SV09003,San Miguel Oeste,San Miguel Oeste,san-miguel-oeste-sv09003,SV09003,6,13.447,-88.332

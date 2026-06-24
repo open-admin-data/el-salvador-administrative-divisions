@@ -1,0 +1,284 @@
+[
+  {
+    "id": "SV12999",
+    "level": 2,
+    "level_name": {
+      "local": "Distrito",
+      "en": "District"
+    },
+    "name": {
+      "local": "Lago de Coatepeque",
+      "en": "Lago de Coatepeque",
+      "slug": "lago-de-coatepeque-sv12999"
+    },
+    "code": {
+      "id": "SV12999",
+      "iso": null
+    },
+    "parent": {
+      "id": "SV12",
+      "level": 1,
+      "name": {
+        "local": "Santa Ana",
+        "en": "Santa Ana",
+        "slug": "santa-ana-sv12"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SV12",
+        "level": 1,
+        "name": {
+          "local": "Santa Ana",
+          "en": "Santa Ana",
+          "slug": "santa-ana-sv12"
+        }
+      }
+    ],
+    "children_count": {
+      "municipality": 1
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "13.861",
+      "lon": "-89.542"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SV12998",
+    "level": 2,
+    "level_name": {
+      "local": "Distrito",
+      "en": "District"
+    },
+    "name": {
+      "local": "Lago de Guija",
+      "en": "Lago de Guija",
+      "slug": "lago-de-guija-sv12998"
+    },
+    "code": {
+      "id": "SV12998",
+      "iso": null
+    },
+    "parent": {
+      "id": "SV12",
+      "level": 1,
+      "name": {
+        "local": "Santa Ana",
+        "en": "Santa Ana",
+        "slug": "santa-ana-sv12"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SV12",
+        "level": 1,
+        "name": {
+          "local": "Santa Ana",
+          "en": "Santa Ana",
+          "slug": "santa-ana-sv12"
+        }
+      }
+    ],
+    "children_count": {
+      "municipality": 1
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "14.267",
+      "lon": "-89.51"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SV12001",
+    "level": 2,
+    "level_name": {
+      "local": "Distrito",
+      "en": "District"
+    },
+    "name": {
+      "local": "Santa Ana Centro",
+      "en": "Santa Ana Centro",
+      "slug": "santa-ana-centro-sv12001"
+    },
+    "code": {
+      "id": "SV12001",
+      "iso": null
+    },
+    "parent": {
+      "id": "SV12",
+      "level": 1,
+      "name": {
+        "local": "Santa Ana",
+        "en": "Santa Ana",
+        "slug": "santa-ana-sv12"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SV12",
+        "level": 1,
+        "name": {
+          "local": "Santa Ana",
+          "en": "Santa Ana",
+          "slug": "santa-ana-sv12"
+        }
+      }
+    ],
+    "children_count": {
+      "municipality": 1
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "13.956",
+      "lon": "-89.558"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SV12002",
+    "level": 2,
+    "level_name": {
+      "local": "Distrito",
+      "en": "District"
+    },
+    "name": {
+      "local": "Santa Ana Este",
+      "en": "Santa Ana Este",
+      "slug": "santa-ana-este-sv12002"
+    },
+    "code": {
+      "id": "SV12002",
+      "iso": null
+    },
+    "parent": {
+      "id": "SV12",
+      "level": 1,
+      "name": {
+        "local": "Santa Ana",
+        "en": "Santa Ana",
+        "slug": "santa-ana-sv12"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SV12",
+        "level": 1,
+        "name": {
+          "local": "Santa Ana",
+          "en": "Santa Ana",
+          "slug": "santa-ana-sv12"
+        }
+      }
+    ],
+    "children_count": {
+      "municipality": 2
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "13.885",
+      "lon": "-89.49"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SV12003",
+    "level": 2,
+    "level_name": {
+      "local": "Distrito",
+      "en": "District"
+    },
+    "name": {
+      "local": "Santa Ana Norte",
+      "en": "Santa Ana Norte",
+      "slug": "santa-ana-norte-sv12003"
+    },
+    "code": {
+      "id": "SV12003",
+      "iso": null
+    },
+    "parent": {
+      "id": "SV12",
+      "level": 1,
+      "name": {
+        "local": "Santa Ana",
+        "en": "Santa Ana",
+        "slug": "santa-ana-sv12"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SV12",
+        "level": 1,
+        "name": {
+          "local": "Santa Ana",
+          "en": "Santa Ana",
+          "slug": "santa-ana-sv12"
+        }
+      }
+    ],
+    "children_count": {
+      "municipality": 4
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "14.251",
+      "lon": "-89.374"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SV12004",
+    "level": 2,
+    "level_name": {
+      "local": "Distrito",
+      "en": "District"
+    },
+    "name": {
+      "local": "Santa Ana Oeste",
+      "en": "Santa Ana Oeste",
+      "slug": "santa-ana-oeste-sv12004"
+    },
+    "code": {
+      "id": "SV12004",
+      "iso": null
+    },
+    "parent": {
+      "id": "SV12",
+      "level": 1,
+      "name": {
+        "local": "Santa Ana",
+        "en": "Santa Ana",
+        "slug": "santa-ana-sv12"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SV12",
+        "level": 1,
+        "name": {
+          "local": "Santa Ana",
+          "en": "Santa Ana",
+          "slug": "santa-ana-sv12"
+        }
+      }
+    ],
+    "children_count": {
+      "municipality": 6
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "14.046",
+      "lon": "-89.677"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

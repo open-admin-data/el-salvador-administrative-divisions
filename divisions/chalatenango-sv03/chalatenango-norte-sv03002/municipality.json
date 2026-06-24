@@ -1,0 +1,164 @@
+[
+  {
+    "id": "SV03002001",
+    "level": 3,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Citalá",
+      "en": "Citala",
+      "slug": "citala-sv03002001"
+    },
+    "code": {
+      "id": "SV03002001",
+      "iso": null
+    },
+    "parent": {
+      "id": "SV03002",
+      "level": 2,
+      "name": {
+        "local": "Chalatenango Norte",
+        "en": "Chalatenango Norte",
+        "slug": "chalatenango-norte-sv03002"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SV03",
+        "level": 1,
+        "name": {
+          "local": "Chalatenango",
+          "en": "Chalatenango",
+          "slug": "chalatenango-sv03"
+        }
+      },
+      {
+        "id": "SV03002",
+        "level": 2,
+        "name": {
+          "local": "Chalatenango Norte",
+          "en": "Chalatenango Norte",
+          "slug": "chalatenango-norte-sv03002"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "14.371",
+      "lon": "-89.256"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SV03002002",
+    "level": 3,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "La Palma",
+      "en": "La Palma",
+      "slug": "la-palma-sv03002002"
+    },
+    "code": {
+      "id": "SV03002002",
+      "iso": null
+    },
+    "parent": {
+      "id": "SV03002",
+      "level": 2,
+      "name": {
+        "local": "Chalatenango Norte",
+        "en": "Chalatenango Norte",
+        "slug": "chalatenango-norte-sv03002"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SV03",
+        "level": 1,
+        "name": {
+          "local": "Chalatenango",
+          "en": "Chalatenango",
+          "slug": "chalatenango-sv03"
+        }
+      },
+      {
+        "id": "SV03002",
+        "level": 2,
+        "name": {
+          "local": "Chalatenango Norte",
+          "en": "Chalatenango Norte",
+          "slug": "chalatenango-norte-sv03002"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "14.296",
+      "lon": "-89.177"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SV03002003",
+    "level": 3,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "San Ignacio",
+      "en": "San Ignacio",
+      "slug": "san-ignacio-sv03002003"
+    },
+    "code": {
+      "id": "SV03002003",
+      "iso": null
+    },
+    "parent": {
+      "id": "SV03002",
+      "level": 2,
+      "name": {
+        "local": "Chalatenango Norte",
+        "en": "Chalatenango Norte",
+        "slug": "chalatenango-norte-sv03002"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SV03",
+        "level": 1,
+        "name": {
+          "local": "Chalatenango",
+          "en": "Chalatenango",
+          "slug": "chalatenango-sv03"
+        }
+      },
+      {
+        "id": "SV03002",
+        "level": 2,
+        "name": {
+          "local": "Chalatenango Norte",
+          "en": "Chalatenango Norte",
+          "slug": "chalatenango-norte-sv03002"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "14.337",
+      "lon": "-89.182"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

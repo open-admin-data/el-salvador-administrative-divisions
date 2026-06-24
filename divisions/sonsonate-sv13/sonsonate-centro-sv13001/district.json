@@ -1,0 +1,47 @@
+{
+  "id": "SV13001",
+  "level": 2,
+  "level_name": {
+    "local": "Distrito",
+    "en": "District"
+  },
+  "name": {
+    "local": "Sonsonate Centro",
+    "en": "Sonsonate Centro",
+    "slug": "sonsonate-centro-sv13001"
+  },
+  "code": {
+    "id": "SV13001",
+    "iso": null
+  },
+  "parent": {
+    "id": "SV13",
+    "level": 1,
+    "name": {
+      "local": "Sonsonate",
+      "en": "Sonsonate",
+      "slug": "sonsonate-sv13"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "SV13",
+      "level": 1,
+      "name": {
+        "local": "Sonsonate",
+        "en": "Sonsonate",
+        "slug": "sonsonate-sv13"
+      }
+    }
+  ],
+  "children_count": {
+    "municipality": 5
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "13.652",
+    "lon": "-89.711"
+  },
+  "metadata": {},
+  "source": {}
+}

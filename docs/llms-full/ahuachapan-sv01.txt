@@ -1,0 +1,72 @@
+# Ahuachapan — El Salvador Administrative Divisions
+
+> 3 districts, 12 municipalitys
+> Code: SV01
+> Coordinates: 13.863, -89.93
+> Last updated: 2026-06-24. License: CC-BY-4.0.
+
+## Districts
+
+### Ahuachapán Centro (Ahuachapan Centro)
+
+Code: SV01001, Coordinates: 13.913, -89.899
+Municipalitys: 4
+
+#### Ahuachapán (Ahuachapan)
+
+Code: SV01001001, Coordinates: 13.963, -89.87
+
+#### Apaneca
+
+Code: SV01001002, Coordinates: 13.848, -89.79
+
+#### Concepción de Ataco (Concepcion de Ataco)
+
+Code: SV01001003, Coordinates: 13.844, -89.85
+
+#### Tacuba
+
+Code: SV01001004, Coordinates: 13.874, -89.916
+
+### Ahuachapán Norte (Ahuachapan Norte)
+
+Code: SV01002, Coordinates: 13.98, -89.738
+Municipalitys: 4
+
+#### Atiquizaya
+
+Code: SV01002001, Coordinates: 13.956, -89.731
+
+#### El Refugio
+
+Code: SV01002002, Coordinates: 13.983, -89.7
+
+#### San Lorenzo
+
+Code: SV01002003, Coordinates: 14.024, -89.759
+
+#### Turín (Turin)
+
+Code: SV01002004, Coordinates: 13.959, -89.766
+
+### Ahuachapán Sur (Ahuachapan Sur)
+
+Code: SV01003, Coordinates: 13.78, -90.018
+Municipalitys: 4
+
+#### Guaymango
+
+Code: SV01003001, Coordinates: 13.735, -89.849
+
+#### Jujutla
+
+Code: SV01003002, Coordinates: 13.746, -89.946
+
+#### San Francisco Menéndez (San Francisco Menendez)
+
+Code: SV01003003, Coordinates: 13.803, -90.029
+
+#### San Pedro Puxtla
+
+Code: SV01003004, Coordinates: 13.756, -89.797
+

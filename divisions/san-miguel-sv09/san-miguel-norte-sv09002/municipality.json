@@ -1,0 +1,434 @@
+[
+  {
+    "id": "SV09002001",
+    "level": 3,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Carolina",
+      "en": "Carolina",
+      "slug": "carolina-sv09002001"
+    },
+    "code": {
+      "id": "SV09002001",
+      "iso": null
+    },
+    "parent": {
+      "id": "SV09002",
+      "level": 2,
+      "name": {
+        "local": "San Miguel Norte",
+        "en": "San Miguel Norte",
+        "slug": "san-miguel-norte-sv09002"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SV09",
+        "level": 1,
+        "name": {
+          "local": "San Miguel",
+          "en": "San Miguel",
+          "slug": "san-miguel-sv09"
+        }
+      },
+      {
+        "id": "SV09002",
+        "level": 2,
+        "name": {
+          "local": "San Miguel Norte",
+          "en": "San Miguel Norte",
+          "slug": "san-miguel-norte-sv09002"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "13.848",
+      "lon": "-88.309"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SV09002002",
+    "level": 3,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Chapeltique",
+      "en": "Chapeltique",
+      "slug": "chapeltique-sv09002002"
+    },
+    "code": {
+      "id": "SV09002002",
+      "iso": null
+    },
+    "parent": {
+      "id": "SV09002",
+      "level": 2,
+      "name": {
+        "local": "San Miguel Norte",
+        "en": "San Miguel Norte",
+        "slug": "san-miguel-norte-sv09002"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SV09",
+        "level": 1,
+        "name": {
+          "local": "San Miguel",
+          "en": "San Miguel",
+          "slug": "san-miguel-sv09"
+        }
+      },
+      {
+        "id": "SV09002",
+        "level": 2,
+        "name": {
+          "local": "San Miguel Norte",
+          "en": "San Miguel Norte",
+          "slug": "san-miguel-norte-sv09002"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "13.636",
+      "lon": "-88.275"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SV09002003",
+    "level": 3,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Ciudad Barrios",
+      "en": "Ciudad Barrios",
+      "slug": "ciudad-barrios-sv09002003"
+    },
+    "code": {
+      "id": "SV09002003",
+      "iso": null
+    },
+    "parent": {
+      "id": "SV09002",
+      "level": 2,
+      "name": {
+        "local": "San Miguel Norte",
+        "en": "San Miguel Norte",
+        "slug": "san-miguel-norte-sv09002"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SV09",
+        "level": 1,
+        "name": {
+          "local": "San Miguel",
+          "en": "San Miguel",
+          "slug": "san-miguel-sv09"
+        }
+      },
+      {
+        "id": "SV09002",
+        "level": 2,
+        "name": {
+          "local": "San Miguel Norte",
+          "en": "San Miguel Norte",
+          "slug": "san-miguel-norte-sv09002"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "13.749",
+      "lon": "-88.272"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SV09002004",
+    "level": 3,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Nuevo Edén de San Juan",
+      "en": "Nuevo Eden de San Juan",
+      "slug": "nuevo-eden-de-san-juan-sv09002004"
+    },
+    "code": {
+      "id": "SV09002004",
+      "iso": null
+    },
+    "parent": {
+      "id": "SV09002",
+      "level": 2,
+      "name": {
+        "local": "San Miguel Norte",
+        "en": "San Miguel Norte",
+        "slug": "san-miguel-norte-sv09002"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SV09",
+        "level": 1,
+        "name": {
+          "local": "San Miguel",
+          "en": "San Miguel",
+          "slug": "san-miguel-sv09"
+        }
+      },
+      {
+        "id": "SV09002",
+        "level": 2,
+        "name": {
+          "local": "San Miguel Norte",
+          "en": "San Miguel Norte",
+          "slug": "san-miguel-norte-sv09002"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "13.788",
+      "lon": "-88.472"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SV09002005",
+    "level": 3,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "San Antonio",
+      "en": "San Antonio",
+      "slug": "san-antonio-sv09002005"
+    },
+    "code": {
+      "id": "SV09002005",
+      "iso": null
+    },
+    "parent": {
+      "id": "SV09002",
+      "level": 2,
+      "name": {
+        "local": "San Miguel Norte",
+        "en": "San Miguel Norte",
+        "slug": "san-miguel-norte-sv09002"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SV09",
+        "level": 1,
+        "name": {
+          "local": "San Miguel",
+          "en": "San Miguel",
+          "slug": "san-miguel-sv09"
+        }
+      },
+      {
+        "id": "SV09002",
+        "level": 2,
+        "name": {
+          "local": "San Miguel Norte",
+          "en": "San Miguel Norte",
+          "slug": "san-miguel-norte-sv09002"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "13.861",
+      "lon": "-88.273"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SV09002006",
+    "level": 3,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "San Gerardo",
+      "en": "San Gerardo",
+      "slug": "san-gerardo-sv09002006"
+    },
+    "code": {
+      "id": "SV09002006",
+      "iso": null
+    },
+    "parent": {
+      "id": "SV09002",
+      "level": 2,
+      "name": {
+        "local": "San Miguel Norte",
+        "en": "San Miguel Norte",
+        "slug": "san-miguel-norte-sv09002"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SV09",
+        "level": 1,
+        "name": {
+          "local": "San Miguel",
+          "en": "San Miguel",
+          "slug": "san-miguel-sv09"
+        }
+      },
+      {
+        "id": "SV09002",
+        "level": 2,
+        "name": {
+          "local": "San Miguel Norte",
+          "en": "San Miguel Norte",
+          "slug": "san-miguel-norte-sv09002"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "13.821",
+      "lon": "-88.407"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SV09002007",
+    "level": 3,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "San Luis de la Reina",
+      "en": "San Luis de la Reina",
+      "slug": "san-luis-de-la-reina-sv09002007"
+    },
+    "code": {
+      "id": "SV09002007",
+      "iso": null
+    },
+    "parent": {
+      "id": "SV09002",
+      "level": 2,
+      "name": {
+        "local": "San Miguel Norte",
+        "en": "San Miguel Norte",
+        "slug": "san-miguel-norte-sv09002"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SV09",
+        "level": 1,
+        "name": {
+          "local": "San Miguel",
+          "en": "San Miguel",
+          "slug": "san-miguel-sv09"
+        }
+      },
+      {
+        "id": "SV09002",
+        "level": 2,
+        "name": {
+          "local": "San Miguel Norte",
+          "en": "San Miguel Norte",
+          "slug": "san-miguel-norte-sv09002"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "13.829",
+      "lon": "-88.358"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SV09002008",
+    "level": 3,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Sesori",
+      "en": "Sesori",
+      "slug": "sesori-sv09002008"
+    },
+    "code": {
+      "id": "SV09002008",
+      "iso": null
+    },
+    "parent": {
+      "id": "SV09002",
+      "level": 2,
+      "name": {
+        "local": "San Miguel Norte",
+        "en": "San Miguel Norte",
+        "slug": "san-miguel-norte-sv09002"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SV09",
+        "level": 1,
+        "name": {
+          "local": "San Miguel",
+          "en": "San Miguel",
+          "slug": "san-miguel-sv09"
+        }
+      },
+      {
+        "id": "SV09002",
+        "level": 2,
+        "name": {
+          "local": "San Miguel Norte",
+          "en": "San Miguel Norte",
+          "slug": "san-miguel-norte-sv09002"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "13.711",
+      "lon": "-88.405"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

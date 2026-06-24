@@ -1,0 +1,326 @@
+[
+  {
+    "id": "SV09001001",
+    "level": 3,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Chirilagua",
+      "en": "Chirilagua",
+      "slug": "chirilagua-sv09001001"
+    },
+    "code": {
+      "id": "SV09001001",
+      "iso": null
+    },
+    "parent": {
+      "id": "SV09001",
+      "level": 2,
+      "name": {
+        "local": "San Miguel Centro",
+        "en": "San Miguel Centro",
+        "slug": "san-miguel-centro-sv09001"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SV09",
+        "level": 1,
+        "name": {
+          "local": "San Miguel",
+          "en": "San Miguel",
+          "slug": "san-miguel-sv09"
+        }
+      },
+      {
+        "id": "SV09001",
+        "level": 2,
+        "name": {
+          "local": "San Miguel Centro",
+          "en": "San Miguel Centro",
+          "slug": "san-miguel-centro-sv09001"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "13.245",
+      "lon": "-88.147"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SV09001002",
+    "level": 3,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Comacarán",
+      "en": "Comacaran",
+      "slug": "comacaran-sv09001002"
+    },
+    "code": {
+      "id": "SV09001002",
+      "iso": null
+    },
+    "parent": {
+      "id": "SV09001",
+      "level": 2,
+      "name": {
+        "local": "San Miguel Centro",
+        "en": "San Miguel Centro",
+        "slug": "san-miguel-centro-sv09001"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SV09",
+        "level": 1,
+        "name": {
+          "local": "San Miguel",
+          "en": "San Miguel",
+          "slug": "san-miguel-sv09"
+        }
+      },
+      {
+        "id": "SV09001",
+        "level": 2,
+        "name": {
+          "local": "San Miguel Centro",
+          "en": "San Miguel Centro",
+          "slug": "san-miguel-centro-sv09001"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "13.53",
+      "lon": "-88.062"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SV09001003",
+    "level": 3,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Moncagua",
+      "en": "Moncagua",
+      "slug": "moncagua-sv09001003"
+    },
+    "code": {
+      "id": "SV09001003",
+      "iso": null
+    },
+    "parent": {
+      "id": "SV09001",
+      "level": 2,
+      "name": {
+        "local": "San Miguel Centro",
+        "en": "San Miguel Centro",
+        "slug": "san-miguel-centro-sv09001"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SV09",
+        "level": 1,
+        "name": {
+          "local": "San Miguel",
+          "en": "San Miguel",
+          "slug": "san-miguel-sv09"
+        }
+      },
+      {
+        "id": "SV09001",
+        "level": 2,
+        "name": {
+          "local": "San Miguel Centro",
+          "en": "San Miguel Centro",
+          "slug": "san-miguel-centro-sv09001"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "13.528",
+      "lon": "-88.268"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SV09001004",
+    "level": 3,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Quelepa",
+      "en": "Quelepa",
+      "slug": "quelepa-sv09001004"
+    },
+    "code": {
+      "id": "SV09001004",
+      "iso": null
+    },
+    "parent": {
+      "id": "SV09001",
+      "level": 2,
+      "name": {
+        "local": "San Miguel Centro",
+        "en": "San Miguel Centro",
+        "slug": "san-miguel-centro-sv09001"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SV09",
+        "level": 1,
+        "name": {
+          "local": "San Miguel",
+          "en": "San Miguel",
+          "slug": "san-miguel-sv09"
+        }
+      },
+      {
+        "id": "SV09001",
+        "level": 2,
+        "name": {
+          "local": "San Miguel Centro",
+          "en": "San Miguel Centro",
+          "slug": "san-miguel-centro-sv09001"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "13.521",
+      "lon": "-88.223"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SV09001005",
+    "level": 3,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "San Miguel",
+      "en": "San Miguel",
+      "slug": "san-miguel-sv09001005"
+    },
+    "code": {
+      "id": "SV09001005",
+      "iso": null
+    },
+    "parent": {
+      "id": "SV09001",
+      "level": 2,
+      "name": {
+        "local": "San Miguel Centro",
+        "en": "San Miguel Centro",
+        "slug": "san-miguel-centro-sv09001"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SV09",
+        "level": 1,
+        "name": {
+          "local": "San Miguel",
+          "en": "San Miguel",
+          "slug": "san-miguel-sv09"
+        }
+      },
+      {
+        "id": "SV09001",
+        "level": 2,
+        "name": {
+          "local": "San Miguel Centro",
+          "en": "San Miguel Centro",
+          "slug": "san-miguel-centro-sv09001"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "13.454",
+      "lon": "-88.179"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SV09001006",
+    "level": 3,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Uluazapa",
+      "en": "Uluazapa",
+      "slug": "uluazapa-sv09001006"
+    },
+    "code": {
+      "id": "SV09001006",
+      "iso": null
+    },
+    "parent": {
+      "id": "SV09001",
+      "level": 2,
+      "name": {
+        "local": "San Miguel Centro",
+        "en": "San Miguel Centro",
+        "slug": "san-miguel-centro-sv09001"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SV09",
+        "level": 1,
+        "name": {
+          "local": "San Miguel",
+          "en": "San Miguel",
+          "slug": "san-miguel-sv09"
+        }
+      },
+      {
+        "id": "SV09001",
+        "level": 2,
+        "name": {
+          "local": "San Miguel Centro",
+          "en": "San Miguel Centro",
+          "slug": "san-miguel-centro-sv09001"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "13.485",
+      "lon": "-88.051"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

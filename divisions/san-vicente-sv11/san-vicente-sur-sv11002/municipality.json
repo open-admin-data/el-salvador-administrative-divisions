@@ -1,0 +1,326 @@
+[
+  {
+    "id": "SV11002001",
+    "level": 3,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Guadalupe",
+      "en": "Guadalupe",
+      "slug": "guadalupe-sv11002001"
+    },
+    "code": {
+      "id": "SV11002001",
+      "iso": null
+    },
+    "parent": {
+      "id": "SV11002",
+      "level": 2,
+      "name": {
+        "local": "San Vicente Sur",
+        "en": "San Vicente Sur",
+        "slug": "san-vicente-sur-sv11002"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SV11",
+        "level": 1,
+        "name": {
+          "local": "San Vicente",
+          "en": "San Vicente",
+          "slug": "san-vicente-sv11"
+        }
+      },
+      {
+        "id": "SV11002",
+        "level": 2,
+        "name": {
+          "local": "San Vicente Sur",
+          "en": "San Vicente Sur",
+          "slug": "san-vicente-sur-sv11002"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "13.613",
+      "lon": "-88.862"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SV11002002",
+    "level": 3,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "San Cayetano Istepeque",
+      "en": "San Cayetano Istepeque",
+      "slug": "san-cayetano-istepeque-sv11002002"
+    },
+    "code": {
+      "id": "SV11002002",
+      "iso": null
+    },
+    "parent": {
+      "id": "SV11002",
+      "level": 2,
+      "name": {
+        "local": "San Vicente Sur",
+        "en": "San Vicente Sur",
+        "slug": "san-vicente-sur-sv11002"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SV11",
+        "level": 1,
+        "name": {
+          "local": "San Vicente",
+          "en": "San Vicente",
+          "slug": "san-vicente-sv11"
+        }
+      },
+      {
+        "id": "SV11002",
+        "level": 2,
+        "name": {
+          "local": "San Vicente Sur",
+          "en": "San Vicente Sur",
+          "slug": "san-vicente-sur-sv11002"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "13.649",
+      "lon": "-88.807"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SV11002003",
+    "level": 3,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "San Vicente",
+      "en": "San Vicente",
+      "slug": "san-vicente-sv11002003"
+    },
+    "code": {
+      "id": "SV11002003",
+      "iso": null
+    },
+    "parent": {
+      "id": "SV11002",
+      "level": 2,
+      "name": {
+        "local": "San Vicente Sur",
+        "en": "San Vicente Sur",
+        "slug": "san-vicente-sur-sv11002"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SV11",
+        "level": 1,
+        "name": {
+          "local": "San Vicente",
+          "en": "San Vicente",
+          "slug": "san-vicente-sv11"
+        }
+      },
+      {
+        "id": "SV11002",
+        "level": 2,
+        "name": {
+          "local": "San Vicente Sur",
+          "en": "San Vicente Sur",
+          "slug": "san-vicente-sur-sv11002"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "13.556",
+      "lon": "-88.726"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SV11002004",
+    "level": 3,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Tecoluca",
+      "en": "Tecoluca",
+      "slug": "tecoluca-sv11002004"
+    },
+    "code": {
+      "id": "SV11002004",
+      "iso": null
+    },
+    "parent": {
+      "id": "SV11002",
+      "level": 2,
+      "name": {
+        "local": "San Vicente Sur",
+        "en": "San Vicente Sur",
+        "slug": "san-vicente-sur-sv11002"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SV11",
+        "level": 1,
+        "name": {
+          "local": "San Vicente",
+          "en": "San Vicente",
+          "slug": "san-vicente-sv11"
+        }
+      },
+      {
+        "id": "SV11002",
+        "level": 2,
+        "name": {
+          "local": "San Vicente Sur",
+          "en": "San Vicente Sur",
+          "slug": "san-vicente-sur-sv11002"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "13.418",
+      "lon": "-88.746"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SV11002005",
+    "level": 3,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Tepetitán",
+      "en": "Tepetitan",
+      "slug": "tepetitan-sv11002005"
+    },
+    "code": {
+      "id": "SV11002005",
+      "iso": null
+    },
+    "parent": {
+      "id": "SV11002",
+      "level": 2,
+      "name": {
+        "local": "San Vicente Sur",
+        "en": "San Vicente Sur",
+        "slug": "san-vicente-sur-sv11002"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SV11",
+        "level": 1,
+        "name": {
+          "local": "San Vicente",
+          "en": "San Vicente",
+          "slug": "san-vicente-sv11"
+        }
+      },
+      {
+        "id": "SV11002",
+        "level": 2,
+        "name": {
+          "local": "San Vicente Sur",
+          "en": "San Vicente Sur",
+          "slug": "san-vicente-sur-sv11002"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "13.639",
+      "lon": "-88.836"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SV11002006",
+    "level": 3,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Verapaz",
+      "en": "Verapaz",
+      "slug": "verapaz-sv11002006"
+    },
+    "code": {
+      "id": "SV11002006",
+      "iso": null
+    },
+    "parent": {
+      "id": "SV11002",
+      "level": 2,
+      "name": {
+        "local": "San Vicente Sur",
+        "en": "San Vicente Sur",
+        "slug": "san-vicente-sur-sv11002"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SV11",
+        "level": 1,
+        "name": {
+          "local": "San Vicente",
+          "en": "San Vicente",
+          "slug": "san-vicente-sv11"
+        }
+      },
+      {
+        "id": "SV11002",
+        "level": 2,
+        "name": {
+          "local": "San Vicente Sur",
+          "en": "San Vicente Sur",
+          "slug": "san-vicente-sur-sv11002"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "13.658",
+      "lon": "-88.865"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

@@ -1,0 +1,143 @@
+[
+  {
+    "id": "SV09001",
+    "level": 2,
+    "level_name": {
+      "local": "Distrito",
+      "en": "District"
+    },
+    "name": {
+      "local": "San Miguel Centro",
+      "en": "San Miguel Centro",
+      "slug": "san-miguel-centro-sv09001"
+    },
+    "code": {
+      "id": "SV09001",
+      "iso": null
+    },
+    "parent": {
+      "id": "SV09",
+      "level": 1,
+      "name": {
+        "local": "San Miguel",
+        "en": "San Miguel",
+        "slug": "san-miguel-sv09"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SV09",
+        "level": 1,
+        "name": {
+          "local": "San Miguel",
+          "en": "San Miguel",
+          "slug": "san-miguel-sv09"
+        }
+      }
+    ],
+    "children_count": {
+      "municipality": 6
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "13.39",
+      "lon": "-88.169"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SV09002",
+    "level": 2,
+    "level_name": {
+      "local": "Distrito",
+      "en": "District"
+    },
+    "name": {
+      "local": "San Miguel Norte",
+      "en": "San Miguel Norte",
+      "slug": "san-miguel-norte-sv09002"
+    },
+    "code": {
+      "id": "SV09002",
+      "iso": null
+    },
+    "parent": {
+      "id": "SV09",
+      "level": 1,
+      "name": {
+        "local": "San Miguel",
+        "en": "San Miguel",
+        "slug": "san-miguel-sv09"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SV09",
+        "level": 1,
+        "name": {
+          "local": "San Miguel",
+          "en": "San Miguel",
+          "slug": "san-miguel-sv09"
+        }
+      }
+    ],
+    "children_count": {
+      "municipality": 8
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "13.738",
+      "lon": "-88.383"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SV09003",
+    "level": 2,
+    "level_name": {
+      "local": "Distrito",
+      "en": "District"
+    },
+    "name": {
+      "local": "San Miguel Oeste",
+      "en": "San Miguel Oeste",
+      "slug": "san-miguel-oeste-sv09003"
+    },
+    "code": {
+      "id": "SV09003",
+      "iso": null
+    },
+    "parent": {
+      "id": "SV09",
+      "level": 1,
+      "name": {
+        "local": "San Miguel",
+        "en": "San Miguel",
+        "slug": "san-miguel-sv09"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SV09",
+        "level": 1,
+        "name": {
+          "local": "San Miguel",
+          "en": "San Miguel",
+          "slug": "san-miguel-sv09"
+        }
+      }
+    ],
+    "children_count": {
+      "municipality": 6
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "13.447",
+      "lon": "-88.332"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

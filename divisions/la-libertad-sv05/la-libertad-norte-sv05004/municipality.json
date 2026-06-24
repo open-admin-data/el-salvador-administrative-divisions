@@ -1,0 +1,164 @@
+[
+  {
+    "id": "SV05004001",
+    "level": 3,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Quezaltepeque",
+      "en": "Quezaltepeque",
+      "slug": "quezaltepeque-sv05004001"
+    },
+    "code": {
+      "id": "SV05004001",
+      "iso": null
+    },
+    "parent": {
+      "id": "SV05004",
+      "level": 2,
+      "name": {
+        "local": "La Libertad Norte",
+        "en": "La Libertad Norte",
+        "slug": "la-libertad-norte-sv05004"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SV05",
+        "level": 1,
+        "name": {
+          "local": "La Libertad",
+          "en": "La Libertad",
+          "slug": "la-libertad-sv05"
+        }
+      },
+      {
+        "id": "SV05004",
+        "level": 2,
+        "name": {
+          "local": "La Libertad Norte",
+          "en": "La Libertad Norte",
+          "slug": "la-libertad-norte-sv05004"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "13.838",
+      "lon": "-89.285"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SV05004002",
+    "level": 3,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "San Matías",
+      "en": "San Matias",
+      "slug": "san-matias-sv05004002"
+    },
+    "code": {
+      "id": "SV05004002",
+      "iso": null
+    },
+    "parent": {
+      "id": "SV05004",
+      "level": 2,
+      "name": {
+        "local": "La Libertad Norte",
+        "en": "La Libertad Norte",
+        "slug": "la-libertad-norte-sv05004"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SV05",
+        "level": 1,
+        "name": {
+          "local": "La Libertad",
+          "en": "La Libertad",
+          "slug": "la-libertad-sv05"
+        }
+      },
+      {
+        "id": "SV05004",
+        "level": 2,
+        "name": {
+          "local": "La Libertad Norte",
+          "en": "La Libertad Norte",
+          "slug": "la-libertad-norte-sv05004"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "13.906",
+      "lon": "-89.297"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SV05004003",
+    "level": 3,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "San Pablo Tacachico",
+      "en": "San Pablo Tacachico",
+      "slug": "san-pablo-tacachico-sv05004003"
+    },
+    "code": {
+      "id": "SV05004003",
+      "iso": null
+    },
+    "parent": {
+      "id": "SV05004",
+      "level": 2,
+      "name": {
+        "local": "La Libertad Norte",
+        "en": "La Libertad Norte",
+        "slug": "la-libertad-norte-sv05004"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SV05",
+        "level": 1,
+        "name": {
+          "local": "La Libertad",
+          "en": "La Libertad",
+          "slug": "la-libertad-sv05"
+        }
+      },
+      {
+        "id": "SV05004",
+        "level": 2,
+        "name": {
+          "local": "La Libertad Norte",
+          "en": "La Libertad Norte",
+          "slug": "la-libertad-norte-sv05004"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "13.997",
+      "lon": "-89.333"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

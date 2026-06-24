@@ -1,0 +1,110 @@
+[
+  {
+    "id": "SV12002001",
+    "level": 3,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Coatepeque",
+      "en": "Coatepeque",
+      "slug": "coatepeque-sv12002001"
+    },
+    "code": {
+      "id": "SV12002001",
+      "iso": null
+    },
+    "parent": {
+      "id": "SV12002",
+      "level": 2,
+      "name": {
+        "local": "Santa Ana Este",
+        "en": "Santa Ana Este",
+        "slug": "santa-ana-este-sv12002"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SV12",
+        "level": 1,
+        "name": {
+          "local": "Santa Ana",
+          "en": "Santa Ana",
+          "slug": "santa-ana-sv12"
+        }
+      },
+      {
+        "id": "SV12002",
+        "level": 2,
+        "name": {
+          "local": "Santa Ana Este",
+          "en": "Santa Ana Este",
+          "slug": "santa-ana-este-sv12002"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "13.898",
+      "lon": "-89.47"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SV12002002",
+    "level": 3,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "El Congo",
+      "en": "El Congo",
+      "slug": "el-congo-sv12002002"
+    },
+    "code": {
+      "id": "SV12002002",
+      "iso": null
+    },
+    "parent": {
+      "id": "SV12002",
+      "level": 2,
+      "name": {
+        "local": "Santa Ana Este",
+        "en": "Santa Ana Este",
+        "slug": "santa-ana-este-sv12002"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SV12",
+        "level": 1,
+        "name": {
+          "local": "Santa Ana",
+          "en": "Santa Ana",
+          "slug": "santa-ana-sv12"
+        }
+      },
+      {
+        "id": "SV12002",
+        "level": 2,
+        "name": {
+          "local": "Santa Ana Este",
+          "en": "Santa Ana Este",
+          "slug": "santa-ana-este-sv12002"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "13.839",
+      "lon": "-89.505"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

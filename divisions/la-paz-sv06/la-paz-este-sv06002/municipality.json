@@ -1,0 +1,164 @@
+[
+  {
+    "id": "SV06002001",
+    "level": 3,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "San Juan Nonualco",
+      "en": "San Juan Nonualco",
+      "slug": "san-juan-nonualco-sv06002001"
+    },
+    "code": {
+      "id": "SV06002001",
+      "iso": null
+    },
+    "parent": {
+      "id": "SV06002",
+      "level": 2,
+      "name": {
+        "local": "La Paz Este",
+        "en": "La Paz Este",
+        "slug": "la-paz-este-sv06002"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SV06",
+        "level": 1,
+        "name": {
+          "local": "La Paz",
+          "en": "La Paz",
+          "slug": "la-paz-sv06"
+        }
+      },
+      {
+        "id": "SV06002",
+        "level": 2,
+        "name": {
+          "local": "La Paz Este",
+          "en": "La Paz Este",
+          "slug": "la-paz-este-sv06002"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "13.472",
+      "lon": "-88.9"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SV06002002",
+    "level": 3,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "San Rafael Obrajuelo",
+      "en": "San Rafael Obrajuelo",
+      "slug": "san-rafael-obrajuelo-sv06002002"
+    },
+    "code": {
+      "id": "SV06002002",
+      "iso": null
+    },
+    "parent": {
+      "id": "SV06002",
+      "level": 2,
+      "name": {
+        "local": "La Paz Este",
+        "en": "La Paz Este",
+        "slug": "la-paz-este-sv06002"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SV06",
+        "level": 1,
+        "name": {
+          "local": "La Paz",
+          "en": "La Paz",
+          "slug": "la-paz-sv06"
+        }
+      },
+      {
+        "id": "SV06002",
+        "level": 2,
+        "name": {
+          "local": "La Paz Este",
+          "en": "La Paz Este",
+          "slug": "la-paz-este-sv06002"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "13.495",
+      "lon": "-88.916"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SV06002003",
+    "level": 3,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Zacatecoluca",
+      "en": "Zacatecoluca",
+      "slug": "zacatecoluca-sv06002003"
+    },
+    "code": {
+      "id": "SV06002003",
+      "iso": null
+    },
+    "parent": {
+      "id": "SV06002",
+      "level": 2,
+      "name": {
+        "local": "La Paz Este",
+        "en": "La Paz Este",
+        "slug": "la-paz-este-sv06002"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SV06",
+        "level": 1,
+        "name": {
+          "local": "La Paz",
+          "en": "La Paz",
+          "slug": "la-paz-sv06"
+        }
+      },
+      {
+        "id": "SV06002",
+        "level": 2,
+        "name": {
+          "local": "La Paz Este",
+          "en": "La Paz Este",
+          "slug": "la-paz-este-sv06002"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "13.444",
+      "lon": "-88.857"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

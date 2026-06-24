@@ -1,0 +1,4065 @@
+{
+  "_attribution": "Data from Open Admin Data (https://openadmindata.org/sv/) — CC-BY-4.0. Please cite: https://github.com/open-admin-data/el-salvador-administrative-divisions",
+  "data": [
+    {
+      "id": "SV01",
+      "name": {
+        "local": "Ahuachapán",
+        "en": "Ahuachapan",
+        "slug": "ahuachapan-sv01"
+      },
+      "code": {
+        "id": "SV01",
+        "iso": null
+      },
+      "district": [
+        {
+          "id": "SV01001",
+          "name": {
+            "local": "Ahuachapán Centro",
+            "en": "Ahuachapan Centro",
+            "slug": "ahuachapan-centro-sv01001"
+          },
+          "code": {
+            "id": "SV01001",
+            "iso": null
+          },
+          "municipality": [
+            {
+              "id": "SV01001001",
+              "name": {
+                "local": "Ahuachapán",
+                "en": "Ahuachapan",
+                "slug": "ahuachapan-sv01001001"
+              },
+              "code": {
+                "id": "SV01001001",
+                "iso": null
+              }
+            },
+            {
+              "id": "SV01001002",
+              "name": {
+                "local": "Apaneca",
+                "en": "Apaneca",
+                "slug": "apaneca-sv01001002"
+              },
+              "code": {
+                "id": "SV01001002",
+                "iso": null
+              }
+            },
+            {
+              "id": "SV01001003",
+              "name": {
+                "local": "Concepción de Ataco",
+                "en": "Concepcion de Ataco",
+                "slug": "concepcion-de-ataco-sv01001003"
+              },
+              "code": {
+                "id": "SV01001003",
+                "iso": null
+              }
+            },
+            {
+              "id": "SV01001004",
+              "name": {
+                "local": "Tacuba",
+                "en": "Tacuba",
+                "slug": "tacuba-sv01001004"
+              },
+              "code": {
+                "id": "SV01001004",
+                "iso": null
+              }
+            }
+          ]
+        },
+        {
+          "id": "SV01002",
+          "name": {
+            "local": "Ahuachapán Norte",
+            "en": "Ahuachapan Norte",
+            "slug": "ahuachapan-norte-sv01002"
+          },
+          "code": {
+            "id": "SV01002",
+            "iso": null
+          },
+          "municipality": [
+            {
+              "id": "SV01002001",
+              "name": {
+                "local": "Atiquizaya",
+                "en": "Atiquizaya",
+                "slug": "atiquizaya-sv01002001"
+              },
+              "code": {
+                "id": "SV01002001",
+                "iso": null
+              }
+            },
+            {
+              "id": "SV01002002",
+              "name": {
+                "local": "El Refugio",
+                "en": "El Refugio",
+                "slug": "el-refugio-sv01002002"
+              },
+              "code": {
+                "id": "SV01002002",
+                "iso": null
+              }
+            },
+            {
+              "id": "SV01002003",
+              "name": {
+                "local": "San Lorenzo",
+                "en": "San Lorenzo",
+                "slug": "san-lorenzo-sv01002003"
+              },
+              "code": {
+                "id": "SV01002003",
+                "iso": null
+              }
+            },
+            {
+              "id": "SV01002004",
+              "name": {
+                "local": "Turín",
+                "en": "Turin",
+                "slug": "turin-sv01002004"
+              },
+              "code": {
+                "id": "SV01002004",
+                "iso": null
+              }
+            }
+          ]
+        },
+        {
+          "id": "SV01003",
+          "name": {
+            "local": "Ahuachapán Sur",
+            "en": "Ahuachapan Sur",
+            "slug": "ahuachapan-sur-sv01003"
+          },
+          "code": {
+            "id": "SV01003",
+            "iso": null
+          },
+          "municipality": [
+            {
+              "id": "SV01003001",
+              "name": {
+                "local": "Guaymango",
+                "en": "Guaymango",
+                "slug": "guaymango-sv01003001"
+              },
+              "code": {
+                "id": "SV01003001",
+                "iso": null
+              }
+            },
+            {
+              "id": "SV01003002",
+              "name": {
+                "local": "Jujutla",
+                "en": "Jujutla",
+                "slug": "jujutla-sv01003002"
+              },
+              "code": {
+                "id": "SV01003002",
+                "iso": null
+              }
+            },
+            {
+              "id": "SV01003003",
+              "name": {
+                "local": "San Francisco Menéndez",
+                "en": "San Francisco Menendez",
+                "slug": "san-francisco-menendez-sv01003003"
+              },
+              "code": {
+                "id": "SV01003003",
+                "iso": null
+              }
+            },
+            {
+              "id": "SV01003004",
+              "name": {
+                "local": "San Pedro Puxtla",
+                "en": "San Pedro Puxtla",
+                "slug": "san-pedro-puxtla-sv01003004"
+              },
+              "code": {
+                "id": "SV01003004",
+                "iso": null
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "SV02",
+      "name": {
+        "local": "Cabañas",
+        "en": "Cabanas",
+        "slug": "cabanas-sv02"
+      },
+      "code": {
+        "id": "SV02",
+        "iso": null
+      },
+      "district": [
+        {
+          "id": "SV02001",
+          "name": {
+            "local": "Cabañas Este",
+            "en": "Cabanas Este",
+            "slug": "cabanas-este-sv02001"
+          },
+          "code": {
+            "id": "SV02001",
+            "iso": null
+          },
+          "municipality": [
+            {
+              "id": "SV02001001",
+              "name": {
+                "local": "Dolores",
+                "en": "Dolores",
+                "slug": "dolores-sv02001001"
+              },
+              "code": {
+                "id": "SV02001001",
+                "iso": null
+              }
+            },
+            {
+              "id": "SV02001002",
+              "name": {
+                "local": "Guacotecti",
+                "en": "Guacotecti",
+                "slug": "guacotecti-sv02001002"
+              },
+              "code": {
+                "id": "SV02001002",
+                "iso": null
+              }
+            },
+            {
+              "id": "SV02001003",
+              "name": {
+                "local": "San Isidro",
+                "en": "San Isidro",
+                "slug": "san-isidro-sv02001003"
+              },
+              "code": {
+                "id": "SV02001003",
+                "iso": null
+              }
+            },
+            {
+              "id": "SV02001004",
+              "name": {
+                "local": "Sensuntepeque",
+                "en": "Sensuntepeque",
+                "slug": "sensuntepeque-sv02001004"
+              },
+              "code": {
+                "id": "SV02001004",
+                "iso": null
+              }
+            },
+            {
+              "id": "SV02001005",
+              "name": {
+                "local": "Victoria",
+                "en": "Victoria",
+                "slug": "victoria-sv02001005"
+              },
+              "code": {
+                "id": "SV02001005",
+                "iso": null
+              }
+            }
+          ]
+        },
+        {
+          "id": "SV02002",
+          "name": {
+            "local": "Cabañas Oeste",
+            "en": "Cabanas Oeste",
+            "slug": "cabanas-oeste-sv02002"
+          },
+          "code": {
+            "id": "SV02002",
+            "iso": null
+          },
+          "municipality": [
+            {
+              "id": "SV02002001",
+              "name": {
+                "local": "Cinquera",
+                "en": "Cinquera",
+                "slug": "cinquera-sv02002001"
+              },
+              "code": {
+                "id": "SV02002001",
+                "iso": null
+              }
+            },
+            {
+              "id": "SV02002002",
+              "name": {
+                "local": "Ilobasco",
+                "en": "Ilobasco",
+                "slug": "ilobasco-sv02002002"
+              },
+              "code": {
+                "id": "SV02002002",
+                "iso": null
+              }
+            },
+            {
+              "id": "SV02002003",
+              "name": {
+                "local": "Jutiapa",
+                "en": "Jutiapa",
+                "slug": "jutiapa-sv02002003"
+              },
+              "code": {
+                "id": "SV02002003",
+                "iso": null
+              }
+            },
+            {
+              "id": "SV02002004",
+              "name": {
+                "local": "Tejutepeque",
+                "en": "Tejutepeque",
+                "slug": "tejutepeque-sv02002004"
+              },
+              "code": {
+                "id": "SV02002004",
+                "iso": null
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "SV03",
+      "name": {
+        "local": "Chalatenango",
+        "en": "Chalatenango",
+        "slug": "chalatenango-sv03"
+      },
+      "code": {
+        "id": "SV03",
+        "iso": null
+      },
+      "district": [
+        {
+          "id": "SV03001",
+          "name": {
+            "local": "Chalatenango Centro",
+            "en": "Chalatenango Centro",
+            "slug": "chalatenango-centro-sv03001"
+          },
+          "code": {
+            "id": "SV03001",
+            "iso": null
+          },
+          "municipality": [
+            {
+              "id": "SV03001001",
+              "name": {
+                "local": "Agua Caliente",
+                "en": "Agua Caliente",
+                "slug": "agua-caliente-sv03001001"
+              },
+              "code": {
+                "id": "SV03001001",
+                "iso": null
+              }
+            },
+            {
+              "id": "SV03001002",
+              "name": {
+                "local": "Dulce Nombre de María",
+                "en": "Dulce Nombre de Maria",
+                "slug": "dulce-nombre-de-maria-sv03001002"
+              },
+              "code": {
+                "id": "SV03001002",
+                "iso": null
+              }
+            },
+            {
+              "id": "SV03001003",
+              "name": {
+                "local": "El Paraíso",
+                "en": "El Paraiso",
+                "slug": "el-paraiso-sv03001003"
+              },
+              "code": {
+                "id": "SV03001003",
+                "iso": null
+              }
+            },
+            {
+              "id": "SV03001004",
+              "name": {
+                "local": "La Reina",
+                "en": "La Reina",
+                "slug": "la-reina-sv03001004"
+              },
+              "code": {
+                "id": "SV03001004",
+                "iso": null
+              }
+            },
+            {
+              "id": "SV03001005",
+              "name": {
+                "local": "Nueva Concepción",
+                "en": "Nueva Concepcion",
+                "slug": "nueva-concepcion-sv03001005"
+              },
+              "code": {
+                "id": "SV03001005",
+                "iso": null
+              }
+            },
+            {
+              "id": "SV03001006",
+              "name": {
+                "local": "San Fernando",
+                "en": "San Fernando",
+                "slug": "san-fernando-sv03001006"
+              },
+              "code": {
+                "id": "SV03001006",
+                "iso": null
+              }
+            },
+            {
+              "id": "SV03001007",
+              "name": {
+                "local": "San Francisco Morazán",
+                "en": "San Francisco Morazan",
+                "slug": "san-francisco-morazan-sv03001007"
+              },
+              "code": {
+                "id": "SV03001007",
+                "iso": null
+              }
+            },
+            {
+              "id": "SV03001008",
+              "name": {
+                "local": "San Rafael",
+                "en": "San Rafael",
+                "slug": "san-rafael-sv03001008"
+              },
+              "code": {
+                "id": "SV03001008",
+                "iso": null
+              }
+            },
+            {
+              "id": "SV03001009",
+              "name": {
+                "local": "Santa Rita",
+                "en": "Santa Rita",
+                "slug": "santa-rita-sv03001009"
+              },
+              "code": {
+                "id": "SV03001009",
+                "iso": null
+              }
+            },
+            {
+              "id": "SV03001010",
+              "name": {
+                "local": "Tejutla",
+                "en": "Tejutla",
+                "slug": "tejutla-sv03001010"
+              },
+              "code": {
+                "id": "SV03001010",
+                "iso": null
+              }
+            }
+          ]
+        },
+        {
+          "id": "SV03002",
+          "name": {
+            "local": "Chalatenango Norte",
+            "en": "Chalatenango Norte",
+            "slug": "chalatenango-norte-sv03002"
+          },
+          "code": {
+            "id": "SV03002",
+            "iso": null
+          },
+          "municipality": [
+            {
+              "id": "SV03002001",
+              "name": {
+                "local": "Citalá",
+                "en": "Citala",
+                "slug": "citala-sv03002001"
+              },
+              "code": {
+                "id": "SV03002001",
+                "iso": null
+              }
+            },
+            {
+              "id": "SV03002002",
+              "name": {
+                "local": "La Palma",
+                "en": "La Palma",
+                "slug": "la-palma-sv03002002"
+              },
+              "code": {
+                "id": "SV03002002",
+                "iso": null
+              }
+            },
+            {
+              "id": "SV03002003",
+              "name": {
+                "local": "San Ignacio",
+                "en": "San Ignacio",
+                "slug": "san-ignacio-sv03002003"
+              },
+              "code": {
+                "id": "SV03002003",
+                "iso": null
+              }
+            }
+          ]
+        },
+        {
+          "id": "SV03003",
+          "name": {
+            "local": "Chalatenango Sur",
+            "en": "Chalatenango Sur",
+            "slug": "chalatenango-sur-sv03003"
+          },
+          "code": {
+            "id": "SV03003",
+            "iso": null
+          },
+          "municipality": [
+            {
+              "id": "SV03003001",
+              "name": {
+                "local": "Arcatao",
+                "en": "Arcatao",
+                "slug": "arcatao-sv03003001"
+              },
+              "code": {
+                "id": "SV03003001",
+                "iso": null
+              }
+            },
+            {
+              "id": "SV03003002",
+              "name": {
+                "local": "Azacualpa",
+                "en": "Azacualpa",
+                "slug": "azacualpa-sv03003002"
+              },
+              "code": {
+                "id": "SV03003002",
+                "iso": null
+              }
+            },
+            {
+              "id": "SV03003003",
+              "name": {
+                "local": "San José Cancasque",
+                "en": "San Jose Cancasque",
+                "slug": "san-jose-cancasque-sv03003003"
+              },
+              "code": {
+                "id": "SV03003003",
+                "iso": null
+              }
+            },
+            {
+              "id": "SV03003004",
+              "name": {
+                "local": "Chalatenango",
+                "en": "Chalatenango",
+                "slug": "chalatenango-sv03003004"
+              },
+              "code": {
+                "id": "SV03003004",
+                "iso": null
+              }
+            },
+            {
+              "id": "SV03003005",
+              "name": {
+                "local": "Comalapa",
+                "en": "Comalapa",
+                "slug": "comalapa-sv03003005"
+              },
+              "code": {
+                "id": "SV03003005",
+                "iso": null
+              }
+            },
+            {
+              "id": "SV03003006",
+              "name": {
+                "local": "Concepción Quezaltepeque",
+                "en": "Concepcion Quezaltepeque",
+                "slug": "concepcion-quezaltepeque-sv03003006"
+              },
+              "code": {
+                "id": "SV03003006",
+                "iso": null
+              }
+            },
+            {
+              "id": "SV03003007",
+              "name": {
+                "local": "El Carrizal",
+                "en": "El Carrizal",
+                "slug": "el-carrizal-sv03003007"
+              },
+              "code": {
+                "id": "SV03003007",
+                "iso": null
+              }
+            },
+            {
+              "id": "SV03003008",
+              "name": {
+                "local": "La Laguna",
+                "en": "La Laguna",
+                "slug": "la-laguna-sv03003008"
+              },
+              "code": {
+                "id": "SV03003008",
+                "iso": null
+              }
+            },
+            {
+              "id": "SV03003009",
+              "name": {
+                "local": "San José Las Flores",
+                "en": "San Jose Las Flores",
+                "slug": "san-jose-las-flores-sv03003009"
+              },
+              "code": {
+                "id": "SV03003009",
+                "iso": null
+              }
+            },
+            {
+              "id": "SV03003010",
+              "name": {
+                "local": "Las Vueltas",
+                "en": "Las Vueltas",
+                "slug": "las-vueltas-sv03003010"
+              },
+              "code": {
+                "id": "SV03003010",
+                "iso": null
+              }
+            },
+            {
+              "id": "SV03003011",
+              "name": {
+                "local": "Nombre de Jesús",
+                "en": "Nombre de Jesus",
+                "slug": "nombre-de-jesus-sv03003011"
+              },
+              "code": {
+                "id": "SV03003011",
+                "iso": null
+              }
+            },
+            {
+              "id": "SV03003012",
+              "name": {
+                "local": "Nueva Trinidad",
+                "en": "Nueva Trinidad",
+                "slug": "nueva-trinidad-sv03003012"
+              },
+              "code": {
+                "id": "SV03003012",
+                "iso": null
+              }
+            },
+            {
+              "id": "SV03003013",
+              "name": {
+                "local": "Ojos de Agua",
+                "en": "Ojos de Agua",
+                "slug": "ojos-de-agua-sv03003013"
+              },
+              "code": {
+                "id": "SV03003013",
+                "iso": null
+              }
+            },
+            {
+              "id": "SV03003014",
+              "name": {
+                "local": "Potonico",
+                "en": "Potonico",
+                "slug": "potonico-sv03003014"
+              },
+              "code": {
+                "id": "SV03003014",
+                "iso": null
+              }
+            },
+            {
+              "id": "SV03003015",
+              "name": {
+                "local": "San Antonio de la Cruz",
+                "en": "San Antonio de la Cruz",
+                "slug": "san-antonio-de-la-cruz-sv03003015"
+              },
+              "code": {
+                "id": "SV03003015",
+                "iso": null
+              }
+            },
+            {
+              "id": "SV03003016",
+              "name": {
+                "local": "San Antonio Los Ranchos",
+                "en": "San Antonio Los Ranchos",
+                "slug": "san-antonio-los-ranchos-sv03003016"
+              },
+              "code": {
+                "id": "SV03003016",
+                "iso": null
+              }
+            },
+            {
+              "id": "SV03003017",
+              "name": {
+                "local": "San Francisco Lempa",
+                "en": "San Francisco Lempa",
+                "slug": "san-francisco-lempa-sv03003017"
+              },
+              "code": {
+                "id": "SV03003017",
+                "iso": null
+              }
+            },
+            {
+              "id": "SV03003018",
+              "name": {
+                "local": "San Isidro Labrador",
+                "en": "San Isidro Labrador",
+                "slug": "san-isidro-labrador-sv03003018"
+              },
+              "code": {
+                "id": "SV03003018",
+                "iso": null
+              }
+            },
+            {
+              "id": "SV03003019",
+              "name": {
+                "local": "San Luis del Carmen",
+                "en": "San Luis del Carmen",
+                "slug": "san-luis-del-carmen-sv03003019"
+              },
+              "code": {
+                "id": "SV03003019",
+                "iso": null
+              }
+            },
+            {
+              "id": "SV03003020",
+              "name": {
+                "local": "San Miguel de Mercedes",
+                "en": "San Miguel de Mercedes",
+                "slug": "san-miguel-de-mercedes-sv03003020"
+              },
+              "code": {
+                "id": "SV03003020",
+                "iso": null
+              }
+            }
+          ]
+        },
+        {
+          "id": "SV03999",
+          "name": {
+            "local": "Embalse Cerron Grande",
+            "en": "Embalse Cerron Grande",
+            "slug": "embalse-cerron-grande-sv03999"
+          },
+          "code": {
+            "id": "SV03999",
+            "iso": null
+          },
+          "municipality": [
+            {
+              "id": "SV03999001",
+              "name": {
+                "local": "Embalse Cerron Grande",
+                "en": "Embalse Cerron Grande",
+                "slug": "embalse-cerron-grande-sv03999001"
+              },
+              "code": {
+                "id": "SV03999001",
+                "iso": null
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "SV04",
+      "name": {
+        "local": "Cuscatlán",
+        "en": "Cuscatlan",
+        "slug": "cuscatlan-sv04"
+      },
+      "code": {
+        "id": "SV04",
+        "iso": null
+      },
+      "district": [
+        {
+          "id": "SV04001",
+          "name": {
+            "local": "Cuscatlán Norte",
+            "en": "Cuscatlan Norte",
+            "slug": "cuscatlan-norte-sv04001"
+          },
+          "code": {
+            "id": "SV04001",
+            "iso": null
+          },
+          "municipality": [
+            {
+              "id": "SV04001001",
+              "name": {
+                "local": "Oratorio de Concepción",
+                "en": "Oratorio de Concepcion",
+                "slug": "oratorio-de-concepcion-sv04001001"
+              },
+              "code": {
+                "id": "SV04001001",
+                "iso": null
+              }
+            },
+            {
+              "id": "SV04001002",
+              "name": {
+                "local": "San Bartolomé Perulapía",
+                "en": "San Bartolome Perulapia",
+                "slug": "san-bartolome-perulapia-sv04001002"
+              },
+              "code": {
+                "id": "SV04001002",
+                "iso": null
+              }
+            },
+            {
+              "id": "SV04001003",
+              "name": {
+                "local": "San José Guayabal",
+                "en": "San Jose Guayabal",
+                "slug": "san-jose-guayabal-sv04001003"
+              },
+              "code": {
+                "id": "SV04001003",
+                "iso": null
+              }
+            },
+            {
+              "id": "SV04001004",
+              "name": {
+                "local": "San Pedro Perulapán",
+                "en": "San Pedro Perulapan",
+                "slug": "san-pedro-perulapan-sv04001004"
+              },
+              "code": {
+                "id": "SV04001004",
+                "iso": null
+              }
+            },
+            {
+              "id": "SV04001005",
+              "name": {
+                "local": "Suchitoto",
+                "en": "Suchitoto",
+                "slug": "suchitoto-sv04001005"
+              },
+              "code": {
+                "id": "SV04001005",
+                "iso": null
+              }
+            }
+          ]
+        },
+        {
+          "id": "SV04002",
+          "name": {
+            "local": "Cuscatlán Sur",
+            "en": "Cuscatlan Sur",
+            "slug": "cuscatlan-sur-sv04002"
+          },
+          "code": {
+            "id": "SV04002",
+            "iso": null
+          },
+          "municipality": [
+            {
+              "id": "SV04002001",
+              "name": {
+                "local": "Candelaria",
+                "en": "Candelaria",
+                "slug": "candelaria-sv04002001"
+              },
+              "code": {
+                "id": "SV04002001",
+                "iso": null
+              }
+            },
+            {
+              "id": "SV04002002",
+              "name": {
+                "local": "Cojutepeque",
+                "en": "Cojutepeque",
+                "slug": "cojutepeque-sv04002002"
+              },
+              "code": {
+                "id": "SV04002002",
+                "iso": null
+              }
+            },
+            {
+              "id": "SV04002003",
+              "name": {
+                "local": "El Carmen",
+                "en": "El Carmen",
+                "slug": "el-carmen-sv04002003"
+              },
+              "code": {
+                "id": "SV04002003",
+                "iso": null
+              }
+            },
+            {
+              "id": "SV04002004",
+              "name": {
+                "local": "El Rosario",
+                "en": "El Rosario",
+                "slug": "el-rosario-sv04002004"
+              },
+              "code": {
+                "id": "SV04002004",
+                "iso": null
+              }
+            },
+            {
+              "id": "SV04002005",
+              "name": {
+                "local": "Monte San Juan",
+                "en": "Monte San Juan",
+                "slug": "monte-san-juan-sv04002005"
+              },
+              "code": {
+                "id": "SV04002005",
+                "iso": null
+              }
+            },
+            {
+              "id": "SV04002006",
+              "name": {
+                "local": "San Cristóbal",
+                "en": "San Cristobal",
+                "slug": "san-cristobal-sv04002006"
+              },
+              "code": {
+                "id": "SV04002006",
+                "iso": null
+              }
+            },
+            {
+              "id": "SV04002007",
+              "name": {
+                "local": "San Rafael Cedros",
+                "en": "San Rafael Cedros",
+                "slug": "san-rafael-cedros-sv04002007"
+              },
+              "code": {
+                "id": "SV04002007",
+                "iso": null
+              }
+            },
+            {
+              "id": "SV04002008",
+              "name": {
+                "local": "San Ramón",
+                "en": "San Ramon",
+                "slug": "san-ramon-sv04002008"
+              },
+              "code": {
+                "id": "SV04002008",
+                "iso": null
+              }
+            },
+            {
+              "id": "SV04002009",
+              "name": {
+                "local": "Santa Cruz Analquito",
+                "en": "Santa Cruz Analquito",
+                "slug": "santa-cruz-analquito-sv04002009"
+              },
+              "code": {
+                "id": "SV04002009",
+                "iso": null
+              }
+            },
+            {
+              "id": "SV04002010",
+              "name": {
+                "local": "Santa Cruz Michapa",
+                "en": "Santa Cruz Michapa",
+                "slug": "santa-cruz-michapa-sv04002010"
+              },
+              "code": {
+                "id": "SV04002010",
+                "iso": null
+              }
+            },
+            {
+              "id": "SV04002011",
+              "name": {
+                "local": "Tenancingo",
+                "en": "Tenancingo",
+                "slug": "tenancingo-sv04002011"
+              },
+              "code": {
+                "id": "SV04002011",
+                "iso": null
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "SV05",
+      "name": {
+        "local": "La Libertad",
+        "en": "La Libertad",
+        "slug": "la-libertad-sv05"
+      },
+      "code": {
+        "id": "SV05",
+        "iso": null
+      },
+      "district": [
+        {
+          "id": "SV05001",
+          "name": {
+            "local": "La Libertad Centro",
+            "en": "La Libertad Centro",
+            "slug": "la-libertad-centro-sv05001"
+          },
+          "code": {
+            "id": "SV05001",
+            "iso": null
+          },
+          "municipality": [
+            {
+              "id": "SV05001001",
+              "name": {
+                "local": "Ciudad Arce",
+                "en": "Ciudad Arce",
+                "slug": "ciudad-arce-sv05001001"
+              },
+              "code": {
+                "id": "SV05001001",
+                "iso": null
+              }
+            },
+            {
+              "id": "SV05001002",
+              "name": {
+                "local": "San Juan Opico",
+                "en": "San Juan Opico",
+                "slug": "san-juan-opico-sv05001002"
+              },
+              "code": {
+                "id": "SV05001002",
+                "iso": null
+              }
+            }
+          ]
+        },
+        {
+          "id": "SV05002",
+          "name": {
+            "local": "La Libertad Costa",
+            "en": "La Libertad Costa",
+            "slug": "la-libertad-costa-sv05002"
+          },
+          "code": {
+            "id": "SV05002",
+            "iso": null
+          },
+          "municipality": [
+            {
+              "id": "SV05002001",
+              "name": {
+                "local": "Chiltiupán",
+                "en": "Chiltiupan",
+                "slug": "chiltiupan-sv05002001"
+              },
+              "code": {
+                "id": "SV05002001",
+                "iso": null
+              }
+            },
+            {
+              "id": "SV05002002",
+              "name": {
+                "local": "Jicalapa",
+                "en": "Jicalapa",
+                "slug": "jicalapa-sv05002002"
+              },
+              "code": {
+                "id": "SV05002002",
+                "iso": null
+              }
+            },
+            {
+              "id": "SV05002003",
+              "name": {
+                "local": "La Libertad",
+                "en": "La Libertad",
+                "slug": "la-libertad-sv05002003"
+              },
+              "code": {
+                "id": "SV05002003",
+                "iso": null
+              }
+            },
+            {
+              "id": "SV05002004",
+              "name": {
+                "local": "Tamanique",
+                "en": "Tamanique",
+                "slug": "tamanique-sv05002004"
+              },
+              "code": {
+                "id": "SV05002004",
+                "iso": null
+              }
+            },
+            {
+              "id": "SV05002005",
+              "name": {
+                "local": "Teotepeque",
+                "en": "Teotepeque",
+                "slug": "teotepeque-sv05002005"
+              },
+              "code": {
+                "id": "SV05002005",
+                "iso": null
+              }
+            }
+          ]
+        },
+        {
+          "id": "SV05003",
+          "name": {
+            "local": "La Libertad Este",
+            "en": "La Libertad Este",
+            "slug": "la-libertad-este-sv05003"
+          },
+          "code": {
+            "id": "SV05003",
+            "iso": null
+          },
+          "municipality": [
+            {
+              "id": "SV05003001",
+              "name": {
+                "local": "Antiguo Cuscatlán",
+                "en": "Antiguo Cuscatlan",
+                "slug": "antiguo-cuscatlan-sv05003001"
+              },
+              "code": {
+                "id": "SV05003001",
+                "iso": null
+              }
+            },
+            {
+              "id": "SV05003002",
+              "name": {
+                "local": "Huizúcar",
+                "en": "Huizucar",
+                "slug": "huizucar-sv05003002"
+              },
+              "code": {
+                "id": "SV05003002",
+                "iso": null
+              }
+            },
+            {
+              "id": "SV05003003",
+              "name": {
+                "local": "Nuevo Cuscatlán",
+                "en": "Nuevo Cuscatlan",
+                "slug": "nuevo-cuscatlan-sv05003003"
+              },
+              "code": {
+                "id": "SV05003003",
+                "iso": null
+              }
+            },
+            {
+              "id": "SV05003004",
+              "name": {
+                "local": "San José Villanueva",
+                "en": "San Jose Villanueva",
+                "slug": "san-jose-villanueva-sv05003004"
+              },
+              "code": {
+                "id": "SV05003004",
+                "iso": null
+              }
+            },
+            {
+              "id": "SV05003005",
+              "name": {
+                "local": "Zaragoza",
+                "en": "Zaragoza",
+                "slug": "zaragoza-sv05003005"
+              },
+              "code": {
+                "id": "SV05003005",
+                "iso": null
+              }
+            }
+          ]
+        },
+        {
+          "id": "SV05004",
+          "name": {
+            "local": "La Libertad Norte",
+            "en": "La Libertad Norte",
+            "slug": "la-libertad-norte-sv05004"
+          },
+          "code": {
+            "id": "SV05004",
+            "iso": null
+          },
+          "municipality": [
+            {
+              "id": "SV05004001",
+              "name": {
+                "local": "Quezaltepeque",
+                "en": "Quezaltepeque",
+                "slug": "quezaltepeque-sv05004001"
+              },
+              "code": {
+                "id": "SV05004001",
+                "iso": null
+              }
+            },
+            {
+              "id": "SV05004002",
+              "name": {
+                "local": "San Matías",
+                "en": "San Matias",
+                "slug": "san-matias-sv05004002"
+              },
+              "code": {
+                "id": "SV05004002",
+                "iso": null
+              }
+            },
+            {
+              "id": "SV05004003",
+              "name": {
+                "local": "San Pablo Tacachico",
+                "en": "San Pablo Tacachico",
+                "slug": "san-pablo-tacachico-sv05004003"
+              },
+              "code": {
+                "id": "SV05004003",
+                "iso": null
+              }
+            }
+          ]
+        },
+        {
+          "id": "SV05005",
+          "name": {
+            "local": "La Libertad Oeste",
+            "en": "La Libertad Oeste",
+            "slug": "la-libertad-oeste-sv05005"
+          },
+          "code": {
+            "id": "SV05005",
+            "iso": null
+          },
+          "municipality": [
+            {
+              "id": "SV05005001",
+              "name": {
+                "local": "Colón",
+                "en": "Colon",
+                "slug": "colon-sv05005001"
+              },
+              "code": {
+                "id": "SV05005001",
+                "iso": null
+              }
+            },
+            {
+              "id": "SV05005002",
+              "name": {
+                "local": "Jayaque",
+                "en": "Jayaque",
+                "slug": "jayaque-sv05005002"
+              },
+              "code": {
+                "id": "SV05005002",
+                "iso": null
+              }
+            },
+            {
+              "id": "SV05005003",
+              "name": {
+                "local": "Sacacoyo",
+                "en": "Sacacoyo",
+                "slug": "sacacoyo-sv05005003"
+              },
+              "code": {
+                "id": "SV05005003",
+                "iso": null
+              }
+            },
+            {
+              "id": "SV05005004",
+              "name": {
+                "local": "Talnique",
+                "en": "Talnique",
+                "slug": "talnique-sv05005004"
+              },
+              "code": {
+                "id": "SV05005004",
+                "iso": null
+              }
+            },
+            {
+              "id": "SV05005005",
+              "name": {
+                "local": "Tepecoyo",
+                "en": "Tepecoyo",
+                "slug": "tepecoyo-sv05005005"
+              },
+              "code": {
+                "id": "SV05005005",
+                "iso": null
+              }
+            }
+          ]
+        },
+        {
+          "id": "SV05006",
+          "name": {
+            "local": "La Libertad Sur",
+            "en": "La Libertad Sur",
+            "slug": "la-libertad-sur-sv05006"
+          },
+          "code": {
+            "id": "SV05006",
+            "iso": null
+          },
+          "municipality": [
+            {
+              "id": "SV05006001",
+              "name": {
+                "local": "Comasagua",
+                "en": "Comasagua",
+                "slug": "comasagua-sv05006001"
+              },
+              "code": {
+                "id": "SV05006001",
+                "iso": null
+              }
+            },
+            {
+              "id": "SV05006002",
+              "name": {
+                "local": "Santa Tecla",
+                "en": "Santa Tecla",
+                "slug": "santa-tecla-sv05006002"
+              },
+              "code": {
+                "id": "SV05006002",
+                "iso": null
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "SV06",
+      "name": {
+        "local": "La Paz",
+        "en": "La Paz",
+        "slug": "la-paz-sv06"
+      },
+      "code": {
+        "id": "SV06",
+        "iso": null
+      },
+      "district": [
+        {
+          "id": "SV06001",
+          "name": {
+            "local": "La Paz Centro",
+            "en": "La Paz Centro",
+            "slug": "la-paz-centro-sv06001"
+          },
+          "code": {
+            "id": "SV06001",
+            "iso": null
+          },
+          "municipality": [
+            {
+              "id": "SV06001001",
+              "name": {
+                "local": "El Rosario",
+                "en": "El Rosario",
+                "slug": "el-rosario-sv06001001"
+              },
+              "code": {
+                "id": "SV06001001",
+                "iso": null
+              }
+            },
+            {
+              "id": "SV06001002",
+              "name": {
+                "local": "Jerusalén",
+                "en": "Jerusalen",
+                "slug": "jerusalen-sv06001002"
+              },
+              "code": {
+                "id": "SV06001002",
+                "iso": null
+              }
+            },
+            {
+              "id": "SV06001003",
+              "name": {
+                "local": "Mercedes La Ceiba",
+                "en": "Mercedes La Ceiba",
+                "slug": "mercedes-la-ceiba-sv06001003"
+              },
+              "code": {
+                "id": "SV06001003",
+                "iso": null
+              }
+            },
+            {
+              "id": "SV06001004",
+              "name": {
+                "local": "Paraíso de Osorio",
+                "en": "Paraiso de Osorio",
+                "slug": "paraiso-de-osorio-sv06001004"
+              },
+              "code": {
+                "id": "SV06001004",
+                "iso": null
+              }
+            },
+            {
+              "id": "SV06001005",
+              "name": {
+                "local": "San Antonio Masahuat",
+                "en": "San Antonio Masahuat",
+                "slug": "san-antonio-masahuat-sv06001005"
+              },
+              "code": {
+                "id": "SV06001005",
+                "iso": null
+              }
+            },
+            {
+              "id": "SV06001006",
+              "name": {
+                "local": "San Emigdio",
+                "en": "San Emigdio",
+                "slug": "san-emigdio-sv06001006"
+              },
+              "code": {
+                "id": "SV06001006",
+                "iso": null
+              }
+            },
+            {
+              "id": "SV06001007",
+              "name": {
+                "local": "San Juan Tepezontes",
+                "en": "San Juan Tepezontes",
+                "slug": "san-juan-tepezontes-sv06001007"
+              },
+              "code": {
+                "id": "SV06001007",
+                "iso": null
+              }
+            },
+            {
+              "id": "SV06001008",
+              "name": {
+                "local": "San Luis La Herradura",
+                "en": "San Luis La Herradura",
+                "slug": "san-luis-la-herradura-sv06001008"
+              },
+              "code": {
+                "id": "SV06001008",
+                "iso": null
+              }
+            },
+            {
+              "id": "SV06001009",
+              "name": {
+                "local": "San Miguel Tepezontes",
+                "en": "San Miguel Tepezontes",
+                "slug": "san-miguel-tepezontes-sv06001009"
+              },
+              "code": {
+                "id": "SV06001009",
+                "iso": null
+              }
+            },
+            {
+              "id": "SV06001010",
+              "name": {
+                "local": "San Pedro Nonualco",
+                "en": "San Pedro Nonualco",
+                "slug": "san-pedro-nonualco-sv06001010"
+              },
+              "code": {
+                "id": "SV06001010",
+                "iso": null
+              }
+            },
+            {
+              "id": "SV06001011",
+              "name": {
+                "local": "Santa María Ostuma",
+                "en": "Santa Maria Ostuma",
+                "slug": "santa-maria-ostuma-sv06001011"
+              },
+              "code": {
+                "id": "SV06001011",
+                "iso": null
+              }
+            },
+            {
+              "id": "SV06001012",
+              "name": {
+                "local": "Santiago Nonualco",
+                "en": "Santiago Nonualco",
+                "slug": "santiago-nonualco-sv06001012"
+              },
+              "code": {
+                "id": "SV06001012",
+                "iso": null
+              }
+            }
+          ]
+        },
+        {
+          "id": "SV06002",
+          "name": {
+            "local": "La Paz Este",
+            "en": "La Paz Este",
+            "slug": "la-paz-este-sv06002"
+          },
+          "code": {
+            "id": "SV06002",
+            "iso": null
+          },
+          "municipality": [
+            {
+              "id": "SV06002001",
+              "name": {
+                "local": "San Juan Nonualco",
+                "en": "San Juan Nonualco",
+                "slug": "san-juan-nonualco-sv06002001"
+              },
+              "code": {
+                "id": "SV06002001",
+                "iso": null
+              }
+            },
+            {
+              "id": "SV06002002",
+              "name": {
+                "local": "San Rafael Obrajuelo",
+                "en": "San Rafael Obrajuelo",
+                "slug": "san-rafael-obrajuelo-sv06002002"
+              },
+              "code": {
+                "id": "SV06002002",
+                "iso": null
+              }
+            },
+            {
+              "id": "SV06002003",
+              "name": {
+                "local": "Zacatecoluca",
+                "en": "Zacatecoluca",
+                "slug": "zacatecoluca-sv06002003"
+              },
+              "code": {
+                "id": "SV06002003",
+                "iso": null
+              }
+            }
+          ]
+        },
+        {
+          "id": "SV06003",
+          "name": {
+            "local": "La Paz Oeste",
+            "en": "La Paz Oeste",
+            "slug": "la-paz-oeste-sv06003"
+          },
+          "code": {
+            "id": "SV06003",
+            "iso": null
+          },
+          "municipality": [
+            {
+              "id": "SV06003001",
+              "name": {
+                "local": "Cuyultitán",
+                "en": "Cuyultitan",
+                "slug": "cuyultitan-sv06003001"
+              },
+              "code": {
+                "id": "SV06003001",
+                "iso": null
+              }
+            },
+            {
+              "id": "SV06003002",
+              "name": {
+                "local": "Olocuilta",
+                "en": "Olocuilta",
+                "slug": "olocuilta-sv06003002"
+              },
+              "code": {
+                "id": "SV06003002",
+                "iso": null
+              }
+            },
+            {
+              "id": "SV06003003",
+              "name": {
+                "local": "San Francisco Chinameca",
+                "en": "San Francisco Chinameca",
+                "slug": "san-francisco-chinameca-sv06003003"
+              },
+              "code": {
+                "id": "SV06003003",
+                "iso": null
+              }
+            },
+            {
+              "id": "SV06003004",
+              "name": {
+                "local": "San Juan Talpa",
+                "en": "San Juan Talpa",
+                "slug": "san-juan-talpa-sv06003004"
+              },
+              "code": {
+                "id": "SV06003004",
+                "iso": null
+              }
+            },
+            {
+              "id": "SV06003005",
+              "name": {
+                "local": "San Luis Talpa",
+                "en": "San Luis Talpa",
+                "slug": "san-luis-talpa-sv06003005"
+              },
+              "code": {
+                "id": "SV06003005",
+                "iso": null
+              }
+            },
+            {
+              "id": "SV06003006",
+              "name": {
+                "local": "San Pedro Masahuat",
+                "en": "San Pedro Masahuat",
+                "slug": "san-pedro-masahuat-sv06003006"
+              },
+              "code": {
+                "id": "SV06003006",
+                "iso": null
+              }
+            },
+            {
+              "id": "SV06003007",
+              "name": {
+                "local": "Tapalhuaca",
+                "en": "Tapalhuaca",
+                "slug": "tapalhuaca-sv06003007"
+              },
+              "code": {
+                "id": "SV06003007",
+                "iso": null
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "SV07",
+      "name": {
+        "local": "La Unión",
+        "en": "La Union",
+        "slug": "la-union-sv07"
+      },
+      "code": {
+        "id": "SV07",
+        "iso": null
+      },
+      "district": [
+        {
+          "id": "SV07001",
+          "name": {
+            "local": "La Unión Norte",
+            "en": "La Union Norte",
+            "slug": "la-union-norte-sv07001"
+          },
+          "code": {
+            "id": "SV07001",
+            "iso": null
+          },
+          "municipality": [
+            {
+              "id": "SV07001001",
+              "name": {
+                "local": "Anamorós",
+                "en": "Anamoros",
+                "slug": "anamoros-sv07001001"
+              },
+              "code": {
+                "id": "SV07001001",
+                "iso": null
+              }
+            },
+            {
+              "id": "SV07001002",
+              "name": {
+                "local": "Bolívar",
+                "en": "Bolivar",
+                "slug": "bolivar-sv07001002"
+              },
+              "code": {
+                "id": "SV07001002",
+                "iso": null
+              }
+            },
+            {
+              "id": "SV07001003",
+              "name": {
+                "local": "Concepción de Oriente",
+                "en": "Concepcion de Oriente",
+                "slug": "concepcion-de-oriente-sv07001003"
+              },
+              "code": {
+                "id": "SV07001003",
+                "iso": null
+              }
+            },
+            {
+              "id": "SV07001004",
+              "name": {
+                "local": "El Sauce",
+                "en": "El Sauce",
+                "slug": "el-sauce-sv07001004"
+              },
+              "code": {
+                "id": "SV07001004",
+                "iso": null
+              }
+            },
+            {
+              "id": "SV07001005",
+              "name": {
+                "local": "Lislique",
+                "en": "Lislique",
+                "slug": "lislique-sv07001005"
+              },
+              "code": {
+                "id": "SV07001005",
+                "iso": null
+              }
+            },
+            {
+              "id": "SV07001006",
+              "name": {
+                "local": "Nueva Esparta",
+                "en": "Nueva Esparta",
+                "slug": "nueva-esparta-sv07001006"
+              },
+              "code": {
+                "id": "SV07001006",
+                "iso": null
+              }
+            },
+            {
+              "id": "SV07001007",
+              "name": {
+                "local": "Pasaquina",
+                "en": "Pasaquina",
+                "slug": "pasaquina-sv07001007"
+              },
+              "code": {
+                "id": "SV07001007",
+                "iso": null
+              }
+            },
+            {
+              "id": "SV07001008",
+              "name": {
+                "local": "Polorós",
+                "en": "Poloros",
+                "slug": "poloros-sv07001008"
+              },
+              "code": {
+                "id": "SV07001008",
+                "iso": null
+              }
+            },
+            {
+              "id": "SV07001009",
+              "name": {
+                "local": "San José",
+                "en": "San Jose",
+                "slug": "san-jose-sv07001009"
+              },
+              "code": {
+                "id": "SV07001009",
+                "iso": null
+              }
+            },
+            {
+              "id": "SV07001010",
+              "name": {
+                "local": "Santa Rosa de Lima",
+                "en": "Santa Rosa de Lima",
+                "slug": "santa-rosa-de-lima-sv07001010"
+              },
+              "code": {
+                "id": "SV07001010",
+                "iso": null
+              }
+            }
+          ]
+        },
+        {
+          "id": "SV07002",
+          "name": {
+            "local": "La Unión Sur",
+            "en": "La Union Sur",
+            "slug": "la-union-sur-sv07002"
+          },
+          "code": {
+            "id": "SV07002",
+            "iso": null
+          },
+          "municipality": [
+            {
+              "id": "SV07002001",
+              "name": {
+                "local": "Conchagua",
+                "en": "Conchagua",
+                "slug": "conchagua-sv07002001"
+              },
+              "code": {
+                "id": "SV07002001",
+                "iso": null
+              }
+            },
+            {
+              "id": "SV07002002",
+              "name": {
+                "local": "El Carmen",
+                "en": "El Carmen",
+                "slug": "el-carmen-sv07002002"
+              },
+              "code": {
+                "id": "SV07002002",
+                "iso": null
+              }
+            },
+            {
+              "id": "SV07002003",
+              "name": {
+                "local": "Intipucá",
+                "en": "Intipuca",
+                "slug": "intipuca-sv07002003"
+              },
+              "code": {
+                "id": "SV07002003",
+                "iso": null
+              }
+            },
+            {
+              "id": "SV07002004",
+              "name": {
+                "local": "La Unión",
+                "en": "La Union",
+                "slug": "la-union-sv07002004"
+              },
+              "code": {
+                "id": "SV07002004",
+                "iso": null
+              }
+            },
+            {
+              "id": "SV07002005",
+              "name": {
+                "local": "Meanguera del Golfo",
+                "en": "Meanguera del Golfo",
+                "slug": "meanguera-del-golfo-sv07002005"
+              },
+              "code": {
+                "id": "SV07002005",
+                "iso": null
+              }
+            },
+            {
+              "id": "SV07002006",
+              "name": {
+                "local": "San Alejo",
+                "en": "San Alejo",
+                "slug": "san-alejo-sv07002006"
+              },
+              "code": {
+                "id": "SV07002006",
+                "iso": null
+              }
+            },
+            {
+              "id": "SV07002007",
+              "name": {
+                "local": "Yayantique",
+                "en": "Yayantique",
+                "slug": "yayantique-sv07002007"
+              },
+              "code": {
+                "id": "SV07002007",
+                "iso": null
+              }
+            },
+            {
+              "id": "SV07002008",
+              "name": {
+                "local": "Yucuaiquín",
+                "en": "Yucuaiquin",
+                "slug": "yucuaiquin-sv07002008"
+              },
+              "code": {
+                "id": "SV07002008",
+                "iso": null
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "SV08",
+      "name": {
+        "local": "Morazán",
+        "en": "Morazan",
+        "slug": "morazan-sv08"
+      },
+      "code": {
+        "id": "SV08",
+        "iso": null
+      },
+      "district": [
+        {
+          "id": "SV08001",
+          "name": {
+            "local": "Morazán Norte",
+            "en": "Morazan Norte",
+            "slug": "morazan-norte-sv08001"
+          },
+          "code": {
+            "id": "SV08001",
+            "iso": null
+          },
+          "municipality": [
+            {
+              "id": "SV08001001",
+              "name": {
+                "local": "Arambala",
+                "en": "Arambala",
+                "slug": "arambala-sv08001001"
+              },
+              "code": {
+                "id": "SV08001001",
+                "iso": null
+              }
+            },
+            {
+              "id": "SV08001002",
+              "name": {
+                "local": "Cacaopera",
+                "en": "Cacaopera",
+                "slug": "cacaopera-sv08001002"
+              },
+              "code": {
+                "id": "SV08001002",
+                "iso": null
+              }
+            },
+            {
+              "id": "SV08001003",
+              "name": {
+                "local": "Corinto",
+                "en": "Corinto",
+                "slug": "corinto-sv08001003"
+              },
+              "code": {
+                "id": "SV08001003",
+                "iso": null
+              }
+            },
+            {
+              "id": "SV08001004",
+              "name": {
+                "local": "El Rosario",
+                "en": "El Rosario",
+                "slug": "el-rosario-sv08001004"
+              },
+              "code": {
+                "id": "SV08001004",
+                "iso": null
+              }
+            },
+            {
+              "id": "SV08001005",
+              "name": {
+                "local": "Joateca",
+                "en": "Joateca",
+                "slug": "joateca-sv08001005"
+              },
+              "code": {
+                "id": "SV08001005",
+                "iso": null
+              }
+            },
+            {
+              "id": "SV08001006",
+              "name": {
+                "local": "Jocoaitique",
+                "en": "Jocoaitique",
+                "slug": "jocoaitique-sv08001006"
+              },
+              "code": {
+                "id": "SV08001006",
+                "iso": null
+              }
+            },
+            {
+              "id": "SV08001007",
+              "name": {
+                "local": "Meanguera",
+                "en": "Meanguera",
+                "slug": "meanguera-sv08001007"
+              },
+              "code": {
+                "id": "SV08001007",
+                "iso": null
+              }
+            },
+            {
+              "id": "SV08001008",
+              "name": {
+                "local": "Perquín",
+                "en": "Perquin",
+                "slug": "perquin-sv08001008"
+              },
+              "code": {
+                "id": "SV08001008",
+                "iso": null
+              }
+            },
+            {
+              "id": "SV08001009",
+              "name": {
+                "local": "San Fernando",
+                "en": "San Fernando",
+                "slug": "san-fernando-sv08001009"
+              },
+              "code": {
+                "id": "SV08001009",
+                "iso": null
+              }
+            },
+            {
+              "id": "SV08001010",
+              "name": {
+                "local": "San Isidro",
+                "en": "San Isidro",
+                "slug": "san-isidro-sv08001010"
+              },
+              "code": {
+                "id": "SV08001010",
+                "iso": null
+              }
+            },
+            {
+              "id": "SV08001011",
+              "name": {
+                "local": "Torola",
+                "en": "Torola",
+                "slug": "torola-sv08001011"
+              },
+              "code": {
+                "id": "SV08001011",
+                "iso": null
+              }
+            }
+          ]
+        },
+        {
+          "id": "SV08002",
+          "name": {
+            "local": "Morazán Sur",
+            "en": "Morazan Sur",
+            "slug": "morazan-sur-sv08002"
+          },
+          "code": {
+            "id": "SV08002",
+            "iso": null
+          },
+          "municipality": [
+            {
+              "id": "SV08002001",
+              "name": {
+                "local": "Chilanga",
+                "en": "Chilanga",
+                "slug": "chilanga-sv08002001"
+              },
+              "code": {
+                "id": "SV08002001",
+                "iso": null
+              }
+            },
+            {
+              "id": "SV08002002",
+              "name": {
+                "local": "Delicias de Concepción",
+                "en": "Delicias de Concepcion",
+                "slug": "delicias-de-concepcion-sv08002002"
+              },
+              "code": {
+                "id": "SV08002002",
+                "iso": null
+              }
+            },
+            {
+              "id": "SV08002003",
+              "name": {
+                "local": "El Divisadero",
+                "en": "El Divisadero",
+                "slug": "el-divisadero-sv08002003"
+              },
+              "code": {
+                "id": "SV08002003",
+                "iso": null
+              }
+            },
+            {
+              "id": "SV08002004",
+              "name": {
+                "local": "Gualococti",
+                "en": "Gualococti",
+                "slug": "gualococti-sv08002004"
+              },
+              "code": {
+                "id": "SV08002004",
+                "iso": null
+              }
+            },
+            {
+              "id": "SV08002005",
+              "name": {
+                "local": "Guatajiagua",
+                "en": "Guatajiagua",
+                "slug": "guatajiagua-sv08002005"
+              },
+              "code": {
+                "id": "SV08002005",
+                "iso": null
+              }
+            },
+            {
+              "id": "SV08002006",
+              "name": {
+                "local": "Jocoro",
+                "en": "Jocoro",
+                "slug": "jocoro-sv08002006"
+              },
+              "code": {
+                "id": "SV08002006",
+                "iso": null
+              }
+            },
+            {
+              "id": "SV08002007",
+              "name": {
+                "local": "Lolotiquillo",
+                "en": "Lolotiquillo",
+                "slug": "lolotiquillo-sv08002007"
+              },
+              "code": {
+                "id": "SV08002007",
+                "iso": null
+              }
+            },
+            {
+              "id": "SV08002008",
+              "name": {
+                "local": "Osicala",
+                "en": "Osicala",
+                "slug": "osicala-sv08002008"
+              },
+              "code": {
+                "id": "SV08002008",
+                "iso": null
+              }
+            },
+            {
+              "id": "SV08002009",
+              "name": {
+                "local": "San Carlos",
+                "en": "San Carlos",
+                "slug": "san-carlos-sv08002009"
+              },
+              "code": {
+                "id": "SV08002009",
+                "iso": null
+              }
+            },
+            {
+              "id": "SV08002010",
+              "name": {
+                "local": "San Francisco Gotera",
+                "en": "San Francisco Gotera",
+                "slug": "san-francisco-gotera-sv08002010"
+              },
+              "code": {
+                "id": "SV08002010",
+                "iso": null
+              }
+            },
+            {
+              "id": "SV08002011",
+              "name": {
+                "local": "San Simón",
+                "en": "San Simon",
+                "slug": "san-simon-sv08002011"
+              },
+              "code": {
+                "id": "SV08002011",
+                "iso": null
+              }
+            },
+            {
+              "id": "SV08002012",
+              "name": {
+                "local": "Sensembra",
+                "en": "Sensembra",
+                "slug": "sensembra-sv08002012"
+              },
+              "code": {
+                "id": "SV08002012",
+                "iso": null
+              }
+            },
+            {
+              "id": "SV08002013",
+              "name": {
+                "local": "Sociedad",
+                "en": "Sociedad",
+                "slug": "sociedad-sv08002013"
+              },
+              "code": {
+                "id": "SV08002013",
+                "iso": null
+              }
+            },
+            {
+              "id": "SV08002014",
+              "name": {
+                "local": "Yamabal",
+                "en": "Yamabal",
+                "slug": "yamabal-sv08002014"
+              },
+              "code": {
+                "id": "SV08002014",
+                "iso": null
+              }
+            },
+            {
+              "id": "SV08002015",
+              "name": {
+                "local": "Yoloaiquín",
+                "en": "Yoloaiquin",
+                "slug": "yoloaiquin-sv08002015"
+              },
+              "code": {
+                "id": "SV08002015",
+                "iso": null
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "SV09",
+      "name": {
+        "local": "San Miguel",
+        "en": "San Miguel",
+        "slug": "san-miguel-sv09"
+      },
+      "code": {
+        "id": "SV09",
+        "iso": null
+      },
+      "district": [
+        {
+          "id": "SV09001",
+          "name": {
+            "local": "San Miguel Centro",
+            "en": "San Miguel Centro",
+            "slug": "san-miguel-centro-sv09001"
+          },
+          "code": {
+            "id": "SV09001",
+            "iso": null
+          },
+          "municipality": [
+            {
+              "id": "SV09001001",
+              "name": {
+                "local": "Chirilagua",
+                "en": "Chirilagua",
+                "slug": "chirilagua-sv09001001"
+              },
+              "code": {
+                "id": "SV09001001",
+                "iso": null
+              }
+            },
+            {
+              "id": "SV09001002",
+              "name": {
+                "local": "Comacarán",
+                "en": "Comacaran",
+                "slug": "comacaran-sv09001002"
+              },
+              "code": {
+                "id": "SV09001002",
+                "iso": null
+              }
+            },
+            {
+              "id": "SV09001003",
+              "name": {
+                "local": "Moncagua",
+                "en": "Moncagua",
+                "slug": "moncagua-sv09001003"
+              },
+              "code": {
+                "id": "SV09001003",
+                "iso": null
+              }
+            },
+            {
+              "id": "SV09001004",
+              "name": {
+                "local": "Quelepa",
+                "en": "Quelepa",
+                "slug": "quelepa-sv09001004"
+              },
+              "code": {
+                "id": "SV09001004",
+                "iso": null
+              }
+            },
+            {
+              "id": "SV09001005",
+              "name": {
+                "local": "San Miguel",
+                "en": "San Miguel",
+                "slug": "san-miguel-sv09001005"
+              },
+              "code": {
+                "id": "SV09001005",
+                "iso": null
+              }
+            },
+            {
+              "id": "SV09001006",
+              "name": {
+                "local": "Uluazapa",
+                "en": "Uluazapa",
+                "slug": "uluazapa-sv09001006"
+              },
+              "code": {
+                "id": "SV09001006",
+                "iso": null
+              }
+            }
+          ]
+        },
+        {
+          "id": "SV09002",
+          "name": {
+            "local": "San Miguel Norte",
+            "en": "San Miguel Norte",
+            "slug": "san-miguel-norte-sv09002"
+          },
+          "code": {
+            "id": "SV09002",
+            "iso": null
+          },
+          "municipality": [
+            {
+              "id": "SV09002001",
+              "name": {
+                "local": "Carolina",
+                "en": "Carolina",
+                "slug": "carolina-sv09002001"
+              },
+              "code": {
+                "id": "SV09002001",
+                "iso": null
+              }
+            },
+            {
+              "id": "SV09002002",
+              "name": {
+                "local": "Chapeltique",
+                "en": "Chapeltique",
+                "slug": "chapeltique-sv09002002"
+              },
+              "code": {
+                "id": "SV09002002",
+                "iso": null
+              }
+            },
+            {
+              "id": "SV09002003",
+              "name": {
+                "local": "Ciudad Barrios",
+                "en": "Ciudad Barrios",
+                "slug": "ciudad-barrios-sv09002003"
+              },
+              "code": {
+                "id": "SV09002003",
+                "iso": null
+              }
+            },
+            {
+              "id": "SV09002004",
+              "name": {
+                "local": "Nuevo Edén de San Juan",
+                "en": "Nuevo Eden de San Juan",
+                "slug": "nuevo-eden-de-san-juan-sv09002004"
+              },
+              "code": {
+                "id": "SV09002004",
+                "iso": null
+              }
+            },
+            {
+              "id": "SV09002005",
+              "name": {
+                "local": "San Antonio",
+                "en": "San Antonio",
+                "slug": "san-antonio-sv09002005"
+              },
+              "code": {
+                "id": "SV09002005",
+                "iso": null
+              }
+            },
+            {
+              "id": "SV09002006",
+              "name": {
+                "local": "San Gerardo",
+                "en": "San Gerardo",
+                "slug": "san-gerardo-sv09002006"
+              },
+              "code": {
+                "id": "SV09002006",
+                "iso": null
+              }
+            },
+            {
+              "id": "SV09002007",
+              "name": {
+                "local": "San Luis de la Reina",
+                "en": "San Luis de la Reina",
+                "slug": "san-luis-de-la-reina-sv09002007"
+              },
+              "code": {
+                "id": "SV09002007",
+                "iso": null
+              }
+            },
+            {
+              "id": "SV09002008",
+              "name": {
+                "local": "Sesori",
+                "en": "Sesori",
+                "slug": "sesori-sv09002008"
+              },
+              "code": {
+                "id": "SV09002008",
+                "iso": null
+              }
+            }
+          ]
+        },
+        {
+          "id": "SV09003",
+          "name": {
+            "local": "San Miguel Oeste",
+            "en": "San Miguel Oeste",
+            "slug": "san-miguel-oeste-sv09003"
+          },
+          "code": {
+            "id": "SV09003",
+            "iso": null
+          },
+          "municipality": [
+            {
+              "id": "SV09003001",
+              "name": {
+                "local": "Chinameca",
+                "en": "Chinameca",
+                "slug": "chinameca-sv09003001"
+              },
+              "code": {
+                "id": "SV09003001",
+                "iso": null
+              }
+            },
+            {
+              "id": "SV09003002",
+              "name": {
+                "local": "El Tránsito",
+                "en": "El Transito",
+                "slug": "el-transito-sv09003002"
+              },
+              "code": {
+                "id": "SV09003002",
+                "iso": null
+              }
+            },
+            {
+              "id": "SV09003003",
+              "name": {
+                "local": "Lolotique",
+                "en": "Lolotique",
+                "slug": "lolotique-sv09003003"
+              },
+              "code": {
+                "id": "SV09003003",
+                "iso": null
+              }
+            },
+            {
+              "id": "SV09003004",
+              "name": {
+                "local": "Nueva Guadalupe",
+                "en": "Nueva Guadalupe",
+                "slug": "nueva-guadalupe-sv09003004"
+              },
+              "code": {
+                "id": "SV09003004",
+                "iso": null
+              }
+            },
+            {
+              "id": "SV09003005",
+              "name": {
+                "local": "San Jorge",
+                "en": "San Jorge",
+                "slug": "san-jorge-sv09003005"
+              },
+              "code": {
+                "id": "SV09003005",
+                "iso": null
+              }
+            },
+            {
+              "id": "SV09003006",
+              "name": {
+                "local": "San Rafael",
+                "en": "San Rafael",
+                "slug": "san-rafael-sv09003006"
+              },
+              "code": {
+                "id": "SV09003006",
+                "iso": null
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "SV10",
+      "name": {
+        "local": "San Salvador",
+        "en": "San Salvador",
+        "slug": "san-salvador-sv10"
+      },
+      "code": {
+        "id": "SV10",
+        "iso": null
+      },
+      "district": [
+        {
+          "id": "SV10001",
+          "name": {
+            "local": "San Salvador Centro",
+            "en": "San Salvador Centro",
+            "slug": "san-salvador-centro-sv10001"
+          },
+          "code": {
+            "id": "SV10001",
+            "iso": null
+          },
+          "municipality": [
+            {
+              "id": "SV10001001",
+              "name": {
+                "local": "Ayutuxtepeque",
+                "en": "Ayutuxtepeque",
+                "slug": "ayutuxtepeque-sv10001001"
+              },
+              "code": {
+                "id": "SV10001001",
+                "iso": null
+              }
+            },
+            {
+              "id": "SV10001002",
+              "name": {
+                "local": "Cuscatancingo",
+                "en": "Cuscatancingo",
+                "slug": "cuscatancingo-sv10001002"
+              },
+              "code": {
+                "id": "SV10001002",
+                "iso": null
+              }
+            },
+            {
+              "id": "SV10001003",
+              "name": {
+                "local": "Delgado",
+                "en": "Delgado",
+                "slug": "delgado-sv10001003"
+              },
+              "code": {
+                "id": "SV10001003",
+                "iso": null
+              }
+            },
+            {
+              "id": "SV10001004",
+              "name": {
+                "local": "Mejicanos",
+                "en": "Mejicanos",
+                "slug": "mejicanos-sv10001004"
+              },
+              "code": {
+                "id": "SV10001004",
+                "iso": null
+              }
+            },
+            {
+              "id": "SV10001005",
+              "name": {
+                "local": "San Salvador",
+                "en": "San Salvador",
+                "slug": "san-salvador-sv10001005"
+              },
+              "code": {
+                "id": "SV10001005",
+                "iso": null
+              }
+            }
+          ]
+        },
+        {
+          "id": "SV10002",
+          "name": {
+            "local": "San Salvador Este",
+            "en": "San Salvador Este",
+            "slug": "san-salvador-este-sv10002"
+          },
+          "code": {
+            "id": "SV10002",
+            "iso": null
+          },
+          "municipality": [
+            {
+              "id": "SV10002001",
+              "name": {
+                "local": "Ilopango",
+                "en": "Ilopango",
+                "slug": "ilopango-sv10002001"
+              },
+              "code": {
+                "id": "SV10002001",
+                "iso": null
+              }
+            },
+            {
+              "id": "SV10002002",
+              "name": {
+                "local": "San Martín",
+                "en": "San Martin",
+                "slug": "san-martin-sv10002002"
+              },
+              "code": {
+                "id": "SV10002002",
+                "iso": null
+              }
+            },
+            {
+              "id": "SV10002003",
+              "name": {
+                "local": "Soyapango",
+                "en": "Soyapango",
+                "slug": "soyapango-sv10002003"
+              },
+              "code": {
+                "id": "SV10002003",
+                "iso": null
+              }
+            },
+            {
+              "id": "SV10002004",
+              "name": {
+                "local": "Tonacatepeque",
+                "en": "Tonacatepeque",
+                "slug": "tonacatepeque-sv10002004"
+              },
+              "code": {
+                "id": "SV10002004",
+                "iso": null
+              }
+            }
+          ]
+        },
+        {
+          "id": "SV10003",
+          "name": {
+            "local": "San Salvador Norte",
+            "en": "San Salvador Norte",
+            "slug": "san-salvador-norte-sv10003"
+          },
+          "code": {
+            "id": "SV10003",
+            "iso": null
+          },
+          "municipality": [
+            {
+              "id": "SV10003001",
+              "name": {
+                "local": "Aguilares",
+                "en": "Aguilares",
+                "slug": "aguilares-sv10003001"
+              },
+              "code": {
+                "id": "SV10003001",
+                "iso": null
+              }
+            },
+            {
+              "id": "SV10003002",
+              "name": {
+                "local": "El Paisnal",
+                "en": "El Paisnal",
+                "slug": "el-paisnal-sv10003002"
+              },
+              "code": {
+                "id": "SV10003002",
+                "iso": null
+              }
+            },
+            {
+              "id": "SV10003003",
+              "name": {
+                "local": "Guazapa",
+                "en": "Guazapa",
+                "slug": "guazapa-sv10003003"
+              },
+              "code": {
+                "id": "SV10003003",
+                "iso": null
+              }
+            }
+          ]
+        },
+        {
+          "id": "SV10004",
+          "name": {
+            "local": "San Salvador Oeste",
+            "en": "San Salvador Oeste",
+            "slug": "san-salvador-oeste-sv10004"
+          },
+          "code": {
+            "id": "SV10004",
+            "iso": null
+          },
+          "municipality": [
+            {
+              "id": "SV10004001",
+              "name": {
+                "local": "Apopa",
+                "en": "Apopa",
+                "slug": "apopa-sv10004001"
+              },
+              "code": {
+                "id": "SV10004001",
+                "iso": null
+              }
+            },
+            {
+              "id": "SV10004002",
+              "name": {
+                "local": "Nejapa",
+                "en": "Nejapa",
+                "slug": "nejapa-sv10004002"
+              },
+              "code": {
+                "id": "SV10004002",
+                "iso": null
+              }
+            }
+          ]
+        },
+        {
+          "id": "SV10005",
+          "name": {
+            "local": "San Salvador Sur",
+            "en": "San Salvador Sur",
+            "slug": "san-salvador-sur-sv10005"
+          },
+          "code": {
+            "id": "SV10005",
+            "iso": null
+          },
+          "municipality": [
+            {
+              "id": "SV10005001",
+              "name": {
+                "local": "Panchimalco",
+                "en": "Panchimalco",
+                "slug": "panchimalco-sv10005001"
+              },
+              "code": {
+                "id": "SV10005001",
+                "iso": null
+              }
+            },
+            {
+              "id": "SV10005002",
+              "name": {
+                "local": "Rosario de Mora",
+                "en": "Rosario de Mora",
+                "slug": "rosario-de-mora-sv10005002"
+              },
+              "code": {
+                "id": "SV10005002",
+                "iso": null
+              }
+            },
+            {
+              "id": "SV10005003",
+              "name": {
+                "local": "San Marcos",
+                "en": "San Marcos",
+                "slug": "san-marcos-sv10005003"
+              },
+              "code": {
+                "id": "SV10005003",
+                "iso": null
+              }
+            },
+            {
+              "id": "SV10005004",
+              "name": {
+                "local": "Santiago Texacuangos",
+                "en": "Santiago Texacuangos",
+                "slug": "santiago-texacuangos-sv10005004"
+              },
+              "code": {
+                "id": "SV10005004",
+                "iso": null
+              }
+            },
+            {
+              "id": "SV10005005",
+              "name": {
+                "local": "Santo Tomás",
+                "en": "Santo Tomas",
+                "slug": "santo-tomas-sv10005005"
+              },
+              "code": {
+                "id": "SV10005005",
+                "iso": null
+              }
+            }
+          ]
+        },
+        {
+          "id": "SV10899",
+          "name": {
+            "local": "Lago de Llopango",
+            "en": "Lago de Llopango",
+            "slug": "lago-de-llopango-sv10899"
+          },
+          "code": {
+            "id": "SV10899",
+            "iso": null
+          },
+          "municipality": [
+            {
+              "id": "SV10899001",
+              "name": {
+                "local": "Lago de Llopango",
+                "en": "Lago de Llopango",
+                "slug": "lago-de-llopango-sv10899001"
+              },
+              "code": {
+                "id": "SV10899001",
+                "iso": null
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "SV11",
+      "name": {
+        "local": "San Vicente",
+        "en": "San Vicente",
+        "slug": "san-vicente-sv11"
+      },
+      "code": {
+        "id": "SV11",
+        "iso": null
+      },
+      "district": [
+        {
+          "id": "SV11001",
+          "name": {
+            "local": "San Vicente Norte",
+            "en": "San Vicente Norte",
+            "slug": "san-vicente-norte-sv11001"
+          },
+          "code": {
+            "id": "SV11001",
+            "iso": null
+          },
+          "municipality": [
+            {
+              "id": "SV11001001",
+              "name": {
+                "local": "Apastepeque",
+                "en": "Apastepeque",
+                "slug": "apastepeque-sv11001001"
+              },
+              "code": {
+                "id": "SV11001001",
+                "iso": null
+              }
+            },
+            {
+              "id": "SV11001002",
+              "name": {
+                "local": "San Esteban Catarina",
+                "en": "San Esteban Catarina",
+                "slug": "san-esteban-catarina-sv11001002"
+              },
+              "code": {
+                "id": "SV11001002",
+                "iso": null
+              }
+            },
+            {
+              "id": "SV11001003",
+              "name": {
+                "local": "San Ildefonso",
+                "en": "San Ildefonso",
+                "slug": "san-ildefonso-sv11001003"
+              },
+              "code": {
+                "id": "SV11001003",
+                "iso": null
+              }
+            },
+            {
+              "id": "SV11001004",
+              "name": {
+                "local": "San Lorenzo",
+                "en": "San Lorenzo",
+                "slug": "san-lorenzo-sv11001004"
+              },
+              "code": {
+                "id": "SV11001004",
+                "iso": null
+              }
+            },
+            {
+              "id": "SV11001005",
+              "name": {
+                "local": "San Sebastián",
+                "en": "San Sebastian",
+                "slug": "san-sebastian-sv11001005"
+              },
+              "code": {
+                "id": "SV11001005",
+                "iso": null
+              }
+            },
+            {
+              "id": "SV11001006",
+              "name": {
+                "local": "Santa Clara",
+                "en": "Santa Clara",
+                "slug": "santa-clara-sv11001006"
+              },
+              "code": {
+                "id": "SV11001006",
+                "iso": null
+              }
+            },
+            {
+              "id": "SV11001007",
+              "name": {
+                "local": "Santo Domingo",
+                "en": "Santo Domingo",
+                "slug": "santo-domingo-sv11001007"
+              },
+              "code": {
+                "id": "SV11001007",
+                "iso": null
+              }
+            }
+          ]
+        },
+        {
+          "id": "SV11002",
+          "name": {
+            "local": "San Vicente Sur",
+            "en": "San Vicente Sur",
+            "slug": "san-vicente-sur-sv11002"
+          },
+          "code": {
+            "id": "SV11002",
+            "iso": null
+          },
+          "municipality": [
+            {
+              "id": "SV11002001",
+              "name": {
+                "local": "Guadalupe",
+                "en": "Guadalupe",
+                "slug": "guadalupe-sv11002001"
+              },
+              "code": {
+                "id": "SV11002001",
+                "iso": null
+              }
+            },
+            {
+              "id": "SV11002002",
+              "name": {
+                "local": "San Cayetano Istepeque",
+                "en": "San Cayetano Istepeque",
+                "slug": "san-cayetano-istepeque-sv11002002"
+              },
+              "code": {
+                "id": "SV11002002",
+                "iso": null
+              }
+            },
+            {
+              "id": "SV11002003",
+              "name": {
+                "local": "San Vicente",
+                "en": "San Vicente",
+                "slug": "san-vicente-sv11002003"
+              },
+              "code": {
+                "id": "SV11002003",
+                "iso": null
+              }
+            },
+            {
+              "id": "SV11002004",
+              "name": {
+                "local": "Tecoluca",
+                "en": "Tecoluca",
+                "slug": "tecoluca-sv11002004"
+              },
+              "code": {
+                "id": "SV11002004",
+                "iso": null
+              }
+            },
+            {
+              "id": "SV11002005",
+              "name": {
+                "local": "Tepetitán",
+                "en": "Tepetitan",
+                "slug": "tepetitan-sv11002005"
+              },
+              "code": {
+                "id": "SV11002005",
+                "iso": null
+              }
+            },
+            {
+              "id": "SV11002006",
+              "name": {
+                "local": "Verapaz",
+                "en": "Verapaz",
+                "slug": "verapaz-sv11002006"
+              },
+              "code": {
+                "id": "SV11002006",
+                "iso": null
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "SV12",
+      "name": {
+        "local": "Santa Ana",
+        "en": "Santa Ana",
+        "slug": "santa-ana-sv12"
+      },
+      "code": {
+        "id": "SV12",
+        "iso": null
+      },
+      "district": [
+        {
+          "id": "SV12001",
+          "name": {
+            "local": "Santa Ana Centro",
+            "en": "Santa Ana Centro",
+            "slug": "santa-ana-centro-sv12001"
+          },
+          "code": {
+            "id": "SV12001",
+            "iso": null
+          },
+          "municipality": [
+            {
+              "id": "SV12001001",
+              "name": {
+                "local": "Santa Ana",
+                "en": "Santa Ana",
+                "slug": "santa-ana-sv12001001"
+              },
+              "code": {
+                "id": "SV12001001",
+                "iso": null
+              }
+            }
+          ]
+        },
+        {
+          "id": "SV12002",
+          "name": {
+            "local": "Santa Ana Este",
+            "en": "Santa Ana Este",
+            "slug": "santa-ana-este-sv12002"
+          },
+          "code": {
+            "id": "SV12002",
+            "iso": null
+          },
+          "municipality": [
+            {
+              "id": "SV12002001",
+              "name": {
+                "local": "Coatepeque",
+                "en": "Coatepeque",
+                "slug": "coatepeque-sv12002001"
+              },
+              "code": {
+                "id": "SV12002001",
+                "iso": null
+              }
+            },
+            {
+              "id": "SV12002002",
+              "name": {
+                "local": "El Congo",
+                "en": "El Congo",
+                "slug": "el-congo-sv12002002"
+              },
+              "code": {
+                "id": "SV12002002",
+                "iso": null
+              }
+            }
+          ]
+        },
+        {
+          "id": "SV12003",
+          "name": {
+            "local": "Santa Ana Norte",
+            "en": "Santa Ana Norte",
+            "slug": "santa-ana-norte-sv12003"
+          },
+          "code": {
+            "id": "SV12003",
+            "iso": null
+          },
+          "municipality": [
+            {
+              "id": "SV12003001",
+              "name": {
+                "local": "Masahuat",
+                "en": "Masahuat",
+                "slug": "masahuat-sv12003001"
+              },
+              "code": {
+                "id": "SV12003001",
+                "iso": null
+              }
+            },
+            {
+              "id": "SV12003002",
+              "name": {
+                "local": "Metapán",
+                "en": "Metapan",
+                "slug": "metapan-sv12003002"
+              },
+              "code": {
+                "id": "SV12003002",
+                "iso": null
+              }
+            },
+            {
+              "id": "SV12003003",
+              "name": {
+                "local": "Santa Rosa Guachipilín",
+                "en": "Santa Rosa Guachipilin",
+                "slug": "santa-rosa-guachipilin-sv12003003"
+              },
+              "code": {
+                "id": "SV12003003",
+                "iso": null
+              }
+            },
+            {
+              "id": "SV12003004",
+              "name": {
+                "local": "Texistepeque",
+                "en": "Texistepeque",
+                "slug": "texistepeque-sv12003004"
+              },
+              "code": {
+                "id": "SV12003004",
+                "iso": null
+              }
+            }
+          ]
+        },
+        {
+          "id": "SV12004",
+          "name": {
+            "local": "Santa Ana Oeste",
+            "en": "Santa Ana Oeste",
+            "slug": "santa-ana-oeste-sv12004"
+          },
+          "code": {
+            "id": "SV12004",
+            "iso": null
+          },
+          "municipality": [
+            {
+              "id": "SV12004001",
+              "name": {
+                "local": "Candelaria de la Frontera",
+                "en": "Candelaria de la Frontera",
+                "slug": "candelaria-de-la-frontera-sv12004001"
+              },
+              "code": {
+                "id": "SV12004001",
+                "iso": null
+              }
+            },
+            {
+              "id": "SV12004002",
+              "name": {
+                "local": "Chalchuapa",
+                "en": "Chalchuapa",
+                "slug": "chalchuapa-sv12004002"
+              },
+              "code": {
+                "id": "SV12004002",
+                "iso": null
+              }
+            },
+            {
+              "id": "SV12004003",
+              "name": {
+                "local": "El Porvenir",
+                "en": "El Porvenir",
+                "slug": "el-porvenir-sv12004003"
+              },
+              "code": {
+                "id": "SV12004003",
+                "iso": null
+              }
+            },
+            {
+              "id": "SV12004004",
+              "name": {
+                "local": "San Antonio Pajonal",
+                "en": "San Antonio Pajonal",
+                "slug": "san-antonio-pajonal-sv12004004"
+              },
+              "code": {
+                "id": "SV12004004",
+                "iso": null
+              }
+            },
+            {
+              "id": "SV12004005",
+              "name": {
+                "local": "San Sebastián Salitrillo",
+                "en": "San Sebastian Salitrillo",
+                "slug": "san-sebastian-salitrillo-sv12004005"
+              },
+              "code": {
+                "id": "SV12004005",
+                "iso": null
+              }
+            },
+            {
+              "id": "SV12004006",
+              "name": {
+                "local": "Santiago de la Frontera",
+                "en": "Santiago de la Frontera",
+                "slug": "santiago-de-la-frontera-sv12004006"
+              },
+              "code": {
+                "id": "SV12004006",
+                "iso": null
+              }
+            }
+          ]
+        },
+        {
+          "id": "SV12998",
+          "name": {
+            "local": "Lago de Guija",
+            "en": "Lago de Guija",
+            "slug": "lago-de-guija-sv12998"
+          },
+          "code": {
+            "id": "SV12998",
+            "iso": null
+          },
+          "municipality": [
+            {
+              "id": "SV12998001",
+              "name": {
+                "local": "Lago de Guija",
+                "en": "Lago de Guija",
+                "slug": "lago-de-guija-sv12998001"
+              },
+              "code": {
+                "id": "SV12998001",
+                "iso": null
+              }
+            }
+          ]
+        },
+        {
+          "id": "SV12999",
+          "name": {
+            "local": "Lago de Coatepeque",
+            "en": "Lago de Coatepeque",
+            "slug": "lago-de-coatepeque-sv12999"
+          },
+          "code": {
+            "id": "SV12999",
+            "iso": null
+          },
+          "municipality": [
+            {
+              "id": "SV12999001",
+              "name": {
+                "local": "Lago de Coatepeque",
+                "en": "Lago de Coatepeque",
+                "slug": "lago-de-coatepeque-sv12999001"
+              },
+              "code": {
+                "id": "SV12999001",
+                "iso": null
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "SV13",
+      "name": {
+        "local": "Sonsonate",
+        "en": "Sonsonate",
+        "slug": "sonsonate-sv13"
+      },
+      "code": {
+        "id": "SV13",
+        "iso": null
+      },
+      "district": [
+        {
+          "id": "SV13001",
+          "name": {
+            "local": "Sonsonate Centro",
+            "en": "Sonsonate Centro",
+            "slug": "sonsonate-centro-sv13001"
+          },
+          "code": {
+            "id": "SV13001",
+            "iso": null
+          },
+          "municipality": [
+            {
+              "id": "SV13001001",
+              "name": {
+                "local": "Nahulingo",
+                "en": "Nahulingo",
+                "slug": "nahulingo-sv13001001"
+              },
+              "code": {
+                "id": "SV13001001",
+                "iso": null
+              }
+            },
+            {
+              "id": "SV13001002",
+              "name": {
+                "local": "San Antonio del Monte",
+                "en": "San Antonio del Monte",
+                "slug": "san-antonio-del-monte-sv13001002"
+              },
+              "code": {
+                "id": "SV13001002",
+                "iso": null
+              }
+            },
+            {
+              "id": "SV13001003",
+              "name": {
+                "local": "Santo Domingo",
+                "en": "Santo Domingo",
+                "slug": "santo-domingo-sv13001003"
+              },
+              "code": {
+                "id": "SV13001003",
+                "iso": null
+              }
+            },
+            {
+              "id": "SV13001004",
+              "name": {
+                "local": "Sonsonate",
+                "en": "Sonsonate",
+                "slug": "sonsonate-sv13001004"
+              },
+              "code": {
+                "id": "SV13001004",
+                "iso": null
+              }
+            },
+            {
+              "id": "SV13001005",
+              "name": {
+                "local": "Sonzacate",
+                "en": "Sonzacate",
+                "slug": "sonzacate-sv13001005"
+              },
+              "code": {
+                "id": "SV13001005",
+                "iso": null
+              }
+            }
+          ]
+        },
+        {
+          "id": "SV13002",
+          "name": {
+            "local": "Sonsonate Este",
+            "en": "Sonsonate Este",
+            "slug": "sonsonate-este-sv13002"
+          },
+          "code": {
+            "id": "SV13002",
+            "iso": null
+          },
+          "municipality": [
+            {
+              "id": "SV13002001",
+              "name": {
+                "local": "Armenia",
+                "en": "Armenia",
+                "slug": "armenia-sv13002001"
+              },
+              "code": {
+                "id": "SV13002001",
+                "iso": null
+              }
+            },
+            {
+              "id": "SV13002002",
+              "name": {
+                "local": "Caluco",
+                "en": "Caluco",
+                "slug": "caluco-sv13002002"
+              },
+              "code": {
+                "id": "SV13002002",
+                "iso": null
+              }
+            },
+            {
+              "id": "SV13002003",
+              "name": {
+                "local": "Cuisnahuat",
+                "en": "Cuisnahuat",
+                "slug": "cuisnahuat-sv13002003"
+              },
+              "code": {
+                "id": "SV13002003",
+                "iso": null
+              }
+            },
+            {
+              "id": "SV13002004",
+              "name": {
+                "local": "Izalco",
+                "en": "Izalco",
+                "slug": "izalco-sv13002004"
+              },
+              "code": {
+                "id": "SV13002004",
+                "iso": null
+              }
+            },
+            {
+              "id": "SV13002005",
+              "name": {
+                "local": "San Julián",
+                "en": "San Julian",
+                "slug": "san-julian-sv13002005"
+              },
+              "code": {
+                "id": "SV13002005",
+                "iso": null
+              }
+            },
+            {
+              "id": "SV13002006",
+              "name": {
+                "local": "Santa Isabel Ishuatán",
+                "en": "Santa Isabel Ishuatan",
+                "slug": "santa-isabel-ishuatan-sv13002006"
+              },
+              "code": {
+                "id": "SV13002006",
+                "iso": null
+              }
+            }
+          ]
+        },
+        {
+          "id": "SV13003",
+          "name": {
+            "local": "Sonsonate Norte",
+            "en": "Sonsonate Norte",
+            "slug": "sonsonate-norte-sv13003"
+          },
+          "code": {
+            "id": "SV13003",
+            "iso": null
+          },
+          "municipality": [
+            {
+              "id": "SV13003001",
+              "name": {
+                "local": "Juayúa",
+                "en": "Juayua",
+                "slug": "juayua-sv13003001"
+              },
+              "code": {
+                "id": "SV13003001",
+                "iso": null
+              }
+            },
+            {
+              "id": "SV13003002",
+              "name": {
+                "local": "Nahuizalco",
+                "en": "Nahuizalco",
+                "slug": "nahuizalco-sv13003002"
+              },
+              "code": {
+                "id": "SV13003002",
+                "iso": null
+              }
+            },
+            {
+              "id": "SV13003003",
+              "name": {
+                "local": "Salcoatitán",
+                "en": "Salcoatitan",
+                "slug": "salcoatitan-sv13003003"
+              },
+              "code": {
+                "id": "SV13003003",
+                "iso": null
+              }
+            },
+            {
+              "id": "SV13003004",
+              "name": {
+                "local": "Santa Catarina Masahuat",
+                "en": "Santa Catarina Masahuat",
+                "slug": "santa-catarina-masahuat-sv13003004"
+              },
+              "code": {
+                "id": "SV13003004",
+                "iso": null
+              }
+            }
+          ]
+        },
+        {
+          "id": "SV13004",
+          "name": {
+            "local": "Sonsonate Oeste",
+            "en": "Sonsonate Oeste",
+            "slug": "sonsonate-oeste-sv13004"
+          },
+          "code": {
+            "id": "SV13004",
+            "iso": null
+          },
+          "municipality": [
+            {
+              "id": "SV13004001",
+              "name": {
+                "local": "Acajutla",
+                "en": "Acajutla",
+                "slug": "acajutla-sv13004001"
+              },
+              "code": {
+                "id": "SV13004001",
+                "iso": null
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "SV14",
+      "name": {
+        "local": "Usulután",
+        "en": "Usulutan",
+        "slug": "usulutan-sv14"
+      },
+      "code": {
+        "id": "SV14",
+        "iso": null
+      },
+      "district": [
+        {
+          "id": "SV14001",
+          "name": {
+            "local": "Usulután Este",
+            "en": "Usulutan Este",
+            "slug": "usulutan-este-sv14001"
+          },
+          "code": {
+            "id": "SV14001",
+            "iso": null
+          },
+          "municipality": [
+            {
+              "id": "SV14001001",
+              "name": {
+                "local": "California",
+                "en": "California",
+                "slug": "california-sv14001001"
+              },
+              "code": {
+                "id": "SV14001001",
+                "iso": null
+              }
+            },
+            {
+              "id": "SV14001002",
+              "name": {
+                "local": "Concepción Batres",
+                "en": "Concepcion Batres",
+                "slug": "concepcion-batres-sv14001002"
+              },
+              "code": {
+                "id": "SV14001002",
+                "iso": null
+              }
+            },
+            {
+              "id": "SV14001003",
+              "name": {
+                "local": "Ereguayquín",
+                "en": "Ereguayquin",
+                "slug": "ereguayquin-sv14001003"
+              },
+              "code": {
+                "id": "SV14001003",
+                "iso": null
+              }
+            },
+            {
+              "id": "SV14001004",
+              "name": {
+                "local": "Jucuarán",
+                "en": "Jucuaran",
+                "slug": "jucuaran-sv14001004"
+              },
+              "code": {
+                "id": "SV14001004",
+                "iso": null
+              }
+            },
+            {
+              "id": "SV14001005",
+              "name": {
+                "local": "Ozatlán",
+                "en": "Ozatlan",
+                "slug": "ozatlan-sv14001005"
+              },
+              "code": {
+                "id": "SV14001005",
+                "iso": null
+              }
+            },
+            {
+              "id": "SV14001006",
+              "name": {
+                "local": "San Dionisio",
+                "en": "San Dionisio",
+                "slug": "san-dionisio-sv14001006"
+              },
+              "code": {
+                "id": "SV14001006",
+                "iso": null
+              }
+            },
+            {
+              "id": "SV14001007",
+              "name": {
+                "local": "Santa Elena",
+                "en": "Santa Elena",
+                "slug": "santa-elena-sv14001007"
+              },
+              "code": {
+                "id": "SV14001007",
+                "iso": null
+              }
+            },
+            {
+              "id": "SV14001008",
+              "name": {
+                "local": "Santa María",
+                "en": "Santa Maria",
+                "slug": "santa-maria-sv14001008"
+              },
+              "code": {
+                "id": "SV14001008",
+                "iso": null
+              }
+            },
+            {
+              "id": "SV14001009",
+              "name": {
+                "local": "Tecapán",
+                "en": "Tecapan",
+                "slug": "tecapan-sv14001009"
+              },
+              "code": {
+                "id": "SV14001009",
+                "iso": null
+              }
+            },
+            {
+              "id": "SV14001010",
+              "name": {
+                "local": "Usulután",
+                "en": "Usulutan",
+                "slug": "usulutan-sv14001010"
+              },
+              "code": {
+                "id": "SV14001010",
+                "iso": null
+              }
+            }
+          ]
+        },
+        {
+          "id": "SV14002",
+          "name": {
+            "local": "Usulután Norte",
+            "en": "Usulutan Norte",
+            "slug": "usulutan-norte-sv14002"
+          },
+          "code": {
+            "id": "SV14002",
+            "iso": null
+          },
+          "municipality": [
+            {
+              "id": "SV14002001",
+              "name": {
+                "local": "Alegría",
+                "en": "Alegria",
+                "slug": "alegria-sv14002001"
+              },
+              "code": {
+                "id": "SV14002001",
+                "iso": null
+              }
+            },
+            {
+              "id": "SV14002002",
+              "name": {
+                "local": "Berlín",
+                "en": "Berlin",
+                "slug": "berlin-sv14002002"
+              },
+              "code": {
+                "id": "SV14002002",
+                "iso": null
+              }
+            },
+            {
+              "id": "SV14002003",
+              "name": {
+                "local": "El Triunfo",
+                "en": "El Triunfo",
+                "slug": "el-triunfo-sv14002003"
+              },
+              "code": {
+                "id": "SV14002003",
+                "iso": null
+              }
+            },
+            {
+              "id": "SV14002004",
+              "name": {
+                "local": "Estanzuelas",
+                "en": "Estanzuelas",
+                "slug": "estanzuelas-sv14002004"
+              },
+              "code": {
+                "id": "SV14002004",
+                "iso": null
+              }
+            },
+            {
+              "id": "SV14002005",
+              "name": {
+                "local": "Jucuapa",
+                "en": "Jucuapa",
+                "slug": "jucuapa-sv14002005"
+              },
+              "code": {
+                "id": "SV14002005",
+                "iso": null
+              }
+            },
+            {
+              "id": "SV14002006",
+              "name": {
+                "local": "Mercedes Umaña",
+                "en": "Mercedes Umana",
+                "slug": "mercedes-umana-sv14002006"
+              },
+              "code": {
+                "id": "SV14002006",
+                "iso": null
+              }
+            },
+            {
+              "id": "SV14002007",
+              "name": {
+                "local": "Nueva Granada",
+                "en": "Nueva Granada",
+                "slug": "nueva-granada-sv14002007"
+              },
+              "code": {
+                "id": "SV14002007",
+                "iso": null
+              }
+            },
+            {
+              "id": "SV14002008",
+              "name": {
+                "local": "San Buenaventura",
+                "en": "San Buenaventura",
+                "slug": "san-buenaventura-sv14002008"
+              },
+              "code": {
+                "id": "SV14002008",
+                "iso": null
+              }
+            },
+            {
+              "id": "SV14002009",
+              "name": {
+                "local": "Santiago de María",
+                "en": "Santiago de Maria",
+                "slug": "santiago-de-maria-sv14002009"
+              },
+              "code": {
+                "id": "SV14002009",
+                "iso": null
+              }
+            }
+          ]
+        },
+        {
+          "id": "SV14003",
+          "name": {
+            "local": "Usulután Oeste",
+            "en": "Usulutan Oeste",
+            "slug": "usulutan-oeste-sv14003"
+          },
+          "code": {
+            "id": "SV14003",
+            "iso": null
+          },
+          "municipality": [
+            {
+              "id": "SV14003001",
+              "name": {
+                "local": "Jiquilisco",
+                "en": "Jiquilisco",
+                "slug": "jiquilisco-sv14003001"
+              },
+              "code": {
+                "id": "SV14003001",
+                "iso": null
+              }
+            },
+            {
+              "id": "SV14003002",
+              "name": {
+                "local": "Puerto El Triunfo",
+                "en": "Puerto El Triunfo",
+                "slug": "puerto-el-triunfo-sv14003002"
+              },
+              "code": {
+                "id": "SV14003002",
+                "iso": null
+              }
+            },
+            {
+              "id": "SV14003003",
+              "name": {
+                "local": "San Agustín",
+                "en": "San Agustin",
+                "slug": "san-agustin-sv14003003"
+              },
+              "code": {
+                "id": "SV14003003",
+                "iso": null
+              }
+            },
+            {
+              "id": "SV14003004",
+              "name": {
+                "local": "San Francisco Javier",
+                "en": "San Francisco Javier",
+                "slug": "san-francisco-javier-sv14003004"
+              },
+              "code": {
+                "id": "SV14003004",
+                "iso": null
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

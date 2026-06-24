@@ -1,0 +1,47 @@
+{
+  "id": "SV05002",
+  "level": 2,
+  "level_name": {
+    "local": "Distrito",
+    "en": "District"
+  },
+  "name": {
+    "local": "La Libertad Costa",
+    "en": "La Libertad Costa",
+    "slug": "la-libertad-costa-sv05002"
+  },
+  "code": {
+    "id": "SV05002",
+    "iso": null
+  },
+  "parent": {
+    "id": "SV05",
+    "level": 1,
+    "name": {
+      "local": "La Libertad",
+      "en": "La Libertad",
+      "slug": "la-libertad-sv05"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "SV05",
+      "level": 1,
+      "name": {
+        "local": "La Libertad",
+        "en": "La Libertad",
+        "slug": "la-libertad-sv05"
+      }
+    }
+  ],
+  "children_count": {
+    "municipality": 5
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "13.536",
+    "lon": "-89.479"
+  },
+  "metadata": {},
+  "source": {}
+}

@@ -1,0 +1,96 @@
+[
+  {
+    "id": "SV08001",
+    "level": 2,
+    "level_name": {
+      "local": "Distrito",
+      "en": "District"
+    },
+    "name": {
+      "local": "Morazán Norte",
+      "en": "Morazan Norte",
+      "slug": "morazan-norte-sv08001"
+    },
+    "code": {
+      "id": "SV08001",
+      "iso": null
+    },
+    "parent": {
+      "id": "SV08",
+      "level": 1,
+      "name": {
+        "local": "Morazán",
+        "en": "Morazan",
+        "slug": "morazan-sv08"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SV08",
+        "level": 1,
+        "name": {
+          "local": "Morazán",
+          "en": "Morazan",
+          "slug": "morazan-sv08"
+        }
+      }
+    ],
+    "children_count": {
+      "municipality": 11
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "13.86",
+      "lon": "-88.11"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SV08002",
+    "level": 2,
+    "level_name": {
+      "local": "Distrito",
+      "en": "District"
+    },
+    "name": {
+      "local": "Morazán Sur",
+      "en": "Morazan Sur",
+      "slug": "morazan-sur-sv08002"
+    },
+    "code": {
+      "id": "SV08002",
+      "iso": null
+    },
+    "parent": {
+      "id": "SV08",
+      "level": 1,
+      "name": {
+        "local": "Morazán",
+        "en": "Morazan",
+        "slug": "morazan-sv08"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SV08",
+        "level": 1,
+        "name": {
+          "local": "Morazán",
+          "en": "Morazan",
+          "slug": "morazan-sv08"
+        }
+      }
+    ],
+    "children_count": {
+      "municipality": 15
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "13.695",
+      "lon": "-88.11"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

@@ -1,0 +1,5 @@
+id,name.local,name.en,name.slug,code.id,children_count.municipality,geo.lat,geo.lon
+SV03001,Chalatenango Centro,Chalatenango Centro,chalatenango-centro-sv03001,SV03001,10,14.181,-89.147
+SV03002,Chalatenango Norte,Chalatenango Norte,chalatenango-norte-sv03002,SV03002,3,14.333,-89.169
+SV03003,Chalatenango Sur,Chalatenango Sur,chalatenango-sur-sv03003,SV03003,20,14.066,-88.874
+SV03999,Embalse Cerron Grande,Embalse Cerron Grande,embalse-cerron-grande-sv03999,SV03999,1,14.006,-89.022

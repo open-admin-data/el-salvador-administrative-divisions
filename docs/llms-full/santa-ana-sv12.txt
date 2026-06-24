@@ -1,0 +1,99 @@
+# Santa Ana — El Salvador Administrative Divisions
+
+> 6 districts, 15 municipalitys
+> Code: SV12
+> Coordinates: 14.111, -89.564
+> Last updated: 2026-06-24. License: CC-BY-4.0.
+
+## Districts
+
+### Lago de Coatepeque
+
+Code: SV12999, Coordinates: 13.861, -89.542
+Municipalitys: 1
+
+#### Lago de Coatepeque
+
+Code: SV12999001, Coordinates: 13.861, -89.542
+
+### Lago de Guija
+
+Code: SV12998, Coordinates: 14.267, -89.51
+Municipalitys: 1
+
+#### Lago de Guija
+
+Code: SV12998001, Coordinates: 14.267, -89.51
+
+### Santa Ana Centro
+
+Code: SV12001, Coordinates: 13.956, -89.558
+Municipalitys: 1
+
+#### Santa Ana
+
+Code: SV12001001, Coordinates: 13.956, -89.558
+
+### Santa Ana Este
+
+Code: SV12002, Coordinates: 13.885, -89.49
+Municipalitys: 2
+
+#### Coatepeque
+
+Code: SV12002001, Coordinates: 13.898, -89.47
+
+#### El Congo
+
+Code: SV12002002, Coordinates: 13.839, -89.505
+
+### Santa Ana Norte
+
+Code: SV12003, Coordinates: 14.251, -89.374
+Municipalitys: 4
+
+#### Masahuat
+
+Code: SV12003001, Coordinates: 14.165, -89.409
+
+#### Metapán (Metapan)
+
+Code: SV12003002, Coordinates: 14.31, -89.402
+
+#### Santa Rosa Guachipilín (Santa Rosa Guachipilin)
+
+Code: SV12003003, Coordinates: 14.2, -89.347
+
+#### Texistepeque
+
+Code: SV12003004, Coordinates: 14.117, -89.478
+
+### Santa Ana Oeste
+
+Code: SV12004, Coordinates: 14.046, -89.677
+Municipalitys: 6
+
+#### Candelaria de la Frontera
+
+Code: SV12004001, Coordinates: 14.124, -89.626
+
+#### Chalchuapa
+
+Code: SV12004002, Coordinates: 14.011, -89.689
+
+#### El Porvenir
+
+Code: SV12004003, Coordinates: 14.03, -89.647
+
+#### San Antonio Pajonal
+
+Code: SV12004004, Coordinates: 14.19, -89.551
+
+#### San Sebastián Salitrillo (San Sebastian Salitrillo)
+
+Code: SV12004005, Coordinates: 13.968, -89.621
+
+#### Santiago de la Frontera
+
+Code: SV12004006, Coordinates: 14.169, -89.616
+

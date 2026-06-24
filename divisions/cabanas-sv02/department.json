@@ -1,0 +1,34 @@
+{
+  "id": "SV02",
+  "level": 1,
+  "level_name": {
+    "local": "Departamento",
+    "en": "Department"
+  },
+  "name": {
+    "local": "Cabañas",
+    "en": "Cabanas",
+    "slug": "cabanas-sv02"
+  },
+  "code": {
+    "id": "SV02",
+    "iso": null
+  },
+  "parent": null,
+  "ancestors": [],
+  "children_count": {
+    "district": 2,
+    "municipality": 9
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "13.879",
+    "lon": "-88.742"
+  },
+  "metadata": {},
+  "source": {
+    "name": "Open Admin Data",
+    "url": "https://openadmindata.org/sv/departments/cabanas-sv02/",
+    "api": "https://openadmindata.org/api/sv/"
+  }
+}

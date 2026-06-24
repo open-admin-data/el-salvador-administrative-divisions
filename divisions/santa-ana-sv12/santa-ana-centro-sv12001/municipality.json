@@ -1,0 +1,56 @@
+[
+  {
+    "id": "SV12001001",
+    "level": 3,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Santa Ana",
+      "en": "Santa Ana",
+      "slug": "santa-ana-sv12001001"
+    },
+    "code": {
+      "id": "SV12001001",
+      "iso": null
+    },
+    "parent": {
+      "id": "SV12001",
+      "level": 2,
+      "name": {
+        "local": "Santa Ana Centro",
+        "en": "Santa Ana Centro",
+        "slug": "santa-ana-centro-sv12001"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SV12",
+        "level": 1,
+        "name": {
+          "local": "Santa Ana",
+          "en": "Santa Ana",
+          "slug": "santa-ana-sv12"
+        }
+      },
+      {
+        "id": "SV12001",
+        "level": 2,
+        "name": {
+          "local": "Santa Ana Centro",
+          "en": "Santa Ana Centro",
+          "slug": "santa-ana-centro-sv12001"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "13.956",
+      "lon": "-89.558"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

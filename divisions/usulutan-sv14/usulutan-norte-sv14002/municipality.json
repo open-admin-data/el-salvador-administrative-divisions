@@ -1,0 +1,488 @@
+[
+  {
+    "id": "SV14002001",
+    "level": 3,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Alegría",
+      "en": "Alegria",
+      "slug": "alegria-sv14002001"
+    },
+    "code": {
+      "id": "SV14002001",
+      "iso": null
+    },
+    "parent": {
+      "id": "SV14002",
+      "level": 2,
+      "name": {
+        "local": "Usulután Norte",
+        "en": "Usulutan Norte",
+        "slug": "usulutan-norte-sv14002"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SV14",
+        "level": 1,
+        "name": {
+          "local": "Usulután",
+          "en": "Usulutan",
+          "slug": "usulutan-sv14"
+        }
+      },
+      {
+        "id": "SV14002",
+        "level": 2,
+        "name": {
+          "local": "Usulután Norte",
+          "en": "Usulutan Norte",
+          "slug": "usulutan-norte-sv14002"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "13.495",
+      "lon": "-88.489"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SV14002002",
+    "level": 3,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Berlín",
+      "en": "Berlin",
+      "slug": "berlin-sv14002002"
+    },
+    "code": {
+      "id": "SV14002002",
+      "iso": null
+    },
+    "parent": {
+      "id": "SV14002",
+      "level": 2,
+      "name": {
+        "local": "Usulután Norte",
+        "en": "Usulutan Norte",
+        "slug": "usulutan-norte-sv14002"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SV14",
+        "level": 1,
+        "name": {
+          "local": "Usulután",
+          "en": "Usulutan",
+          "slug": "usulutan-sv14"
+        }
+      },
+      {
+        "id": "SV14002",
+        "level": 2,
+        "name": {
+          "local": "Usulután Norte",
+          "en": "Usulutan Norte",
+          "slug": "usulutan-norte-sv14002"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "13.515",
+      "lon": "-88.592"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SV14002003",
+    "level": 3,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "El Triunfo",
+      "en": "El Triunfo",
+      "slug": "el-triunfo-sv14002003"
+    },
+    "code": {
+      "id": "SV14002003",
+      "iso": null
+    },
+    "parent": {
+      "id": "SV14002",
+      "level": 2,
+      "name": {
+        "local": "Usulután Norte",
+        "en": "Usulutan Norte",
+        "slug": "usulutan-norte-sv14002"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SV14",
+        "level": 1,
+        "name": {
+          "local": "Usulután",
+          "en": "Usulutan",
+          "slug": "usulutan-sv14"
+        }
+      },
+      {
+        "id": "SV14002",
+        "level": 2,
+        "name": {
+          "local": "Usulután Norte",
+          "en": "Usulutan Norte",
+          "slug": "usulutan-norte-sv14002"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "13.593",
+      "lon": "-88.413"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SV14002004",
+    "level": 3,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Estanzuelas",
+      "en": "Estanzuelas",
+      "slug": "estanzuelas-sv14002004"
+    },
+    "code": {
+      "id": "SV14002004",
+      "iso": null
+    },
+    "parent": {
+      "id": "SV14002",
+      "level": 2,
+      "name": {
+        "local": "Usulután Norte",
+        "en": "Usulutan Norte",
+        "slug": "usulutan-norte-sv14002"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SV14",
+        "level": 1,
+        "name": {
+          "local": "Usulután",
+          "en": "Usulutan",
+          "slug": "usulutan-sv14"
+        }
+      },
+      {
+        "id": "SV14002",
+        "level": 2,
+        "name": {
+          "local": "Usulután Norte",
+          "en": "Usulutan Norte",
+          "slug": "usulutan-norte-sv14002"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "13.618",
+      "lon": "-88.509"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SV14002005",
+    "level": 3,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Jucuapa",
+      "en": "Jucuapa",
+      "slug": "jucuapa-sv14002005"
+    },
+    "code": {
+      "id": "SV14002005",
+      "iso": null
+    },
+    "parent": {
+      "id": "SV14002",
+      "level": 2,
+      "name": {
+        "local": "Usulután Norte",
+        "en": "Usulutan Norte",
+        "slug": "usulutan-norte-sv14002"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SV14",
+        "level": 1,
+        "name": {
+          "local": "Usulután",
+          "en": "Usulutan",
+          "slug": "usulutan-sv14"
+        }
+      },
+      {
+        "id": "SV14002",
+        "level": 2,
+        "name": {
+          "local": "Usulután Norte",
+          "en": "Usulutan Norte",
+          "slug": "usulutan-norte-sv14002"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "13.484",
+      "lon": "-88.398"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SV14002006",
+    "level": 3,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Mercedes Umaña",
+      "en": "Mercedes Umana",
+      "slug": "mercedes-umana-sv14002006"
+    },
+    "code": {
+      "id": "SV14002006",
+      "iso": null
+    },
+    "parent": {
+      "id": "SV14002",
+      "level": 2,
+      "name": {
+        "local": "Usulután Norte",
+        "en": "Usulutan Norte",
+        "slug": "usulutan-norte-sv14002"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SV14",
+        "level": 1,
+        "name": {
+          "local": "Usulután",
+          "en": "Usulutan",
+          "slug": "usulutan-sv14"
+        }
+      },
+      {
+        "id": "SV14002",
+        "level": 2,
+        "name": {
+          "local": "Usulután Norte",
+          "en": "Usulutan Norte",
+          "slug": "usulutan-norte-sv14002"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "13.563",
+      "lon": "-88.515"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SV14002007",
+    "level": 3,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Nueva Granada",
+      "en": "Nueva Granada",
+      "slug": "nueva-granada-sv14002007"
+    },
+    "code": {
+      "id": "SV14002007",
+      "iso": null
+    },
+    "parent": {
+      "id": "SV14002",
+      "level": 2,
+      "name": {
+        "local": "Usulután Norte",
+        "en": "Usulutan Norte",
+        "slug": "usulutan-norte-sv14002"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SV14",
+        "level": 1,
+        "name": {
+          "local": "Usulután",
+          "en": "Usulutan",
+          "slug": "usulutan-sv14"
+        }
+      },
+      {
+        "id": "SV14002",
+        "level": 2,
+        "name": {
+          "local": "Usulután Norte",
+          "en": "Usulutan Norte",
+          "slug": "usulutan-norte-sv14002"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "13.622",
+      "lon": "-88.436"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SV14002008",
+    "level": 3,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "San Buenaventura",
+      "en": "San Buenaventura",
+      "slug": "san-buenaventura-sv14002008"
+    },
+    "code": {
+      "id": "SV14002008",
+      "iso": null
+    },
+    "parent": {
+      "id": "SV14002",
+      "level": 2,
+      "name": {
+        "local": "Usulután Norte",
+        "en": "Usulutan Norte",
+        "slug": "usulutan-norte-sv14002"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SV14",
+        "level": 1,
+        "name": {
+          "local": "Usulután",
+          "en": "Usulutan",
+          "slug": "usulutan-sv14"
+        }
+      },
+      {
+        "id": "SV14002",
+        "level": 2,
+        "name": {
+          "local": "Usulután Norte",
+          "en": "Usulutan Norte",
+          "slug": "usulutan-norte-sv14002"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "13.578",
+      "lon": "-88.399"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SV14002009",
+    "level": 3,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Santiago de María",
+      "en": "Santiago de Maria",
+      "slug": "santiago-de-maria-sv14002009"
+    },
+    "code": {
+      "id": "SV14002009",
+      "iso": null
+    },
+    "parent": {
+      "id": "SV14002",
+      "level": 2,
+      "name": {
+        "local": "Usulután Norte",
+        "en": "Usulutan Norte",
+        "slug": "usulutan-norte-sv14002"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SV14",
+        "level": 1,
+        "name": {
+          "local": "Usulután",
+          "en": "Usulutan",
+          "slug": "usulutan-sv14"
+        }
+      },
+      {
+        "id": "SV14002",
+        "level": 2,
+        "name": {
+          "local": "Usulután Norte",
+          "en": "Usulutan Norte",
+          "slug": "usulutan-norte-sv14002"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "13.486",
+      "lon": "-88.444"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

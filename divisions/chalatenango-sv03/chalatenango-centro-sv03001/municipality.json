@@ -1,0 +1,542 @@
+[
+  {
+    "id": "SV03001001",
+    "level": 3,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Agua Caliente",
+      "en": "Agua Caliente",
+      "slug": "agua-caliente-sv03001001"
+    },
+    "code": {
+      "id": "SV03001001",
+      "iso": null
+    },
+    "parent": {
+      "id": "SV03001",
+      "level": 2,
+      "name": {
+        "local": "Chalatenango Centro",
+        "en": "Chalatenango Centro",
+        "slug": "chalatenango-centro-sv03001"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SV03",
+        "level": 1,
+        "name": {
+          "local": "Chalatenango",
+          "en": "Chalatenango",
+          "slug": "chalatenango-sv03"
+        }
+      },
+      {
+        "id": "SV03001",
+        "level": 2,
+        "name": {
+          "local": "Chalatenango Centro",
+          "en": "Chalatenango Centro",
+          "slug": "chalatenango-centro-sv03001"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "14.184",
+      "lon": "-89.218"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SV03001002",
+    "level": 3,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Dulce Nombre de María",
+      "en": "Dulce Nombre de Maria",
+      "slug": "dulce-nombre-de-maria-sv03001002"
+    },
+    "code": {
+      "id": "SV03001002",
+      "iso": null
+    },
+    "parent": {
+      "id": "SV03001",
+      "level": 2,
+      "name": {
+        "local": "Chalatenango Centro",
+        "en": "Chalatenango Centro",
+        "slug": "chalatenango-centro-sv03001"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SV03",
+        "level": 1,
+        "name": {
+          "local": "Chalatenango",
+          "en": "Chalatenango",
+          "slug": "chalatenango-sv03"
+        }
+      },
+      {
+        "id": "SV03001",
+        "level": 2,
+        "name": {
+          "local": "Chalatenango Centro",
+          "en": "Chalatenango Centro",
+          "slug": "chalatenango-centro-sv03001"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "14.199",
+      "lon": "-88.987"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SV03001003",
+    "level": 3,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "El Paraíso",
+      "en": "El Paraiso",
+      "slug": "el-paraiso-sv03001003"
+    },
+    "code": {
+      "id": "SV03001003",
+      "iso": null
+    },
+    "parent": {
+      "id": "SV03001",
+      "level": 2,
+      "name": {
+        "local": "Chalatenango Centro",
+        "en": "Chalatenango Centro",
+        "slug": "chalatenango-centro-sv03001"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SV03",
+        "level": 1,
+        "name": {
+          "local": "Chalatenango",
+          "en": "Chalatenango",
+          "slug": "chalatenango-sv03"
+        }
+      },
+      {
+        "id": "SV03001",
+        "level": 2,
+        "name": {
+          "local": "Chalatenango Centro",
+          "en": "Chalatenango Centro",
+          "slug": "chalatenango-centro-sv03001"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "14.1",
+      "lon": "-89.084"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SV03001004",
+    "level": 3,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "La Reina",
+      "en": "La Reina",
+      "slug": "la-reina-sv03001004"
+    },
+    "code": {
+      "id": "SV03001004",
+      "iso": null
+    },
+    "parent": {
+      "id": "SV03001",
+      "level": 2,
+      "name": {
+        "local": "Chalatenango Centro",
+        "en": "Chalatenango Centro",
+        "slug": "chalatenango-centro-sv03001"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SV03",
+        "level": 1,
+        "name": {
+          "local": "Chalatenango",
+          "en": "Chalatenango",
+          "slug": "chalatenango-sv03"
+        }
+      },
+      {
+        "id": "SV03001",
+        "level": 2,
+        "name": {
+          "local": "Chalatenango Centro",
+          "en": "Chalatenango Centro",
+          "slug": "chalatenango-centro-sv03001"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "14.179",
+      "lon": "-89.172"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SV03001005",
+    "level": 3,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Nueva Concepción",
+      "en": "Nueva Concepcion",
+      "slug": "nueva-concepcion-sv03001005"
+    },
+    "code": {
+      "id": "SV03001005",
+      "iso": null
+    },
+    "parent": {
+      "id": "SV03001",
+      "level": 2,
+      "name": {
+        "local": "Chalatenango Centro",
+        "en": "Chalatenango Centro",
+        "slug": "chalatenango-centro-sv03001"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SV03",
+        "level": 1,
+        "name": {
+          "local": "Chalatenango",
+          "en": "Chalatenango",
+          "slug": "chalatenango-sv03"
+        }
+      },
+      {
+        "id": "SV03001",
+        "level": 2,
+        "name": {
+          "local": "Chalatenango Centro",
+          "en": "Chalatenango Centro",
+          "slug": "chalatenango-centro-sv03001"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "14.134",
+      "lon": "-89.307"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SV03001006",
+    "level": 3,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "San Fernando",
+      "en": "San Fernando",
+      "slug": "san-fernando-sv03001006"
+    },
+    "code": {
+      "id": "SV03001006",
+      "iso": null
+    },
+    "parent": {
+      "id": "SV03001",
+      "level": 2,
+      "name": {
+        "local": "Chalatenango Centro",
+        "en": "Chalatenango Centro",
+        "slug": "chalatenango-centro-sv03001"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SV03",
+        "level": 1,
+        "name": {
+          "local": "Chalatenango",
+          "en": "Chalatenango",
+          "slug": "chalatenango-sv03"
+        }
+      },
+      {
+        "id": "SV03001",
+        "level": 2,
+        "name": {
+          "local": "Chalatenango Centro",
+          "en": "Chalatenango Centro",
+          "slug": "chalatenango-centro-sv03001"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "14.303",
+      "lon": "-89.056"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SV03001007",
+    "level": 3,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "San Francisco Morazán",
+      "en": "San Francisco Morazan",
+      "slug": "san-francisco-morazan-sv03001007"
+    },
+    "code": {
+      "id": "SV03001007",
+      "iso": null
+    },
+    "parent": {
+      "id": "SV03001",
+      "level": 2,
+      "name": {
+        "local": "Chalatenango Centro",
+        "en": "Chalatenango Centro",
+        "slug": "chalatenango-centro-sv03001"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SV03",
+        "level": 1,
+        "name": {
+          "local": "Chalatenango",
+          "en": "Chalatenango",
+          "slug": "chalatenango-sv03"
+        }
+      },
+      {
+        "id": "SV03001",
+        "level": 2,
+        "name": {
+          "local": "Chalatenango Centro",
+          "en": "Chalatenango Centro",
+          "slug": "chalatenango-centro-sv03001"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "14.216",
+      "lon": "-89.051"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SV03001008",
+    "level": 3,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "San Rafael",
+      "en": "San Rafael",
+      "slug": "san-rafael-sv03001008"
+    },
+    "code": {
+      "id": "SV03001008",
+      "iso": null
+    },
+    "parent": {
+      "id": "SV03001",
+      "level": 2,
+      "name": {
+        "local": "Chalatenango Centro",
+        "en": "Chalatenango Centro",
+        "slug": "chalatenango-centro-sv03001"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SV03",
+        "level": 1,
+        "name": {
+          "local": "Chalatenango",
+          "en": "Chalatenango",
+          "slug": "chalatenango-sv03"
+        }
+      },
+      {
+        "id": "SV03001",
+        "level": 2,
+        "name": {
+          "local": "Chalatenango Centro",
+          "en": "Chalatenango Centro",
+          "slug": "chalatenango-centro-sv03001"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "14.115",
+      "lon": "-89.036"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SV03001009",
+    "level": 3,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Santa Rita",
+      "en": "Santa Rita",
+      "slug": "santa-rita-sv03001009"
+    },
+    "code": {
+      "id": "SV03001009",
+      "iso": null
+    },
+    "parent": {
+      "id": "SV03001",
+      "level": 2,
+      "name": {
+        "local": "Chalatenango Centro",
+        "en": "Chalatenango Centro",
+        "slug": "chalatenango-centro-sv03001"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SV03",
+        "level": 1,
+        "name": {
+          "local": "Chalatenango",
+          "en": "Chalatenango",
+          "slug": "chalatenango-sv03"
+        }
+      },
+      {
+        "id": "SV03001",
+        "level": 2,
+        "name": {
+          "local": "Chalatenango Centro",
+          "en": "Chalatenango Centro",
+          "slug": "chalatenango-centro-sv03001"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "14.113",
+      "lon": "-88.994"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SV03001010",
+    "level": 3,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Tejutla",
+      "en": "Tejutla",
+      "slug": "tejutla-sv03001010"
+    },
+    "code": {
+      "id": "SV03001010",
+      "iso": null
+    },
+    "parent": {
+      "id": "SV03001",
+      "level": 2,
+      "name": {
+        "local": "Chalatenango Centro",
+        "en": "Chalatenango Centro",
+        "slug": "chalatenango-centro-sv03001"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SV03",
+        "level": 1,
+        "name": {
+          "local": "Chalatenango",
+          "en": "Chalatenango",
+          "slug": "chalatenango-sv03"
+        }
+      },
+      {
+        "id": "SV03001",
+        "level": 2,
+        "name": {
+          "local": "Chalatenango Centro",
+          "en": "Chalatenango Centro",
+          "slug": "chalatenango-centro-sv03001"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "14.141",
+      "lon": "-89.111"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

@@ -1,0 +1,4 @@
+id,name.local,name.en,name.slug,code.id,children_count.municipality,geo.lat,geo.lon
+SV01001,Ahuachapán Centro,Ahuachapan Centro,ahuachapan-centro-sv01001,SV01001,4,13.913,-89.899
+SV01002,Ahuachapán Norte,Ahuachapan Norte,ahuachapan-norte-sv01002,SV01002,4,13.98,-89.738
+SV01003,Ahuachapán Sur,Ahuachapan Sur,ahuachapan-sur-sv01003,SV01003,4,13.78,-90.018

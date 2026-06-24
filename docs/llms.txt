@@ -1,0 +1,80 @@
+# El Salvador Administrative Divisions
+
+> Open dataset of El Salvador's administrative hierarchy:
+> 14 departments, 48 districts, 266 municipalitys.
+> CC-BY-4.0 licensed.
+
+## Quick Reference
+
+- Total departments: 14
+- Total districts: 48
+- Total municipalitys: 266
+- Coordinates: included (all levels)
+- Last updated: 2026-06-24
+- License: CC-BY-4.0
+
+## Aggregate Data Files
+
+- [All departments (JSON)](https://raw.githubusercontent.com/open-admin-data/el-salvador-administrative-divisions/main/data/all-department.json)
+- [All districts (JSON)](https://raw.githubusercontent.com/open-admin-data/el-salvador-administrative-divisions/main/data/all-district.json)
+- [All municipalitys (JSON)](https://raw.githubusercontent.com/open-admin-data/el-salvador-administrative-divisions/main/data/all-municipality.json)
+- [Flat array (NDJSON)](https://raw.githubusercontent.com/open-admin-data/el-salvador-administrative-divisions/main/data/all-flat.ndjson)
+- [Hierarchy tree (JSON)](https://raw.githubusercontent.com/open-admin-data/el-salvador-administrative-divisions/main/data/hierarchy.json)
+- [JSON Schema](https://raw.githubusercontent.com/open-admin-data/el-salvador-administrative-divisions/main/data/schema.json)
+
+## Browse by Department
+
+- [Ahuachapan](https://github.com/open-admin-data/el-salvador-administrative-divisions/tree/main/divisions/ahuachapan-sv01/) — 3 districts, 12 municipalitys
+- [Cabanas](https://github.com/open-admin-data/el-salvador-administrative-divisions/tree/main/divisions/cabanas-sv02/) — 2 districts, 9 municipalitys
+- [Chalatenango](https://github.com/open-admin-data/el-salvador-administrative-divisions/tree/main/divisions/chalatenango-sv03/) — 4 districts, 34 municipalitys
+- [Cuscatlan](https://github.com/open-admin-data/el-salvador-administrative-divisions/tree/main/divisions/cuscatlan-sv04/) — 2 districts, 16 municipalitys
+- [La Libertad](https://github.com/open-admin-data/el-salvador-administrative-divisions/tree/main/divisions/la-libertad-sv05/) — 6 districts, 22 municipalitys
+- [La Paz](https://github.com/open-admin-data/el-salvador-administrative-divisions/tree/main/divisions/la-paz-sv06/) — 3 districts, 22 municipalitys
+- [La Union](https://github.com/open-admin-data/el-salvador-administrative-divisions/tree/main/divisions/la-union-sv07/) — 2 districts, 18 municipalitys
+- [Morazan](https://github.com/open-admin-data/el-salvador-administrative-divisions/tree/main/divisions/morazan-sv08/) — 2 districts, 26 municipalitys
+- [San Miguel](https://github.com/open-admin-data/el-salvador-administrative-divisions/tree/main/divisions/san-miguel-sv09/) — 3 districts, 20 municipalitys
+- [San Salvador](https://github.com/open-admin-data/el-salvador-administrative-divisions/tree/main/divisions/san-salvador-sv10/) — 6 districts, 20 municipalitys
+- [San Vicente](https://github.com/open-admin-data/el-salvador-administrative-divisions/tree/main/divisions/san-vicente-sv11/) — 2 districts, 13 municipalitys
+- [Santa Ana](https://github.com/open-admin-data/el-salvador-administrative-divisions/tree/main/divisions/santa-ana-sv12/) — 6 districts, 15 municipalitys
+- [Sonsonate](https://github.com/open-admin-data/el-salvador-administrative-divisions/tree/main/divisions/sonsonate-sv13/) — 4 districts, 16 municipalitys
+- [Usulutan](https://github.com/open-admin-data/el-salvador-administrative-divisions/tree/main/divisions/usulutan-sv14/) — 3 districts, 23 municipalitys
+
+## Per-Department Full Data
+
+- [Ahuachapan](https://raw.githubusercontent.com/open-admin-data/el-salvador-administrative-divisions/main/docs/llms-full/ahuachapan-sv01.txt)
+- [Cabanas](https://raw.githubusercontent.com/open-admin-data/el-salvador-administrative-divisions/main/docs/llms-full/cabanas-sv02.txt)
+- [Chalatenango](https://raw.githubusercontent.com/open-admin-data/el-salvador-administrative-divisions/main/docs/llms-full/chalatenango-sv03.txt)
+- [Cuscatlan](https://raw.githubusercontent.com/open-admin-data/el-salvador-administrative-divisions/main/docs/llms-full/cuscatlan-sv04.txt)
+- [La Libertad](https://raw.githubusercontent.com/open-admin-data/el-salvador-administrative-divisions/main/docs/llms-full/la-libertad-sv05.txt)
+- [La Paz](https://raw.githubusercontent.com/open-admin-data/el-salvador-administrative-divisions/main/docs/llms-full/la-paz-sv06.txt)
+- [La Union](https://raw.githubusercontent.com/open-admin-data/el-salvador-administrative-divisions/main/docs/llms-full/la-union-sv07.txt)
+- [Morazan](https://raw.githubusercontent.com/open-admin-data/el-salvador-administrative-divisions/main/docs/llms-full/morazan-sv08.txt)
+- [San Miguel](https://raw.githubusercontent.com/open-admin-data/el-salvador-administrative-divisions/main/docs/llms-full/san-miguel-sv09.txt)
+- [San Salvador](https://raw.githubusercontent.com/open-admin-data/el-salvador-administrative-divisions/main/docs/llms-full/san-salvador-sv10.txt)
+- [San Vicente](https://raw.githubusercontent.com/open-admin-data/el-salvador-administrative-divisions/main/docs/llms-full/san-vicente-sv11.txt)
+- [Santa Ana](https://raw.githubusercontent.com/open-admin-data/el-salvador-administrative-divisions/main/docs/llms-full/santa-ana-sv12.txt)
+- [Sonsonate](https://raw.githubusercontent.com/open-admin-data/el-salvador-administrative-divisions/main/docs/llms-full/sonsonate-sv13.txt)
+- [Usulutan](https://raw.githubusercontent.com/open-admin-data/el-salvador-administrative-divisions/main/docs/llms-full/usulutan-sv14.txt)
+
+## Schema Fields
+
+- id: Unique identifier
+- level: 1 (department), 2 (district), 3 (municipality)
+- name: Local and English names with URL slug
+- code: Government codes
+- parent: Reference to parent division
+- ancestors: Full chain to root
+- children_count: Count of children per level
+- zip_codes: Postal codes (where available)
+- geo: Geographic coordinates (lat/lon, WGS84, all levels)
+
+## Citation
+
+El Salvador Administrative Divisions Dataset (CC-BY-4.0)
+URL: https://github.com/open-admin-data/el-salvador-administrative-divisions
+
+## Related
+
+- [ListBase](https://www.listbase.org) — Structured reference data for every country
+- [open-admin-data](https://github.com/open-admin-data) — Open admin data for ASEAN
+- [thailand-administrative-divisions](https://github.com/open-admin-data/thailand-administrative-divisions)

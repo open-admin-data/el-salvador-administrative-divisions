@@ -1,0 +1,83 @@
+# Cuscatlan — El Salvador Administrative Divisions
+
+> 2 districts, 16 municipalitys
+> Code: SV04
+> Coordinates: 13.845, -89.052
+> Last updated: 2026-06-24. License: CC-BY-4.0.
+
+## Districts
+
+### Cuscatlán Norte (Cuscatlan Norte)
+
+Code: SV04001, Coordinates: 13.876, -89.06
+Municipalitys: 5
+
+#### Oratorio de Concepción (Oratorio de Concepcion)
+
+Code: SV04001001, Coordinates: 13.818, -89.051
+
+#### San Bartolomé Perulapía (San Bartolome Perulapia)
+
+Code: SV04001002, Coordinates: 13.772, -89.05
+
+#### San José Guayabal (San Jose Guayabal)
+
+Code: SV04001003, Coordinates: 13.841, -89.092
+
+#### San Pedro Perulapán (San Pedro Perulapan)
+
+Code: SV04001004, Coordinates: 13.776, -89.009
+
+#### Suchitoto
+
+Code: SV04001005, Coordinates: 13.95, -89.093
+
+### Cuscatlán Sur (Cuscatlan Sur)
+
+Code: SV04002, Coordinates: 13.752, -88.918
+Municipalitys: 11
+
+#### Candelaria
+
+Code: SV04002001, Coordinates: 13.681, -88.965
+
+#### Cojutepeque
+
+Code: SV04002002, Coordinates: 13.727, -88.927
+
+#### El Carmen
+
+Code: SV04002003, Coordinates: 13.74, -88.904
+
+#### El Rosario
+
+Code: SV04002004, Coordinates: 13.771, -88.901
+
+#### Monte San Juan
+
+Code: SV04002005, Coordinates: 13.76, -88.94
+
+#### San Cristóbal (San Cristobal)
+
+Code: SV04002006, Coordinates: 13.686, -88.886
+
+#### San Rafael Cedros
+
+Code: SV04002007, Coordinates: 13.747, -88.875
+
+#### San Ramón (San Ramon)
+
+Code: SV04002008, Coordinates: 13.678, -88.925
+
+#### Santa Cruz Analquito
+
+Code: SV04002009, Coordinates: 13.65, -88.952
+
+#### Santa Cruz Michapa
+
+Code: SV04002010, Coordinates: 13.742, -88.964
+
+#### Tenancingo
+
+Code: SV04002011, Coordinates: 13.824, -88.969
+

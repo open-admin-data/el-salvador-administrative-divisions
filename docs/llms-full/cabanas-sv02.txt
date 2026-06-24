@@ -1,0 +1,55 @@
+# Cabanas — El Salvador Administrative Divisions
+
+> 2 districts, 9 municipalitys
+> Code: SV02
+> Coordinates: 13.879, -88.742
+> Last updated: 2026-06-24. License: CC-BY-4.0.
+
+## Districts
+
+### Cabañas Este (Cabanas Este)
+
+Code: SV02001, Coordinates: 13.879, -88.613
+Municipalitys: 5
+
+#### Dolores
+
+Code: SV02001001, Coordinates: 13.814, -88.542
+
+#### Guacotecti
+
+Code: SV02001002, Coordinates: 13.869, -88.647
+
+#### San Isidro
+
+Code: SV02001003, Coordinates: 13.828, -88.702
+
+#### Sensuntepeque
+
+Code: SV02001004, Coordinates: 13.89, -88.568
+
+#### Victoria
+
+Code: SV02001005, Coordinates: 13.963, -88.641
+
+### Cabañas Oeste (Cabanas Oeste)
+
+Code: SV02002, Coordinates: 13.861, -88.862
+Municipalitys: 4
+
+#### Cinquera
+
+Code: SV02002001, Coordinates: 13.889, -88.965
+
+#### Ilobasco
+
+Code: SV02002002, Coordinates: 13.841, -88.815
+
+#### Jutiapa
+
+Code: SV02002003, Coordinates: 13.915, -88.89
+
+#### Tejutepeque
+
+Code: SV02002004, Coordinates: 13.851, -88.908
+

@@ -1,0 +1,434 @@
+[
+  {
+    "id": "SV07002001",
+    "level": 3,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Conchagua",
+      "en": "Conchagua",
+      "slug": "conchagua-sv07002001"
+    },
+    "code": {
+      "id": "SV07002001",
+      "iso": null
+    },
+    "parent": {
+      "id": "SV07002",
+      "level": 2,
+      "name": {
+        "local": "La Unión Sur",
+        "en": "La Union Sur",
+        "slug": "la-union-sur-sv07002"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SV07",
+        "level": 1,
+        "name": {
+          "local": "La Unión",
+          "en": "La Union",
+          "slug": "la-union-sv07"
+        }
+      },
+      {
+        "id": "SV07002",
+        "level": 2,
+        "name": {
+          "local": "La Unión Sur",
+          "en": "La Union Sur",
+          "slug": "la-union-sur-sv07002"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "13.267",
+      "lon": "-87.876"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SV07002002",
+    "level": 3,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "El Carmen",
+      "en": "El Carmen",
+      "slug": "el-carmen-sv07002002"
+    },
+    "code": {
+      "id": "SV07002002",
+      "iso": null
+    },
+    "parent": {
+      "id": "SV07002",
+      "level": 2,
+      "name": {
+        "local": "La Unión Sur",
+        "en": "La Union Sur",
+        "slug": "la-union-sur-sv07002"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SV07",
+        "level": 1,
+        "name": {
+          "local": "La Unión",
+          "en": "La Union",
+          "slug": "la-union-sv07"
+        }
+      },
+      {
+        "id": "SV07002",
+        "level": 2,
+        "name": {
+          "local": "La Unión Sur",
+          "en": "La Union Sur",
+          "slug": "la-union-sur-sv07002"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "13.319",
+      "lon": "-87.999"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SV07002003",
+    "level": 3,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Intipucá",
+      "en": "Intipuca",
+      "slug": "intipuca-sv07002003"
+    },
+    "code": {
+      "id": "SV07002003",
+      "iso": null
+    },
+    "parent": {
+      "id": "SV07002",
+      "level": 2,
+      "name": {
+        "local": "La Unión Sur",
+        "en": "La Union Sur",
+        "slug": "la-union-sur-sv07002"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SV07",
+        "level": 1,
+        "name": {
+          "local": "La Unión",
+          "en": "La Union",
+          "slug": "la-union-sv07"
+        }
+      },
+      {
+        "id": "SV07002",
+        "level": 2,
+        "name": {
+          "local": "La Unión Sur",
+          "en": "La Union Sur",
+          "slug": "la-union-sur-sv07002"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "13.204",
+      "lon": "-88.04"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SV07002004",
+    "level": 3,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "La Unión",
+      "en": "La Union",
+      "slug": "la-union-sv07002004"
+    },
+    "code": {
+      "id": "SV07002004",
+      "iso": null
+    },
+    "parent": {
+      "id": "SV07002",
+      "level": 2,
+      "name": {
+        "local": "La Unión Sur",
+        "en": "La Union Sur",
+        "slug": "la-union-sur-sv07002"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SV07",
+        "level": 1,
+        "name": {
+          "local": "La Unión",
+          "en": "La Union",
+          "slug": "la-union-sv07"
+        }
+      },
+      {
+        "id": "SV07002",
+        "level": 2,
+        "name": {
+          "local": "La Unión Sur",
+          "en": "La Union Sur",
+          "slug": "la-union-sur-sv07002"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "13.309",
+      "lon": "-87.815"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SV07002005",
+    "level": 3,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Meanguera del Golfo",
+      "en": "Meanguera del Golfo",
+      "slug": "meanguera-del-golfo-sv07002005"
+    },
+    "code": {
+      "id": "SV07002005",
+      "iso": null
+    },
+    "parent": {
+      "id": "SV07002",
+      "level": 2,
+      "name": {
+        "local": "La Unión Sur",
+        "en": "La Union Sur",
+        "slug": "la-union-sur-sv07002"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SV07",
+        "level": 1,
+        "name": {
+          "local": "La Unión",
+          "en": "La Union",
+          "slug": "la-union-sv07"
+        }
+      },
+      {
+        "id": "SV07002",
+        "level": 2,
+        "name": {
+          "local": "La Unión Sur",
+          "en": "La Union Sur",
+          "slug": "la-union-sur-sv07002"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "13.19",
+      "lon": "-87.712"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SV07002006",
+    "level": 3,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "San Alejo",
+      "en": "San Alejo",
+      "slug": "san-alejo-sv07002006"
+    },
+    "code": {
+      "id": "SV07002006",
+      "iso": null
+    },
+    "parent": {
+      "id": "SV07002",
+      "level": 2,
+      "name": {
+        "local": "La Unión Sur",
+        "en": "La Union Sur",
+        "slug": "la-union-sur-sv07002"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SV07",
+        "level": 1,
+        "name": {
+          "local": "La Unión",
+          "en": "La Union",
+          "slug": "la-union-sv07"
+        }
+      },
+      {
+        "id": "SV07002",
+        "level": 2,
+        "name": {
+          "local": "La Unión Sur",
+          "en": "La Union Sur",
+          "slug": "la-union-sur-sv07002"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "13.442",
+      "lon": "-87.915"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SV07002007",
+    "level": 3,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Yayantique",
+      "en": "Yayantique",
+      "slug": "yayantique-sv07002007"
+    },
+    "code": {
+      "id": "SV07002007",
+      "iso": null
+    },
+    "parent": {
+      "id": "SV07002",
+      "level": 2,
+      "name": {
+        "local": "La Unión Sur",
+        "en": "La Union Sur",
+        "slug": "la-union-sur-sv07002"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SV07",
+        "level": 1,
+        "name": {
+          "local": "La Unión",
+          "en": "La Union",
+          "slug": "la-union-sv07"
+        }
+      },
+      {
+        "id": "SV07002",
+        "level": 2,
+        "name": {
+          "local": "La Unión Sur",
+          "en": "La Union Sur",
+          "slug": "la-union-sur-sv07002"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "13.446",
+      "lon": "-88.019"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SV07002008",
+    "level": 3,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Yucuaiquín",
+      "en": "Yucuaiquin",
+      "slug": "yucuaiquin-sv07002008"
+    },
+    "code": {
+      "id": "SV07002008",
+      "iso": null
+    },
+    "parent": {
+      "id": "SV07002",
+      "level": 2,
+      "name": {
+        "local": "La Unión Sur",
+        "en": "La Union Sur",
+        "slug": "la-union-sur-sv07002"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SV07",
+        "level": 1,
+        "name": {
+          "local": "La Unión",
+          "en": "La Union",
+          "slug": "la-union-sv07"
+        }
+      },
+      {
+        "id": "SV07002",
+        "level": 2,
+        "name": {
+          "local": "La Unión Sur",
+          "en": "La Union Sur",
+          "slug": "la-union-sur-sv07002"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "13.539",
+      "lon": "-88.005"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

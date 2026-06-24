@@ -1,0 +1,91 @@
+# La Union — El Salvador Administrative Divisions
+
+> 2 districts, 18 municipalitys
+> Code: SV07
+> Coordinates: 13.525, -87.906
+> Last updated: 2026-06-24. License: CC-BY-4.0.
+
+## Districts
+
+### La Unión Norte (La Union Norte)
+
+Code: SV07001, Coordinates: 13.65, -87.86
+Municipalitys: 10
+
+#### Anamorós (Anamoros)
+
+Code: SV07001001, Coordinates: 13.733, -87.884
+
+#### Bolívar (Bolivar)
+
+Code: SV07001002, Coordinates: 13.557, -87.954
+
+#### Concepción de Oriente (Concepcion de Oriente)
+
+Code: SV07001003, Coordinates: 13.777, -87.733
+
+#### El Sauce
+
+Code: SV07001004, Coordinates: 13.681, -87.808
+
+#### Lislique
+
+Code: SV07001005, Coordinates: 13.828, -87.922
+
+#### Nueva Esparta
+
+Code: SV07001006, Coordinates: 13.817, -87.867
+
+#### Pasaquina
+
+Code: SV07001007, Coordinates: 13.518, -87.829
+
+#### Polorós (Poloros)
+
+Code: SV07001008, Coordinates: 13.81, -87.802
+
+#### San José (San Jose)
+
+Code: SV07001009, Coordinates: 13.551, -87.9
+
+#### Santa Rosa de Lima
+
+Code: SV07001010, Coordinates: 13.65, -87.908
+
+### La Unión Sur (La Union Sur)
+
+Code: SV07002, Coordinates: 13.369, -87.95
+Municipalitys: 8
+
+#### Conchagua
+
+Code: SV07002001, Coordinates: 13.267, -87.876
+
+#### El Carmen
+
+Code: SV07002002, Coordinates: 13.319, -87.999
+
+#### Intipucá (Intipuca)
+
+Code: SV07002003, Coordinates: 13.204, -88.04
+
+#### La Unión (La Union)
+
+Code: SV07002004, Coordinates: 13.309, -87.815
+
+#### Meanguera del Golfo
+
+Code: SV07002005, Coordinates: 13.19, -87.712
+
+#### San Alejo
+
+Code: SV07002006, Coordinates: 13.442, -87.915
+
+#### Yayantique
+
+Code: SV07002007, Coordinates: 13.446, -88.019
+
+#### Yucuaiquín (Yucuaiquin)
+
+Code: SV07002008, Coordinates: 13.539, -88.005
+

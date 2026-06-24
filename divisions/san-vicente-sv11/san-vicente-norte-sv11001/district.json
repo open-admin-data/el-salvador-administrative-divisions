@@ -1,0 +1,47 @@
+{
+  "id": "SV11001",
+  "level": 2,
+  "level_name": {
+    "local": "Distrito",
+    "en": "District"
+  },
+  "name": {
+    "local": "San Vicente Norte",
+    "en": "San Vicente Norte",
+    "slug": "san-vicente-norte-sv11001"
+  },
+  "code": {
+    "id": "SV11001",
+    "iso": null
+  },
+  "parent": {
+    "id": "SV11",
+    "level": 1,
+    "name": {
+      "local": "San Vicente",
+      "en": "San Vicente",
+      "slug": "san-vicente-sv11"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "SV11",
+      "level": 1,
+      "name": {
+        "local": "San Vicente",
+        "en": "San Vicente",
+        "slug": "san-vicente-sv11"
+      }
+    }
+  ],
+  "children_count": {
+    "municipality": 7
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "13.697",
+    "lon": "-88.681"
+  },
+  "metadata": {},
+  "source": {}
+}

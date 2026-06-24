@@ -1,0 +1,47 @@
+{
+  "id": "SV12004",
+  "level": 2,
+  "level_name": {
+    "local": "Distrito",
+    "en": "District"
+  },
+  "name": {
+    "local": "Santa Ana Oeste",
+    "en": "Santa Ana Oeste",
+    "slug": "santa-ana-oeste-sv12004"
+  },
+  "code": {
+    "id": "SV12004",
+    "iso": null
+  },
+  "parent": {
+    "id": "SV12",
+    "level": 1,
+    "name": {
+      "local": "Santa Ana",
+      "en": "Santa Ana",
+      "slug": "santa-ana-sv12"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "SV12",
+      "level": 1,
+      "name": {
+        "local": "Santa Ana",
+        "en": "Santa Ana",
+        "slug": "santa-ana-sv12"
+      }
+    }
+  ],
+  "children_count": {
+    "municipality": 6
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "14.046",
+    "lon": "-89.677"
+  },
+  "metadata": {},
+  "source": {}
+}

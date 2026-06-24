@@ -1,0 +1,326 @@
+[
+  {
+    "id": "SV13002001",
+    "level": 3,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Armenia",
+      "en": "Armenia",
+      "slug": "armenia-sv13002001"
+    },
+    "code": {
+      "id": "SV13002001",
+      "iso": null
+    },
+    "parent": {
+      "id": "SV13002",
+      "level": 2,
+      "name": {
+        "local": "Sonsonate Este",
+        "en": "Sonsonate Este",
+        "slug": "sonsonate-este-sv13002"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SV13",
+        "level": 1,
+        "name": {
+          "local": "Sonsonate",
+          "en": "Sonsonate",
+          "slug": "sonsonate-sv13"
+        }
+      },
+      {
+        "id": "SV13002",
+        "level": 2,
+        "name": {
+          "local": "Sonsonate Este",
+          "en": "Sonsonate Este",
+          "slug": "sonsonate-este-sv13002"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "13.75",
+      "lon": "-89.486"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SV13002002",
+    "level": 3,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Caluco",
+      "en": "Caluco",
+      "slug": "caluco-sv13002002"
+    },
+    "code": {
+      "id": "SV13002002",
+      "iso": null
+    },
+    "parent": {
+      "id": "SV13002",
+      "level": 2,
+      "name": {
+        "local": "Sonsonate Este",
+        "en": "Sonsonate Este",
+        "slug": "sonsonate-este-sv13002"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SV13",
+        "level": 1,
+        "name": {
+          "local": "Sonsonate",
+          "en": "Sonsonate",
+          "slug": "sonsonate-sv13"
+        }
+      },
+      {
+        "id": "SV13002",
+        "level": 2,
+        "name": {
+          "local": "Sonsonate Este",
+          "en": "Sonsonate Este",
+          "slug": "sonsonate-este-sv13002"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "13.698",
+      "lon": "-89.633"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SV13002003",
+    "level": 3,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Cuisnahuat",
+      "en": "Cuisnahuat",
+      "slug": "cuisnahuat-sv13002003"
+    },
+    "code": {
+      "id": "SV13002003",
+      "iso": null
+    },
+    "parent": {
+      "id": "SV13002",
+      "level": 2,
+      "name": {
+        "local": "Sonsonate Este",
+        "en": "Sonsonate Este",
+        "slug": "sonsonate-este-sv13002"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SV13",
+        "level": 1,
+        "name": {
+          "local": "Sonsonate",
+          "en": "Sonsonate",
+          "slug": "sonsonate-sv13"
+        }
+      },
+      {
+        "id": "SV13002",
+        "level": 2,
+        "name": {
+          "local": "Sonsonate Este",
+          "en": "Sonsonate Este",
+          "slug": "sonsonate-este-sv13002"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "13.621",
+      "lon": "-89.637"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SV13002004",
+    "level": 3,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Izalco",
+      "en": "Izalco",
+      "slug": "izalco-sv13002004"
+    },
+    "code": {
+      "id": "SV13002004",
+      "iso": null
+    },
+    "parent": {
+      "id": "SV13002",
+      "level": 2,
+      "name": {
+        "local": "Sonsonate Este",
+        "en": "Sonsonate Este",
+        "slug": "sonsonate-este-sv13002"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SV13",
+        "level": 1,
+        "name": {
+          "local": "Sonsonate",
+          "en": "Sonsonate",
+          "slug": "sonsonate-sv13"
+        }
+      },
+      {
+        "id": "SV13002",
+        "level": 2,
+        "name": {
+          "local": "Sonsonate Este",
+          "en": "Sonsonate Este",
+          "slug": "sonsonate-este-sv13002"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "13.749",
+      "lon": "-89.637"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SV13002005",
+    "level": 3,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "San Julián",
+      "en": "San Julian",
+      "slug": "san-julian-sv13002005"
+    },
+    "code": {
+      "id": "SV13002005",
+      "iso": null
+    },
+    "parent": {
+      "id": "SV13002",
+      "level": 2,
+      "name": {
+        "local": "Sonsonate Este",
+        "en": "Sonsonate Este",
+        "slug": "sonsonate-este-sv13002"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SV13",
+        "level": 1,
+        "name": {
+          "local": "Sonsonate",
+          "en": "Sonsonate",
+          "slug": "sonsonate-sv13"
+        }
+      },
+      {
+        "id": "SV13002",
+        "level": 2,
+        "name": {
+          "local": "Sonsonate Este",
+          "en": "Sonsonate Este",
+          "slug": "sonsonate-este-sv13002"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "13.7",
+      "lon": "-89.562"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SV13002006",
+    "level": 3,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Santa Isabel Ishuatán",
+      "en": "Santa Isabel Ishuatan",
+      "slug": "santa-isabel-ishuatan-sv13002006"
+    },
+    "code": {
+      "id": "SV13002006",
+      "iso": null
+    },
+    "parent": {
+      "id": "SV13002",
+      "level": 2,
+      "name": {
+        "local": "Sonsonate Este",
+        "en": "Sonsonate Este",
+        "slug": "sonsonate-este-sv13002"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SV13",
+        "level": 1,
+        "name": {
+          "local": "Sonsonate",
+          "en": "Sonsonate",
+          "slug": "sonsonate-sv13"
+        }
+      },
+      {
+        "id": "SV13002",
+        "level": 2,
+        "name": {
+          "local": "Sonsonate Este",
+          "en": "Sonsonate Este",
+          "slug": "sonsonate-este-sv13002"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "13.587",
+      "lon": "-89.589"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

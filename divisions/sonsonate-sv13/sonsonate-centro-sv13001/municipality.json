@@ -1,0 +1,272 @@
+[
+  {
+    "id": "SV13001001",
+    "level": 3,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Nahulingo",
+      "en": "Nahulingo",
+      "slug": "nahulingo-sv13001001"
+    },
+    "code": {
+      "id": "SV13001001",
+      "iso": null
+    },
+    "parent": {
+      "id": "SV13001",
+      "level": 2,
+      "name": {
+        "local": "Sonsonate Centro",
+        "en": "Sonsonate Centro",
+        "slug": "sonsonate-centro-sv13001"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SV13",
+        "level": 1,
+        "name": {
+          "local": "Sonsonate",
+          "en": "Sonsonate",
+          "slug": "sonsonate-sv13"
+        }
+      },
+      {
+        "id": "SV13001",
+        "level": 2,
+        "name": {
+          "local": "Sonsonate Centro",
+          "en": "Sonsonate Centro",
+          "slug": "sonsonate-centro-sv13001"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "13.658",
+      "lon": "-89.716"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SV13001002",
+    "level": 3,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "San Antonio del Monte",
+      "en": "San Antonio del Monte",
+      "slug": "san-antonio-del-monte-sv13001002"
+    },
+    "code": {
+      "id": "SV13001002",
+      "iso": null
+    },
+    "parent": {
+      "id": "SV13001",
+      "level": 2,
+      "name": {
+        "local": "Sonsonate Centro",
+        "en": "Sonsonate Centro",
+        "slug": "sonsonate-centro-sv13001"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SV13",
+        "level": 1,
+        "name": {
+          "local": "Sonsonate",
+          "en": "Sonsonate",
+          "slug": "sonsonate-sv13"
+        }
+      },
+      {
+        "id": "SV13001",
+        "level": 2,
+        "name": {
+          "local": "Sonsonate Centro",
+          "en": "Sonsonate Centro",
+          "slug": "sonsonate-centro-sv13001"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "13.713",
+      "lon": "-89.747"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SV13001003",
+    "level": 3,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Santo Domingo",
+      "en": "Santo Domingo",
+      "slug": "santo-domingo-sv13001003"
+    },
+    "code": {
+      "id": "SV13001003",
+      "iso": null
+    },
+    "parent": {
+      "id": "SV13001",
+      "level": 2,
+      "name": {
+        "local": "Sonsonate Centro",
+        "en": "Sonsonate Centro",
+        "slug": "sonsonate-centro-sv13001"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SV13",
+        "level": 1,
+        "name": {
+          "local": "Sonsonate",
+          "en": "Sonsonate",
+          "slug": "sonsonate-sv13"
+        }
+      },
+      {
+        "id": "SV13001",
+        "level": 2,
+        "name": {
+          "local": "Sonsonate Centro",
+          "en": "Sonsonate Centro",
+          "slug": "sonsonate-centro-sv13001"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "13.71",
+      "lon": "-89.788"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SV13001004",
+    "level": 3,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Sonsonate",
+      "en": "Sonsonate",
+      "slug": "sonsonate-sv13001004"
+    },
+    "code": {
+      "id": "SV13001004",
+      "iso": null
+    },
+    "parent": {
+      "id": "SV13001",
+      "level": 2,
+      "name": {
+        "local": "Sonsonate Centro",
+        "en": "Sonsonate Centro",
+        "slug": "sonsonate-centro-sv13001"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SV13",
+        "level": 1,
+        "name": {
+          "local": "Sonsonate",
+          "en": "Sonsonate",
+          "slug": "sonsonate-sv13"
+        }
+      },
+      {
+        "id": "SV13001",
+        "level": 2,
+        "name": {
+          "local": "Sonsonate Centro",
+          "en": "Sonsonate Centro",
+          "slug": "sonsonate-centro-sv13001"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "13.637",
+      "lon": "-89.671"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SV13001005",
+    "level": 3,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Sonzacate",
+      "en": "Sonzacate",
+      "slug": "sonzacate-sv13001005"
+    },
+    "code": {
+      "id": "SV13001005",
+      "iso": null
+    },
+    "parent": {
+      "id": "SV13001",
+      "level": 2,
+      "name": {
+        "local": "Sonsonate Centro",
+        "en": "Sonsonate Centro",
+        "slug": "sonsonate-centro-sv13001"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SV13",
+        "level": 1,
+        "name": {
+          "local": "Sonsonate",
+          "en": "Sonsonate",
+          "slug": "sonsonate-sv13"
+        }
+      },
+      {
+        "id": "SV13001",
+        "level": 2,
+        "name": {
+          "local": "Sonsonate Centro",
+          "en": "Sonsonate Centro",
+          "slug": "sonsonate-centro-sv13001"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "13.75",
+      "lon": "-89.714"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

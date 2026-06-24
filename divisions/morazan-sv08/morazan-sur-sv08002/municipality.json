@@ -1,0 +1,812 @@
+[
+  {
+    "id": "SV08002001",
+    "level": 3,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Chilanga",
+      "en": "Chilanga",
+      "slug": "chilanga-sv08002001"
+    },
+    "code": {
+      "id": "SV08002001",
+      "iso": null
+    },
+    "parent": {
+      "id": "SV08002",
+      "level": 2,
+      "name": {
+        "local": "Morazán Sur",
+        "en": "Morazan Sur",
+        "slug": "morazan-sur-sv08002"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SV08",
+        "level": 1,
+        "name": {
+          "local": "Morazán",
+          "en": "Morazan",
+          "slug": "morazan-sv08"
+        }
+      },
+      {
+        "id": "SV08002",
+        "level": 2,
+        "name": {
+          "local": "Morazán Sur",
+          "en": "Morazan Sur",
+          "slug": "morazan-sur-sv08002"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "13.732",
+      "lon": "-88.139"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SV08002002",
+    "level": 3,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Delicias de Concepción",
+      "en": "Delicias de Concepcion",
+      "slug": "delicias-de-concepcion-sv08002002"
+    },
+    "code": {
+      "id": "SV08002002",
+      "iso": null
+    },
+    "parent": {
+      "id": "SV08002",
+      "level": 2,
+      "name": {
+        "local": "Morazán Sur",
+        "en": "Morazan Sur",
+        "slug": "morazan-sur-sv08002"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SV08",
+        "level": 1,
+        "name": {
+          "local": "Morazán",
+          "en": "Morazan",
+          "slug": "morazan-sv08"
+        }
+      },
+      {
+        "id": "SV08002",
+        "level": 2,
+        "name": {
+          "local": "Morazán Sur",
+          "en": "Morazan Sur",
+          "slug": "morazan-sur-sv08002"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "13.777",
+      "lon": "-88.154"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SV08002003",
+    "level": 3,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "El Divisadero",
+      "en": "El Divisadero",
+      "slug": "el-divisadero-sv08002003"
+    },
+    "code": {
+      "id": "SV08002003",
+      "iso": null
+    },
+    "parent": {
+      "id": "SV08002",
+      "level": 2,
+      "name": {
+        "local": "Morazán Sur",
+        "en": "Morazan Sur",
+        "slug": "morazan-sur-sv08002"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SV08",
+        "level": 1,
+        "name": {
+          "local": "Morazán",
+          "en": "Morazan",
+          "slug": "morazan-sv08"
+        }
+      },
+      {
+        "id": "SV08002",
+        "level": 2,
+        "name": {
+          "local": "Morazán Sur",
+          "en": "Morazan Sur",
+          "slug": "morazan-sur-sv08002"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "13.584",
+      "lon": "-88.092"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SV08002004",
+    "level": 3,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Gualococti",
+      "en": "Gualococti",
+      "slug": "gualococti-sv08002004"
+    },
+    "code": {
+      "id": "SV08002004",
+      "iso": null
+    },
+    "parent": {
+      "id": "SV08002",
+      "level": 2,
+      "name": {
+        "local": "Morazán Sur",
+        "en": "Morazan Sur",
+        "slug": "morazan-sur-sv08002"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SV08",
+        "level": 1,
+        "name": {
+          "local": "Morazán",
+          "en": "Morazan",
+          "slug": "morazan-sv08"
+        }
+      },
+      {
+        "id": "SV08002",
+        "level": 2,
+        "name": {
+          "local": "Morazán Sur",
+          "en": "Morazan Sur",
+          "slug": "morazan-sur-sv08002"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "13.812",
+      "lon": "-88.198"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SV08002005",
+    "level": 3,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Guatajiagua",
+      "en": "Guatajiagua",
+      "slug": "guatajiagua-sv08002005"
+    },
+    "code": {
+      "id": "SV08002005",
+      "iso": null
+    },
+    "parent": {
+      "id": "SV08002",
+      "level": 2,
+      "name": {
+        "local": "Morazán Sur",
+        "en": "Morazan Sur",
+        "slug": "morazan-sur-sv08002"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SV08",
+        "level": 1,
+        "name": {
+          "local": "Morazán",
+          "en": "Morazan",
+          "slug": "morazan-sv08"
+        }
+      },
+      {
+        "id": "SV08002",
+        "level": 2,
+        "name": {
+          "local": "Morazán Sur",
+          "en": "Morazan Sur",
+          "slug": "morazan-sur-sv08002"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "13.681",
+      "lon": "-88.227"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SV08002006",
+    "level": 3,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Jocoro",
+      "en": "Jocoro",
+      "slug": "jocoro-sv08002006"
+    },
+    "code": {
+      "id": "SV08002006",
+      "iso": null
+    },
+    "parent": {
+      "id": "SV08002",
+      "level": 2,
+      "name": {
+        "local": "Morazán Sur",
+        "en": "Morazan Sur",
+        "slug": "morazan-sur-sv08002"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SV08",
+        "level": 1,
+        "name": {
+          "local": "Morazán",
+          "en": "Morazan",
+          "slug": "morazan-sv08"
+        }
+      },
+      {
+        "id": "SV08002",
+        "level": 2,
+        "name": {
+          "local": "Morazán Sur",
+          "en": "Morazan Sur",
+          "slug": "morazan-sur-sv08002"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "13.616",
+      "lon": "-88.014"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SV08002007",
+    "level": 3,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Lolotiquillo",
+      "en": "Lolotiquillo",
+      "slug": "lolotiquillo-sv08002007"
+    },
+    "code": {
+      "id": "SV08002007",
+      "iso": null
+    },
+    "parent": {
+      "id": "SV08002",
+      "level": 2,
+      "name": {
+        "local": "Morazán Sur",
+        "en": "Morazan Sur",
+        "slug": "morazan-sur-sv08002"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SV08",
+        "level": 1,
+        "name": {
+          "local": "Morazán",
+          "en": "Morazan",
+          "slug": "morazan-sv08"
+        }
+      },
+      {
+        "id": "SV08002",
+        "level": 2,
+        "name": {
+          "local": "Morazán Sur",
+          "en": "Morazan Sur",
+          "slug": "morazan-sur-sv08002"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "13.73",
+      "lon": "-88.073"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SV08002008",
+    "level": 3,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Osicala",
+      "en": "Osicala",
+      "slug": "osicala-sv08002008"
+    },
+    "code": {
+      "id": "SV08002008",
+      "iso": null
+    },
+    "parent": {
+      "id": "SV08002",
+      "level": 2,
+      "name": {
+        "local": "Morazán Sur",
+        "en": "Morazan Sur",
+        "slug": "morazan-sur-sv08002"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SV08",
+        "level": 1,
+        "name": {
+          "local": "Morazán",
+          "en": "Morazan",
+          "slug": "morazan-sv08"
+        }
+      },
+      {
+        "id": "SV08002",
+        "level": 2,
+        "name": {
+          "local": "Morazán Sur",
+          "en": "Morazan Sur",
+          "slug": "morazan-sur-sv08002"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "13.807",
+      "lon": "-88.152"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SV08002009",
+    "level": 3,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "San Carlos",
+      "en": "San Carlos",
+      "slug": "san-carlos-sv08002009"
+    },
+    "code": {
+      "id": "SV08002009",
+      "iso": null
+    },
+    "parent": {
+      "id": "SV08002",
+      "level": 2,
+      "name": {
+        "local": "Morazán Sur",
+        "en": "Morazan Sur",
+        "slug": "morazan-sur-sv08002"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SV08",
+        "level": 1,
+        "name": {
+          "local": "Morazán",
+          "en": "Morazan",
+          "slug": "morazan-sv08"
+        }
+      },
+      {
+        "id": "SV08002",
+        "level": 2,
+        "name": {
+          "local": "Morazán Sur",
+          "en": "Morazan Sur",
+          "slug": "morazan-sur-sv08002"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "13.624",
+      "lon": "-88.103"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SV08002010",
+    "level": 3,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "San Francisco Gotera",
+      "en": "San Francisco Gotera",
+      "slug": "san-francisco-gotera-sv08002010"
+    },
+    "code": {
+      "id": "SV08002010",
+      "iso": null
+    },
+    "parent": {
+      "id": "SV08002",
+      "level": 2,
+      "name": {
+        "local": "Morazán Sur",
+        "en": "Morazan Sur",
+        "slug": "morazan-sur-sv08002"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SV08",
+        "level": 1,
+        "name": {
+          "local": "Morazán",
+          "en": "Morazan",
+          "slug": "morazan-sv08"
+        }
+      },
+      {
+        "id": "SV08002",
+        "level": 2,
+        "name": {
+          "local": "Morazán Sur",
+          "en": "Morazan Sur",
+          "slug": "morazan-sur-sv08002"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "13.67",
+      "lon": "-88.083"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SV08002011",
+    "level": 3,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "San Simón",
+      "en": "San Simon",
+      "slug": "san-simon-sv08002011"
+    },
+    "code": {
+      "id": "SV08002011",
+      "iso": null
+    },
+    "parent": {
+      "id": "SV08002",
+      "level": 2,
+      "name": {
+        "local": "Morazán Sur",
+        "en": "Morazan Sur",
+        "slug": "morazan-sur-sv08002"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SV08",
+        "level": 1,
+        "name": {
+          "local": "Morazán",
+          "en": "Morazan",
+          "slug": "morazan-sv08"
+        }
+      },
+      {
+        "id": "SV08002",
+        "level": 2,
+        "name": {
+          "local": "Morazán Sur",
+          "en": "Morazan Sur",
+          "slug": "morazan-sur-sv08002"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "13.802",
+      "lon": "-88.241"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SV08002012",
+    "level": 3,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Sensembra",
+      "en": "Sensembra",
+      "slug": "sensembra-sv08002012"
+    },
+    "code": {
+      "id": "SV08002012",
+      "iso": null
+    },
+    "parent": {
+      "id": "SV08002",
+      "level": 2,
+      "name": {
+        "local": "Morazán Sur",
+        "en": "Morazan Sur",
+        "slug": "morazan-sur-sv08002"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SV08",
+        "level": 1,
+        "name": {
+          "local": "Morazán",
+          "en": "Morazan",
+          "slug": "morazan-sv08"
+        }
+      },
+      {
+        "id": "SV08002",
+        "level": 2,
+        "name": {
+          "local": "Morazán Sur",
+          "en": "Morazan Sur",
+          "slug": "morazan-sur-sv08002"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "13.696",
+      "lon": "-88.173"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SV08002013",
+    "level": 3,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Sociedad",
+      "en": "Sociedad",
+      "slug": "sociedad-sv08002013"
+    },
+    "code": {
+      "id": "SV08002013",
+      "iso": null
+    },
+    "parent": {
+      "id": "SV08002",
+      "level": 2,
+      "name": {
+        "local": "Morazán Sur",
+        "en": "Morazan Sur",
+        "slug": "morazan-sur-sv08002"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SV08",
+        "level": 1,
+        "name": {
+          "local": "Morazán",
+          "en": "Morazan",
+          "slug": "morazan-sv08"
+        }
+      },
+      {
+        "id": "SV08002",
+        "level": 2,
+        "name": {
+          "local": "Morazán Sur",
+          "en": "Morazan Sur",
+          "slug": "morazan-sur-sv08002"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "13.709",
+      "lon": "-87.999"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SV08002014",
+    "level": 3,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Yamabal",
+      "en": "Yamabal",
+      "slug": "yamabal-sv08002014"
+    },
+    "code": {
+      "id": "SV08002014",
+      "iso": null
+    },
+    "parent": {
+      "id": "SV08002",
+      "level": 2,
+      "name": {
+        "local": "Morazán Sur",
+        "en": "Morazan Sur",
+        "slug": "morazan-sur-sv08002"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SV08",
+        "level": 1,
+        "name": {
+          "local": "Morazán",
+          "en": "Morazan",
+          "slug": "morazan-sv08"
+        }
+      },
+      {
+        "id": "SV08002",
+        "level": 2,
+        "name": {
+          "local": "Morazán Sur",
+          "en": "Morazan Sur",
+          "slug": "morazan-sur-sv08002"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "13.686",
+      "lon": "-88.184"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SV08002015",
+    "level": 3,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Yoloaiquín",
+      "en": "Yoloaiquin",
+      "slug": "yoloaiquin-sv08002015"
+    },
+    "code": {
+      "id": "SV08002015",
+      "iso": null
+    },
+    "parent": {
+      "id": "SV08002",
+      "level": 2,
+      "name": {
+        "local": "Morazán Sur",
+        "en": "Morazan Sur",
+        "slug": "morazan-sur-sv08002"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SV08",
+        "level": 1,
+        "name": {
+          "local": "Morazán",
+          "en": "Morazan",
+          "slug": "morazan-sv08"
+        }
+      },
+      {
+        "id": "SV08002",
+        "level": 2,
+        "name": {
+          "local": "Morazán Sur",
+          "en": "Morazan Sur",
+          "slug": "morazan-sur-sv08002"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "13.764",
+      "lon": "-88.119"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

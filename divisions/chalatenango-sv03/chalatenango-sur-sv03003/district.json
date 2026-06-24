@@ -1,0 +1,47 @@
+{
+  "id": "SV03003",
+  "level": 2,
+  "level_name": {
+    "local": "Distrito",
+    "en": "District"
+  },
+  "name": {
+    "local": "Chalatenango Sur",
+    "en": "Chalatenango Sur",
+    "slug": "chalatenango-sur-sv03003"
+  },
+  "code": {
+    "id": "SV03003",
+    "iso": null
+  },
+  "parent": {
+    "id": "SV03",
+    "level": 1,
+    "name": {
+      "local": "Chalatenango",
+      "en": "Chalatenango",
+      "slug": "chalatenango-sv03"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "SV03",
+      "level": 1,
+      "name": {
+        "local": "Chalatenango",
+        "en": "Chalatenango",
+        "slug": "chalatenango-sv03"
+      }
+    }
+  ],
+  "children_count": {
+    "municipality": 20
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "14.066",
+    "lon": "-88.874"
+  },
+  "metadata": {},
+  "source": {}
+}

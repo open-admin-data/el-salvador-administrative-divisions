@@ -1,0 +1,218 @@
+[
+  {
+    "id": "SV02002001",
+    "level": 3,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Cinquera",
+      "en": "Cinquera",
+      "slug": "cinquera-sv02002001"
+    },
+    "code": {
+      "id": "SV02002001",
+      "iso": null
+    },
+    "parent": {
+      "id": "SV02002",
+      "level": 2,
+      "name": {
+        "local": "Cabañas Oeste",
+        "en": "Cabanas Oeste",
+        "slug": "cabanas-oeste-sv02002"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SV02",
+        "level": 1,
+        "name": {
+          "local": "Cabañas",
+          "en": "Cabanas",
+          "slug": "cabanas-sv02"
+        }
+      },
+      {
+        "id": "SV02002",
+        "level": 2,
+        "name": {
+          "local": "Cabañas Oeste",
+          "en": "Cabanas Oeste",
+          "slug": "cabanas-oeste-sv02002"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "13.889",
+      "lon": "-88.965"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SV02002002",
+    "level": 3,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Ilobasco",
+      "en": "Ilobasco",
+      "slug": "ilobasco-sv02002002"
+    },
+    "code": {
+      "id": "SV02002002",
+      "iso": null
+    },
+    "parent": {
+      "id": "SV02002",
+      "level": 2,
+      "name": {
+        "local": "Cabañas Oeste",
+        "en": "Cabanas Oeste",
+        "slug": "cabanas-oeste-sv02002"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SV02",
+        "level": 1,
+        "name": {
+          "local": "Cabañas",
+          "en": "Cabanas",
+          "slug": "cabanas-sv02"
+        }
+      },
+      {
+        "id": "SV02002",
+        "level": 2,
+        "name": {
+          "local": "Cabañas Oeste",
+          "en": "Cabanas Oeste",
+          "slug": "cabanas-oeste-sv02002"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "13.841",
+      "lon": "-88.815"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SV02002003",
+    "level": 3,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Jutiapa",
+      "en": "Jutiapa",
+      "slug": "jutiapa-sv02002003"
+    },
+    "code": {
+      "id": "SV02002003",
+      "iso": null
+    },
+    "parent": {
+      "id": "SV02002",
+      "level": 2,
+      "name": {
+        "local": "Cabañas Oeste",
+        "en": "Cabanas Oeste",
+        "slug": "cabanas-oeste-sv02002"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SV02",
+        "level": 1,
+        "name": {
+          "local": "Cabañas",
+          "en": "Cabanas",
+          "slug": "cabanas-sv02"
+        }
+      },
+      {
+        "id": "SV02002",
+        "level": 2,
+        "name": {
+          "local": "Cabañas Oeste",
+          "en": "Cabanas Oeste",
+          "slug": "cabanas-oeste-sv02002"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "13.915",
+      "lon": "-88.89"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SV02002004",
+    "level": 3,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Tejutepeque",
+      "en": "Tejutepeque",
+      "slug": "tejutepeque-sv02002004"
+    },
+    "code": {
+      "id": "SV02002004",
+      "iso": null
+    },
+    "parent": {
+      "id": "SV02002",
+      "level": 2,
+      "name": {
+        "local": "Cabañas Oeste",
+        "en": "Cabanas Oeste",
+        "slug": "cabanas-oeste-sv02002"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SV02",
+        "level": 1,
+        "name": {
+          "local": "Cabañas",
+          "en": "Cabanas",
+          "slug": "cabanas-sv02"
+        }
+      },
+      {
+        "id": "SV02002",
+        "level": 2,
+        "name": {
+          "local": "Cabañas Oeste",
+          "en": "Cabanas Oeste",
+          "slug": "cabanas-oeste-sv02002"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "13.851",
+      "lon": "-88.908"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

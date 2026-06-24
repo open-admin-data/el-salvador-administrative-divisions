@@ -1,0 +1,272 @@
+[
+  {
+    "id": "SV04001001",
+    "level": 3,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Oratorio de Concepción",
+      "en": "Oratorio de Concepcion",
+      "slug": "oratorio-de-concepcion-sv04001001"
+    },
+    "code": {
+      "id": "SV04001001",
+      "iso": null
+    },
+    "parent": {
+      "id": "SV04001",
+      "level": 2,
+      "name": {
+        "local": "Cuscatlán Norte",
+        "en": "Cuscatlan Norte",
+        "slug": "cuscatlan-norte-sv04001"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SV04",
+        "level": 1,
+        "name": {
+          "local": "Cuscatlán",
+          "en": "Cuscatlan",
+          "slug": "cuscatlan-sv04"
+        }
+      },
+      {
+        "id": "SV04001",
+        "level": 2,
+        "name": {
+          "local": "Cuscatlán Norte",
+          "en": "Cuscatlan Norte",
+          "slug": "cuscatlan-norte-sv04001"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "13.818",
+      "lon": "-89.051"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SV04001002",
+    "level": 3,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "San Bartolomé Perulapía",
+      "en": "San Bartolome Perulapia",
+      "slug": "san-bartolome-perulapia-sv04001002"
+    },
+    "code": {
+      "id": "SV04001002",
+      "iso": null
+    },
+    "parent": {
+      "id": "SV04001",
+      "level": 2,
+      "name": {
+        "local": "Cuscatlán Norte",
+        "en": "Cuscatlan Norte",
+        "slug": "cuscatlan-norte-sv04001"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SV04",
+        "level": 1,
+        "name": {
+          "local": "Cuscatlán",
+          "en": "Cuscatlan",
+          "slug": "cuscatlan-sv04"
+        }
+      },
+      {
+        "id": "SV04001",
+        "level": 2,
+        "name": {
+          "local": "Cuscatlán Norte",
+          "en": "Cuscatlan Norte",
+          "slug": "cuscatlan-norte-sv04001"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "13.772",
+      "lon": "-89.05"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SV04001003",
+    "level": 3,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "San José Guayabal",
+      "en": "San Jose Guayabal",
+      "slug": "san-jose-guayabal-sv04001003"
+    },
+    "code": {
+      "id": "SV04001003",
+      "iso": null
+    },
+    "parent": {
+      "id": "SV04001",
+      "level": 2,
+      "name": {
+        "local": "Cuscatlán Norte",
+        "en": "Cuscatlan Norte",
+        "slug": "cuscatlan-norte-sv04001"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SV04",
+        "level": 1,
+        "name": {
+          "local": "Cuscatlán",
+          "en": "Cuscatlan",
+          "slug": "cuscatlan-sv04"
+        }
+      },
+      {
+        "id": "SV04001",
+        "level": 2,
+        "name": {
+          "local": "Cuscatlán Norte",
+          "en": "Cuscatlan Norte",
+          "slug": "cuscatlan-norte-sv04001"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "13.841",
+      "lon": "-89.092"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SV04001004",
+    "level": 3,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "San Pedro Perulapán",
+      "en": "San Pedro Perulapan",
+      "slug": "san-pedro-perulapan-sv04001004"
+    },
+    "code": {
+      "id": "SV04001004",
+      "iso": null
+    },
+    "parent": {
+      "id": "SV04001",
+      "level": 2,
+      "name": {
+        "local": "Cuscatlán Norte",
+        "en": "Cuscatlan Norte",
+        "slug": "cuscatlan-norte-sv04001"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SV04",
+        "level": 1,
+        "name": {
+          "local": "Cuscatlán",
+          "en": "Cuscatlan",
+          "slug": "cuscatlan-sv04"
+        }
+      },
+      {
+        "id": "SV04001",
+        "level": 2,
+        "name": {
+          "local": "Cuscatlán Norte",
+          "en": "Cuscatlan Norte",
+          "slug": "cuscatlan-norte-sv04001"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "13.776",
+      "lon": "-89.009"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SV04001005",
+    "level": 3,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Suchitoto",
+      "en": "Suchitoto",
+      "slug": "suchitoto-sv04001005"
+    },
+    "code": {
+      "id": "SV04001005",
+      "iso": null
+    },
+    "parent": {
+      "id": "SV04001",
+      "level": 2,
+      "name": {
+        "local": "Cuscatlán Norte",
+        "en": "Cuscatlan Norte",
+        "slug": "cuscatlan-norte-sv04001"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SV04",
+        "level": 1,
+        "name": {
+          "local": "Cuscatlán",
+          "en": "Cuscatlan",
+          "slug": "cuscatlan-sv04"
+        }
+      },
+      {
+        "id": "SV04001",
+        "level": 2,
+        "name": {
+          "local": "Cuscatlán Norte",
+          "en": "Cuscatlan Norte",
+          "slug": "cuscatlan-norte-sv04001"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "13.95",
+      "lon": "-89.093"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

@@ -1,0 +1,218 @@
+[
+  {
+    "id": "SV12003001",
+    "level": 3,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Masahuat",
+      "en": "Masahuat",
+      "slug": "masahuat-sv12003001"
+    },
+    "code": {
+      "id": "SV12003001",
+      "iso": null
+    },
+    "parent": {
+      "id": "SV12003",
+      "level": 2,
+      "name": {
+        "local": "Santa Ana Norte",
+        "en": "Santa Ana Norte",
+        "slug": "santa-ana-norte-sv12003"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SV12",
+        "level": 1,
+        "name": {
+          "local": "Santa Ana",
+          "en": "Santa Ana",
+          "slug": "santa-ana-sv12"
+        }
+      },
+      {
+        "id": "SV12003",
+        "level": 2,
+        "name": {
+          "local": "Santa Ana Norte",
+          "en": "Santa Ana Norte",
+          "slug": "santa-ana-norte-sv12003"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "14.165",
+      "lon": "-89.409"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SV12003002",
+    "level": 3,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Metapán",
+      "en": "Metapan",
+      "slug": "metapan-sv12003002"
+    },
+    "code": {
+      "id": "SV12003002",
+      "iso": null
+    },
+    "parent": {
+      "id": "SV12003",
+      "level": 2,
+      "name": {
+        "local": "Santa Ana Norte",
+        "en": "Santa Ana Norte",
+        "slug": "santa-ana-norte-sv12003"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SV12",
+        "level": 1,
+        "name": {
+          "local": "Santa Ana",
+          "en": "Santa Ana",
+          "slug": "santa-ana-sv12"
+        }
+      },
+      {
+        "id": "SV12003",
+        "level": 2,
+        "name": {
+          "local": "Santa Ana Norte",
+          "en": "Santa Ana Norte",
+          "slug": "santa-ana-norte-sv12003"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "14.31",
+      "lon": "-89.402"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SV12003003",
+    "level": 3,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Santa Rosa Guachipilín",
+      "en": "Santa Rosa Guachipilin",
+      "slug": "santa-rosa-guachipilin-sv12003003"
+    },
+    "code": {
+      "id": "SV12003003",
+      "iso": null
+    },
+    "parent": {
+      "id": "SV12003",
+      "level": 2,
+      "name": {
+        "local": "Santa Ana Norte",
+        "en": "Santa Ana Norte",
+        "slug": "santa-ana-norte-sv12003"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SV12",
+        "level": 1,
+        "name": {
+          "local": "Santa Ana",
+          "en": "Santa Ana",
+          "slug": "santa-ana-sv12"
+        }
+      },
+      {
+        "id": "SV12003",
+        "level": 2,
+        "name": {
+          "local": "Santa Ana Norte",
+          "en": "Santa Ana Norte",
+          "slug": "santa-ana-norte-sv12003"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "14.2",
+      "lon": "-89.347"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SV12003004",
+    "level": 3,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Texistepeque",
+      "en": "Texistepeque",
+      "slug": "texistepeque-sv12003004"
+    },
+    "code": {
+      "id": "SV12003004",
+      "iso": null
+    },
+    "parent": {
+      "id": "SV12003",
+      "level": 2,
+      "name": {
+        "local": "Santa Ana Norte",
+        "en": "Santa Ana Norte",
+        "slug": "santa-ana-norte-sv12003"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SV12",
+        "level": 1,
+        "name": {
+          "local": "Santa Ana",
+          "en": "Santa Ana",
+          "slug": "santa-ana-sv12"
+        }
+      },
+      {
+        "id": "SV12003",
+        "level": 2,
+        "name": {
+          "local": "Santa Ana Norte",
+          "en": "Santa Ana Norte",
+          "slug": "santa-ana-norte-sv12003"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "14.117",
+      "lon": "-89.478"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

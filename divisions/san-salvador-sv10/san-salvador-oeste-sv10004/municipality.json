@@ -1,0 +1,110 @@
+[
+  {
+    "id": "SV10004001",
+    "level": 3,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Apopa",
+      "en": "Apopa",
+      "slug": "apopa-sv10004001"
+    },
+    "code": {
+      "id": "SV10004001",
+      "iso": null
+    },
+    "parent": {
+      "id": "SV10004",
+      "level": 2,
+      "name": {
+        "local": "San Salvador Oeste",
+        "en": "San Salvador Oeste",
+        "slug": "san-salvador-oeste-sv10004"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SV10",
+        "level": 1,
+        "name": {
+          "local": "San Salvador",
+          "en": "San Salvador",
+          "slug": "san-salvador-sv10"
+        }
+      },
+      {
+        "id": "SV10004",
+        "level": 2,
+        "name": {
+          "local": "San Salvador Oeste",
+          "en": "San Salvador Oeste",
+          "slug": "san-salvador-oeste-sv10004"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "13.797",
+      "lon": "-89.172"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SV10004002",
+    "level": 3,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Nejapa",
+      "en": "Nejapa",
+      "slug": "nejapa-sv10004002"
+    },
+    "code": {
+      "id": "SV10004002",
+      "iso": null
+    },
+    "parent": {
+      "id": "SV10004",
+      "level": 2,
+      "name": {
+        "local": "San Salvador Oeste",
+        "en": "San Salvador Oeste",
+        "slug": "san-salvador-oeste-sv10004"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SV10",
+        "level": 1,
+        "name": {
+          "local": "San Salvador",
+          "en": "San Salvador",
+          "slug": "san-salvador-sv10"
+        }
+      },
+      {
+        "id": "SV10004",
+        "level": 2,
+        "name": {
+          "local": "San Salvador Oeste",
+          "en": "San Salvador Oeste",
+          "slug": "san-salvador-oeste-sv10004"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "13.82",
+      "lon": "-89.219"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

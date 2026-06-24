@@ -1,0 +1,143 @@
+[
+  {
+    "id": "SV01001",
+    "level": 2,
+    "level_name": {
+      "local": "Distrito",
+      "en": "District"
+    },
+    "name": {
+      "local": "Ahuachapán Centro",
+      "en": "Ahuachapan Centro",
+      "slug": "ahuachapan-centro-sv01001"
+    },
+    "code": {
+      "id": "SV01001",
+      "iso": null
+    },
+    "parent": {
+      "id": "SV01",
+      "level": 1,
+      "name": {
+        "local": "Ahuachapán",
+        "en": "Ahuachapan",
+        "slug": "ahuachapan-sv01"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SV01",
+        "level": 1,
+        "name": {
+          "local": "Ahuachapán",
+          "en": "Ahuachapan",
+          "slug": "ahuachapan-sv01"
+        }
+      }
+    ],
+    "children_count": {
+      "municipality": 4
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "13.913",
+      "lon": "-89.899"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SV01002",
+    "level": 2,
+    "level_name": {
+      "local": "Distrito",
+      "en": "District"
+    },
+    "name": {
+      "local": "Ahuachapán Norte",
+      "en": "Ahuachapan Norte",
+      "slug": "ahuachapan-norte-sv01002"
+    },
+    "code": {
+      "id": "SV01002",
+      "iso": null
+    },
+    "parent": {
+      "id": "SV01",
+      "level": 1,
+      "name": {
+        "local": "Ahuachapán",
+        "en": "Ahuachapan",
+        "slug": "ahuachapan-sv01"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SV01",
+        "level": 1,
+        "name": {
+          "local": "Ahuachapán",
+          "en": "Ahuachapan",
+          "slug": "ahuachapan-sv01"
+        }
+      }
+    ],
+    "children_count": {
+      "municipality": 4
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "13.98",
+      "lon": "-89.738"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SV01003",
+    "level": 2,
+    "level_name": {
+      "local": "Distrito",
+      "en": "District"
+    },
+    "name": {
+      "local": "Ahuachapán Sur",
+      "en": "Ahuachapan Sur",
+      "slug": "ahuachapan-sur-sv01003"
+    },
+    "code": {
+      "id": "SV01003",
+      "iso": null
+    },
+    "parent": {
+      "id": "SV01",
+      "level": 1,
+      "name": {
+        "local": "Ahuachapán",
+        "en": "Ahuachapan",
+        "slug": "ahuachapan-sv01"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SV01",
+        "level": 1,
+        "name": {
+          "local": "Ahuachapán",
+          "en": "Ahuachapan",
+          "slug": "ahuachapan-sv01"
+        }
+      }
+    ],
+    "children_count": {
+      "municipality": 4
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "13.78",
+      "lon": "-90.018"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

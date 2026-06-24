@@ -1,0 +1,34 @@
+{
+  "id": "SV06",
+  "level": 1,
+  "level_name": {
+    "local": "Departamento",
+    "en": "Department"
+  },
+  "name": {
+    "local": "La Paz",
+    "en": "La Paz",
+    "slug": "la-paz-sv06"
+  },
+  "code": {
+    "id": "SV06",
+    "iso": null
+  },
+  "parent": null,
+  "ancestors": [],
+  "children_count": {
+    "district": 3,
+    "municipality": 22
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "13.462",
+    "lon": "-88.977"
+  },
+  "metadata": {},
+  "source": {
+    "name": "Open Admin Data",
+    "url": "https://openadmindata.org/sv/departments/la-paz-sv06/",
+    "api": "https://openadmindata.org/api/sv/"
+  }
+}

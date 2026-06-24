@@ -1,0 +1,110 @@
+[
+  {
+    "id": "SV05001001",
+    "level": 3,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Ciudad Arce",
+      "en": "Ciudad Arce",
+      "slug": "ciudad-arce-sv05001001"
+    },
+    "code": {
+      "id": "SV05001001",
+      "iso": null
+    },
+    "parent": {
+      "id": "SV05001",
+      "level": 2,
+      "name": {
+        "local": "La Libertad Centro",
+        "en": "La Libertad Centro",
+        "slug": "la-libertad-centro-sv05001"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SV05",
+        "level": 1,
+        "name": {
+          "local": "La Libertad",
+          "en": "La Libertad",
+          "slug": "la-libertad-sv05"
+        }
+      },
+      {
+        "id": "SV05001",
+        "level": 2,
+        "name": {
+          "local": "La Libertad Centro",
+          "en": "La Libertad Centro",
+          "slug": "la-libertad-centro-sv05001"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "13.81",
+      "lon": "-89.415"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SV05001002",
+    "level": 3,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "San Juan Opico",
+      "en": "San Juan Opico",
+      "slug": "san-juan-opico-sv05001002"
+    },
+    "code": {
+      "id": "SV05001002",
+      "iso": null
+    },
+    "parent": {
+      "id": "SV05001",
+      "level": 2,
+      "name": {
+        "local": "La Libertad Centro",
+        "en": "La Libertad Centro",
+        "slug": "la-libertad-centro-sv05001"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SV05",
+        "level": 1,
+        "name": {
+          "local": "La Libertad",
+          "en": "La Libertad",
+          "slug": "la-libertad-sv05"
+        }
+      },
+      {
+        "id": "SV05001",
+        "level": 2,
+        "name": {
+          "local": "La Libertad Centro",
+          "en": "La Libertad Centro",
+          "slug": "la-libertad-centro-sv05001"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "13.845",
+      "lon": "-89.353"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

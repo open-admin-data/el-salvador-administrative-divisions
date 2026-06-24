@@ -1,0 +1,119 @@
+# San Salvador — El Salvador Administrative Divisions
+
+> 6 districts, 20 municipalitys
+> Code: SV10
+> Coordinates: 13.763, -89.157
+> Last updated: 2026-06-24. License: CC-BY-4.0.
+
+## Districts
+
+### Lago de Llopango
+
+Code: SV10899, Coordinates: 13.667, -89.045
+Municipalitys: 1
+
+#### Lago de Llopango
+
+Code: SV10899001, Coordinates: 13.667, -89.045
+
+### San Salvador Centro
+
+Code: SV10001, Coordinates: 13.711, -89.212
+Municipalitys: 5
+
+#### Ayutuxtepeque
+
+Code: SV10001001, Coordinates: 13.745, -89.222
+
+#### Cuscatancingo
+
+Code: SV10001002, Coordinates: 13.766, -89.172
+
+#### Delgado
+
+Code: SV10001003, Coordinates: 13.749, -89.162
+
+#### Mejicanos
+
+Code: SV10001004, Coordinates: 13.735, -89.227
+
+#### San Salvador
+
+Code: SV10001005, Coordinates: 13.683, -89.198
+
+### San Salvador Este
+
+Code: SV10002, Coordinates: 13.75, -89.091
+Municipalitys: 4
+
+#### Ilopango
+
+Code: SV10002001, Coordinates: 13.687, -89.106
+
+#### San Martín (San Martin)
+
+Code: SV10002002, Coordinates: 13.746, -89.065
+
+#### Soyapango
+
+Code: SV10002003, Coordinates: 13.7, -89.14
+
+#### Tonacatepeque
+
+Code: SV10002004, Coordinates: 13.779, -89.111
+
+### San Salvador Norte
+
+Code: SV10003, Coordinates: 13.946, -89.209
+Municipalitys: 3
+
+#### Aguilares
+
+Code: SV10003001, Coordinates: 13.941, -89.205
+
+#### El Paisnal
+
+Code: SV10003002, Coordinates: 13.997, -89.218
+
+#### Guazapa
+
+Code: SV10003003, Coordinates: 13.896, -89.162
+
+### San Salvador Oeste
+
+Code: SV10004, Coordinates: 13.82, -89.193
+Municipalitys: 2
+
+#### Apopa
+
+Code: SV10004001, Coordinates: 13.797, -89.172
+
+#### Nejapa
+
+Code: SV10004002, Coordinates: 13.82, -89.219
+
+### San Salvador Sur
+
+Code: SV10005, Coordinates: 13.57, -89.176
+Municipalitys: 5
+
+#### Panchimalco
+
+Code: SV10005001, Coordinates: 13.553, -89.158
+
+#### Rosario de Mora
+
+Code: SV10005002, Coordinates: 13.529, -89.203
+
+#### San Marcos
+
+Code: SV10005003, Coordinates: 13.654, -89.171
+
+#### Santiago Texacuangos
+
+Code: SV10005004, Coordinates: 13.64, -89.1
+
+#### Santo Tomás (Santo Tomas)
+
+Code: SV10005005, Coordinates: 13.637, -89.142
+

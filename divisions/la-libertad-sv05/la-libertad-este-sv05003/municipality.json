@@ -1,0 +1,272 @@
+[
+  {
+    "id": "SV05003001",
+    "level": 3,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Antiguo Cuscatlán",
+      "en": "Antiguo Cuscatlan",
+      "slug": "antiguo-cuscatlan-sv05003001"
+    },
+    "code": {
+      "id": "SV05003001",
+      "iso": null
+    },
+    "parent": {
+      "id": "SV05003",
+      "level": 2,
+      "name": {
+        "local": "La Libertad Este",
+        "en": "La Libertad Este",
+        "slug": "la-libertad-este-sv05003"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SV05",
+        "level": 1,
+        "name": {
+          "local": "La Libertad",
+          "en": "La Libertad",
+          "slug": "la-libertad-sv05"
+        }
+      },
+      {
+        "id": "SV05003",
+        "level": 2,
+        "name": {
+          "local": "La Libertad Este",
+          "en": "La Libertad Este",
+          "slug": "la-libertad-este-sv05003"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "13.666",
+      "lon": "-89.247"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SV05003002",
+    "level": 3,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Huizúcar",
+      "en": "Huizucar",
+      "slug": "huizucar-sv05003002"
+    },
+    "code": {
+      "id": "SV05003002",
+      "iso": null
+    },
+    "parent": {
+      "id": "SV05003",
+      "level": 2,
+      "name": {
+        "local": "La Libertad Este",
+        "en": "La Libertad Este",
+        "slug": "la-libertad-este-sv05003"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SV05",
+        "level": 1,
+        "name": {
+          "local": "La Libertad",
+          "en": "La Libertad",
+          "slug": "la-libertad-sv05"
+        }
+      },
+      {
+        "id": "SV05003",
+        "level": 2,
+        "name": {
+          "local": "La Libertad Este",
+          "en": "La Libertad Este",
+          "slug": "la-libertad-este-sv05003"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "13.561",
+      "lon": "-89.231"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SV05003003",
+    "level": 3,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Nuevo Cuscatlán",
+      "en": "Nuevo Cuscatlan",
+      "slug": "nuevo-cuscatlan-sv05003003"
+    },
+    "code": {
+      "id": "SV05003003",
+      "iso": null
+    },
+    "parent": {
+      "id": "SV05003",
+      "level": 2,
+      "name": {
+        "local": "La Libertad Este",
+        "en": "La Libertad Este",
+        "slug": "la-libertad-este-sv05003"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SV05",
+        "level": 1,
+        "name": {
+          "local": "La Libertad",
+          "en": "La Libertad",
+          "slug": "la-libertad-sv05"
+        }
+      },
+      {
+        "id": "SV05003",
+        "level": 2,
+        "name": {
+          "local": "La Libertad Este",
+          "en": "La Libertad Este",
+          "slug": "la-libertad-este-sv05003"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "13.642",
+      "lon": "-89.261"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SV05003004",
+    "level": 3,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "San José Villanueva",
+      "en": "San Jose Villanueva",
+      "slug": "san-jose-villanueva-sv05003004"
+    },
+    "code": {
+      "id": "SV05003004",
+      "iso": null
+    },
+    "parent": {
+      "id": "SV05003",
+      "level": 2,
+      "name": {
+        "local": "La Libertad Este",
+        "en": "La Libertad Este",
+        "slug": "la-libertad-este-sv05003"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SV05",
+        "level": 1,
+        "name": {
+          "local": "La Libertad",
+          "en": "La Libertad",
+          "slug": "la-libertad-sv05"
+        }
+      },
+      {
+        "id": "SV05003",
+        "level": 2,
+        "name": {
+          "local": "La Libertad Este",
+          "en": "La Libertad Este",
+          "slug": "la-libertad-este-sv05003"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "13.564",
+      "lon": "-89.265"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SV05003005",
+    "level": 3,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Zaragoza",
+      "en": "Zaragoza",
+      "slug": "zaragoza-sv05003005"
+    },
+    "code": {
+      "id": "SV05003005",
+      "iso": null
+    },
+    "parent": {
+      "id": "SV05003",
+      "level": 2,
+      "name": {
+        "local": "La Libertad Este",
+        "en": "La Libertad Este",
+        "slug": "la-libertad-este-sv05003"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SV05",
+        "level": 1,
+        "name": {
+          "local": "La Libertad",
+          "en": "La Libertad",
+          "slug": "la-libertad-sv05"
+        }
+      },
+      {
+        "id": "SV05003",
+        "level": 2,
+        "name": {
+          "local": "La Libertad Este",
+          "en": "La Libertad Este",
+          "slug": "la-libertad-este-sv05003"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "13.568",
+      "lon": "-89.295"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

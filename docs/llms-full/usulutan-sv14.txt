@@ -1,0 +1,116 @@
+# Usulutan — El Salvador Administrative Divisions
+
+> 3 districts, 23 municipalitys
+> Code: SV14
+> Coordinates: 13.426, -88.534
+> Last updated: 2026-06-24. License: CC-BY-4.0.
+
+## Districts
+
+### Usulután Este (Usulutan Este)
+
+Code: SV14001, Coordinates: 13.315, -88.391
+Municipalitys: 10
+
+#### California
+
+Code: SV14001001, Coordinates: 13.435, -88.455
+
+#### Concepción Batres (Concepcion Batres)
+
+Code: SV14001002, Coordinates: 13.277, -88.361
+
+#### Ereguayquín (Ereguayquin)
+
+Code: SV14001003, Coordinates: 13.333, -88.385
+
+#### Jucuarán (Jucuaran)
+
+Code: SV14001004, Coordinates: 13.233, -88.267
+
+#### Ozatlán (Ozatlan)
+
+Code: SV14001005, Coordinates: 13.369, -88.517
+
+#### San Dionisio
+
+Code: SV14001006, Coordinates: 13.219, -88.502
+
+#### Santa Elena
+
+Code: SV14001007, Coordinates: 13.404, -88.417
+
+#### Santa María (Santa Maria)
+
+Code: SV14001008, Coordinates: 13.333, -88.41
+
+#### Tecapán (Tecapan)
+
+Code: SV14001009, Coordinates: 13.425, -88.502
+
+#### Usulután (Usulutan)
+
+Code: SV14001010, Coordinates: 13.288, -88.418
+
+### Usulután Norte (Usulutan Norte)
+
+Code: SV14002, Coordinates: 13.558, -88.513
+Municipalitys: 9
+
+#### Alegría (Alegria)
+
+Code: SV14002001, Coordinates: 13.495, -88.489
+
+#### Berlín (Berlin)
+
+Code: SV14002002, Coordinates: 13.515, -88.592
+
+#### El Triunfo
+
+Code: SV14002003, Coordinates: 13.593, -88.413
+
+#### Estanzuelas
+
+Code: SV14002004, Coordinates: 13.618, -88.509
+
+#### Jucuapa
+
+Code: SV14002005, Coordinates: 13.484, -88.398
+
+#### Mercedes Umaña (Mercedes Umana)
+
+Code: SV14002006, Coordinates: 13.563, -88.515
+
+#### Nueva Granada
+
+Code: SV14002007, Coordinates: 13.622, -88.436
+
+#### San Buenaventura
+
+Code: SV14002008, Coordinates: 13.578, -88.399
+
+#### Santiago de María (Santiago de Maria)
+
+Code: SV14002009, Coordinates: 13.486, -88.444
+
+### Usulután Oeste (Usulutan Oeste)
+
+Code: SV14003, Coordinates: 13.344, -88.617
+Municipalitys: 4
+
+#### Jiquilisco
+
+Code: SV14003001, Coordinates: 13.319, -88.629
+
+#### Puerto El Triunfo
+
+Code: SV14003002, Coordinates: 13.267, -88.527
+
+#### San Agustín (San Agustin)
+
+Code: SV14003003, Coordinates: 13.443, -88.584
+
+#### San Francisco Javier
+
+Code: SV14003004, Coordinates: 13.405, -88.567
+

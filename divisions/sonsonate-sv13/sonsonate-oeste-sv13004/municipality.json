@@ -1,0 +1,56 @@
+[
+  {
+    "id": "SV13004001",
+    "level": 3,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Acajutla",
+      "en": "Acajutla",
+      "slug": "acajutla-sv13004001"
+    },
+    "code": {
+      "id": "SV13004001",
+      "iso": null
+    },
+    "parent": {
+      "id": "SV13004",
+      "level": 2,
+      "name": {
+        "local": "Sonsonate Oeste",
+        "en": "Sonsonate Oeste",
+        "slug": "sonsonate-oeste-sv13004"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SV13",
+        "level": 1,
+        "name": {
+          "local": "Sonsonate",
+          "en": "Sonsonate",
+          "slug": "sonsonate-sv13"
+        }
+      },
+      {
+        "id": "SV13004",
+        "level": 2,
+        "name": {
+          "local": "Sonsonate Oeste",
+          "en": "Sonsonate Oeste",
+          "slug": "sonsonate-oeste-sv13004"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "13.612",
+      "lon": "-89.816"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

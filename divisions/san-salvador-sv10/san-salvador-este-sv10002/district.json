@@ -1,0 +1,47 @@
+{
+  "id": "SV10002",
+  "level": 2,
+  "level_name": {
+    "local": "Distrito",
+    "en": "District"
+  },
+  "name": {
+    "local": "San Salvador Este",
+    "en": "San Salvador Este",
+    "slug": "san-salvador-este-sv10002"
+  },
+  "code": {
+    "id": "SV10002",
+    "iso": null
+  },
+  "parent": {
+    "id": "SV10",
+    "level": 1,
+    "name": {
+      "local": "San Salvador",
+      "en": "San Salvador",
+      "slug": "san-salvador-sv10"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "SV10",
+      "level": 1,
+      "name": {
+        "local": "San Salvador",
+        "en": "San Salvador",
+        "slug": "san-salvador-sv10"
+      }
+    }
+  ],
+  "children_count": {
+    "municipality": 4
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "13.75",
+    "lon": "-89.091"
+  },
+  "metadata": {},
+  "source": {}
+}

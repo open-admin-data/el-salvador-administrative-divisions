@@ -1,0 +1,143 @@
+[
+  {
+    "id": "SV06001",
+    "level": 2,
+    "level_name": {
+      "local": "Distrito",
+      "en": "District"
+    },
+    "name": {
+      "local": "La Paz Centro",
+      "en": "La Paz Centro",
+      "slug": "la-paz-centro-sv06001"
+    },
+    "code": {
+      "id": "SV06001",
+      "iso": null
+    },
+    "parent": {
+      "id": "SV06",
+      "level": 1,
+      "name": {
+        "local": "La Paz",
+        "en": "La Paz",
+        "slug": "la-paz-sv06"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SV06",
+        "level": 1,
+        "name": {
+          "local": "La Paz",
+          "en": "La Paz",
+          "slug": "la-paz-sv06"
+        }
+      }
+    ],
+    "children_count": {
+      "municipality": 12
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "13.476",
+      "lon": "-88.978"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SV06002",
+    "level": 2,
+    "level_name": {
+      "local": "Distrito",
+      "en": "District"
+    },
+    "name": {
+      "local": "La Paz Este",
+      "en": "La Paz Este",
+      "slug": "la-paz-este-sv06002"
+    },
+    "code": {
+      "id": "SV06002",
+      "iso": null
+    },
+    "parent": {
+      "id": "SV06",
+      "level": 1,
+      "name": {
+        "local": "La Paz",
+        "en": "La Paz",
+        "slug": "la-paz-sv06"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SV06",
+        "level": 1,
+        "name": {
+          "local": "La Paz",
+          "en": "La Paz",
+          "slug": "la-paz-sv06"
+        }
+      }
+    ],
+    "children_count": {
+      "municipality": 3
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "13.444",
+      "lon": "-88.877"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SV06003",
+    "level": 2,
+    "level_name": {
+      "local": "Distrito",
+      "en": "District"
+    },
+    "name": {
+      "local": "La Paz Oeste",
+      "en": "La Paz Oeste",
+      "slug": "la-paz-oeste-sv06003"
+    },
+    "code": {
+      "id": "SV06003",
+      "iso": null
+    },
+    "parent": {
+      "id": "SV06",
+      "level": 1,
+      "name": {
+        "local": "La Paz",
+        "en": "La Paz",
+        "slug": "la-paz-sv06"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SV06",
+        "level": 1,
+        "name": {
+          "local": "La Paz",
+          "en": "La Paz",
+          "slug": "la-paz-sv06"
+        }
+      }
+    ],
+    "children_count": {
+      "municipality": 7
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "13.494",
+      "lon": "-89.092"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

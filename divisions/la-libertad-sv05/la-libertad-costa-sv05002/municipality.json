@@ -1,0 +1,272 @@
+[
+  {
+    "id": "SV05002001",
+    "level": 3,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Chiltiupán",
+      "en": "Chiltiupan",
+      "slug": "chiltiupan-sv05002001"
+    },
+    "code": {
+      "id": "SV05002001",
+      "iso": null
+    },
+    "parent": {
+      "id": "SV05002",
+      "level": 2,
+      "name": {
+        "local": "La Libertad Costa",
+        "en": "La Libertad Costa",
+        "slug": "la-libertad-costa-sv05002"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SV05",
+        "level": 1,
+        "name": {
+          "local": "La Libertad",
+          "en": "La Libertad",
+          "slug": "la-libertad-sv05"
+        }
+      },
+      {
+        "id": "SV05002",
+        "level": 2,
+        "name": {
+          "local": "La Libertad Costa",
+          "en": "La Libertad Costa",
+          "slug": "la-libertad-costa-sv05002"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "13.57",
+      "lon": "-89.459"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SV05002002",
+    "level": 3,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Jicalapa",
+      "en": "Jicalapa",
+      "slug": "jicalapa-sv05002002"
+    },
+    "code": {
+      "id": "SV05002002",
+      "iso": null
+    },
+    "parent": {
+      "id": "SV05002",
+      "level": 2,
+      "name": {
+        "local": "La Libertad Costa",
+        "en": "La Libertad Costa",
+        "slug": "la-libertad-costa-sv05002"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SV05",
+        "level": 1,
+        "name": {
+          "local": "La Libertad",
+          "en": "La Libertad",
+          "slug": "la-libertad-sv05"
+        }
+      },
+      {
+        "id": "SV05002",
+        "level": 2,
+        "name": {
+          "local": "La Libertad Costa",
+          "en": "La Libertad Costa",
+          "slug": "la-libertad-costa-sv05002"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "13.536",
+      "lon": "-89.511"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SV05002003",
+    "level": 3,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "La Libertad",
+      "en": "La Libertad",
+      "slug": "la-libertad-sv05002003"
+    },
+    "code": {
+      "id": "SV05002003",
+      "iso": null
+    },
+    "parent": {
+      "id": "SV05002",
+      "level": 2,
+      "name": {
+        "local": "La Libertad Costa",
+        "en": "La Libertad Costa",
+        "slug": "la-libertad-costa-sv05002"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SV05",
+        "level": 1,
+        "name": {
+          "local": "La Libertad",
+          "en": "La Libertad",
+          "slug": "la-libertad-sv05"
+        }
+      },
+      {
+        "id": "SV05002",
+        "level": 2,
+        "name": {
+          "local": "La Libertad Costa",
+          "en": "La Libertad Costa",
+          "slug": "la-libertad-costa-sv05002"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "13.479",
+      "lon": "-89.243"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SV05002004",
+    "level": 3,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Tamanique",
+      "en": "Tamanique",
+      "slug": "tamanique-sv05002004"
+    },
+    "code": {
+      "id": "SV05002004",
+      "iso": null
+    },
+    "parent": {
+      "id": "SV05002",
+      "level": 2,
+      "name": {
+        "local": "La Libertad Costa",
+        "en": "La Libertad Costa",
+        "slug": "la-libertad-costa-sv05002"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SV05",
+        "level": 1,
+        "name": {
+          "local": "La Libertad",
+          "en": "La Libertad",
+          "slug": "la-libertad-sv05"
+        }
+      },
+      {
+        "id": "SV05002",
+        "level": 2,
+        "name": {
+          "local": "La Libertad Costa",
+          "en": "La Libertad Costa",
+          "slug": "la-libertad-costa-sv05002"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "13.571",
+      "lon": "-89.414"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SV05002005",
+    "level": 3,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Teotepeque",
+      "en": "Teotepeque",
+      "slug": "teotepeque-sv05002005"
+    },
+    "code": {
+      "id": "SV05002005",
+      "iso": null
+    },
+    "parent": {
+      "id": "SV05002",
+      "level": 2,
+      "name": {
+        "local": "La Libertad Costa",
+        "en": "La Libertad Costa",
+        "slug": "la-libertad-costa-sv05002"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SV05",
+        "level": 1,
+        "name": {
+          "local": "La Libertad",
+          "en": "La Libertad",
+          "slug": "la-libertad-sv05"
+        }
+      },
+      {
+        "id": "SV05002",
+        "level": 2,
+        "name": {
+          "local": "La Libertad Costa",
+          "en": "La Libertad Costa",
+          "slug": "la-libertad-costa-sv05002"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "13.577",
+      "lon": "-89.529"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

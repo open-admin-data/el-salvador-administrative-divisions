@@ -1,0 +1,123 @@
+# Morazan — El Salvador Administrative Divisions
+
+> 2 districts, 26 municipalitys
+> Code: SV08
+> Coordinates: 13.763, -88.093
+> Last updated: 2026-06-24. License: CC-BY-4.0.
+
+## Districts
+
+### Morazán Norte (Morazan Norte)
+
+Code: SV08001, Coordinates: 13.86, -88.11
+Municipalitys: 11
+
+#### Arambala
+
+Code: SV08001001, Coordinates: 13.92, -88.128
+
+#### Cacaopera
+
+Code: SV08001002, Coordinates: 13.799, -88.047
+
+#### Corinto
+
+Code: SV08001003, Coordinates: 13.821, -87.973
+
+#### El Rosario
+
+Code: SV08001004, Coordinates: 13.862, -88.201
+
+#### Joateca
+
+Code: SV08001005, Coordinates: 13.896, -88.058
+
+#### Jocoaitique
+
+Code: SV08001006, Coordinates: 13.904, -88.175
+
+#### Meanguera
+
+Code: SV08001007, Coordinates: 13.859, -88.134
+
+#### Perquín (Perquin)
+
+Code: SV08001008, Coordinates: 13.955, -88.14
+
+#### San Fernando
+
+Code: SV08001009, Coordinates: 13.926, -88.197
+
+#### San Isidro
+
+Code: SV08001010, Coordinates: 13.85, -88.237
+
+#### Torola
+
+Code: SV08001011, Coordinates: 13.904, -88.232
+
+### Morazán Sur (Morazan Sur)
+
+Code: SV08002, Coordinates: 13.695, -88.11
+Municipalitys: 15
+
+#### Chilanga
+
+Code: SV08002001, Coordinates: 13.732, -88.139
+
+#### Delicias de Concepción (Delicias de Concepcion)
+
+Code: SV08002002, Coordinates: 13.777, -88.154
+
+#### El Divisadero
+
+Code: SV08002003, Coordinates: 13.584, -88.092
+
+#### Gualococti
+
+Code: SV08002004, Coordinates: 13.812, -88.198
+
+#### Guatajiagua
+
+Code: SV08002005, Coordinates: 13.681, -88.227
+
+#### Jocoro
+
+Code: SV08002006, Coordinates: 13.616, -88.014
+
+#### Lolotiquillo
+
+Code: SV08002007, Coordinates: 13.73, -88.073
+
+#### Osicala
+
+Code: SV08002008, Coordinates: 13.807, -88.152
+
+#### San Carlos
+
+Code: SV08002009, Coordinates: 13.624, -88.103
+
+#### San Francisco Gotera
+
+Code: SV08002010, Coordinates: 13.67, -88.083
+
+#### San Simón (San Simon)
+
+Code: SV08002011, Coordinates: 13.802, -88.241
+
+#### Sensembra
+
+Code: SV08002012, Coordinates: 13.696, -88.173
+
+#### Sociedad
+
+Code: SV08002013, Coordinates: 13.709, -87.999
+
+#### Yamabal
+
+Code: SV08002014, Coordinates: 13.686, -88.184
+
+#### Yoloaiquín (Yoloaiquin)
+
+Code: SV08002015, Coordinates: 13.764, -88.119
+

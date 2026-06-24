@@ -1,0 +1,380 @@
+[
+  {
+    "id": "SV06003001",
+    "level": 3,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Cuyultitán",
+      "en": "Cuyultitan",
+      "slug": "cuyultitan-sv06003001"
+    },
+    "code": {
+      "id": "SV06003001",
+      "iso": null
+    },
+    "parent": {
+      "id": "SV06003",
+      "level": 2,
+      "name": {
+        "local": "La Paz Oeste",
+        "en": "La Paz Oeste",
+        "slug": "la-paz-oeste-sv06003"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SV06",
+        "level": 1,
+        "name": {
+          "local": "La Paz",
+          "en": "La Paz",
+          "slug": "la-paz-sv06"
+        }
+      },
+      {
+        "id": "SV06003",
+        "level": 2,
+        "name": {
+          "local": "La Paz Oeste",
+          "en": "La Paz Oeste",
+          "slug": "la-paz-oeste-sv06003"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "13.537",
+      "lon": "-89.089"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SV06003002",
+    "level": 3,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Olocuilta",
+      "en": "Olocuilta",
+      "slug": "olocuilta-sv06003002"
+    },
+    "code": {
+      "id": "SV06003002",
+      "iso": null
+    },
+    "parent": {
+      "id": "SV06003",
+      "level": 2,
+      "name": {
+        "local": "La Paz Oeste",
+        "en": "La Paz Oeste",
+        "slug": "la-paz-oeste-sv06003"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SV06",
+        "level": 1,
+        "name": {
+          "local": "La Paz",
+          "en": "La Paz",
+          "slug": "la-paz-sv06"
+        }
+      },
+      {
+        "id": "SV06003",
+        "level": 2,
+        "name": {
+          "local": "La Paz Oeste",
+          "en": "La Paz Oeste",
+          "slug": "la-paz-oeste-sv06003"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "13.54",
+      "lon": "-89.116"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SV06003003",
+    "level": 3,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "San Francisco Chinameca",
+      "en": "San Francisco Chinameca",
+      "slug": "san-francisco-chinameca-sv06003003"
+    },
+    "code": {
+      "id": "SV06003003",
+      "iso": null
+    },
+    "parent": {
+      "id": "SV06003",
+      "level": 2,
+      "name": {
+        "local": "La Paz Oeste",
+        "en": "La Paz Oeste",
+        "slug": "la-paz-oeste-sv06003"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SV06",
+        "level": 1,
+        "name": {
+          "local": "La Paz",
+          "en": "La Paz",
+          "slug": "la-paz-sv06"
+        }
+      },
+      {
+        "id": "SV06003",
+        "level": 2,
+        "name": {
+          "local": "La Paz Oeste",
+          "en": "La Paz Oeste",
+          "slug": "la-paz-oeste-sv06003"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "13.593",
+      "lon": "-89.081"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SV06003004",
+    "level": 3,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "San Juan Talpa",
+      "en": "San Juan Talpa",
+      "slug": "san-juan-talpa-sv06003004"
+    },
+    "code": {
+      "id": "SV06003004",
+      "iso": null
+    },
+    "parent": {
+      "id": "SV06003",
+      "level": 2,
+      "name": {
+        "local": "La Paz Oeste",
+        "en": "La Paz Oeste",
+        "slug": "la-paz-oeste-sv06003"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SV06",
+        "level": 1,
+        "name": {
+          "local": "La Paz",
+          "en": "La Paz",
+          "slug": "la-paz-sv06"
+        }
+      },
+      {
+        "id": "SV06003",
+        "level": 2,
+        "name": {
+          "local": "La Paz Oeste",
+          "en": "La Paz Oeste",
+          "slug": "la-paz-oeste-sv06003"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "13.5",
+      "lon": "-89.083"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SV06003005",
+    "level": 3,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "San Luis Talpa",
+      "en": "San Luis Talpa",
+      "slug": "san-luis-talpa-sv06003005"
+    },
+    "code": {
+      "id": "SV06003005",
+      "iso": null
+    },
+    "parent": {
+      "id": "SV06003",
+      "level": 2,
+      "name": {
+        "local": "La Paz Oeste",
+        "en": "La Paz Oeste",
+        "slug": "la-paz-oeste-sv06003"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SV06",
+        "level": 1,
+        "name": {
+          "local": "La Paz",
+          "en": "La Paz",
+          "slug": "la-paz-sv06"
+        }
+      },
+      {
+        "id": "SV06003",
+        "level": 2,
+        "name": {
+          "local": "La Paz Oeste",
+          "en": "La Paz Oeste",
+          "slug": "la-paz-oeste-sv06003"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "13.431",
+      "lon": "-89.096"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SV06003006",
+    "level": 3,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "San Pedro Masahuat",
+      "en": "San Pedro Masahuat",
+      "slug": "san-pedro-masahuat-sv06003006"
+    },
+    "code": {
+      "id": "SV06003006",
+      "iso": null
+    },
+    "parent": {
+      "id": "SV06003",
+      "level": 2,
+      "name": {
+        "local": "La Paz Oeste",
+        "en": "La Paz Oeste",
+        "slug": "la-paz-oeste-sv06003"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SV06",
+        "level": 1,
+        "name": {
+          "local": "La Paz",
+          "en": "La Paz",
+          "slug": "la-paz-sv06"
+        }
+      },
+      {
+        "id": "SV06003",
+        "level": 2,
+        "name": {
+          "local": "La Paz Oeste",
+          "en": "La Paz Oeste",
+          "slug": "la-paz-oeste-sv06003"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "13.454",
+      "lon": "-89.026"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SV06003007",
+    "level": 3,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Tapalhuaca",
+      "en": "Tapalhuaca",
+      "slug": "tapalhuaca-sv06003007"
+    },
+    "code": {
+      "id": "SV06003007",
+      "iso": null
+    },
+    "parent": {
+      "id": "SV06003",
+      "level": 2,
+      "name": {
+        "local": "La Paz Oeste",
+        "en": "La Paz Oeste",
+        "slug": "la-paz-oeste-sv06003"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SV06",
+        "level": 1,
+        "name": {
+          "local": "La Paz",
+          "en": "La Paz",
+          "slug": "la-paz-sv06"
+        }
+      },
+      {
+        "id": "SV06003",
+        "level": 2,
+        "name": {
+          "local": "La Paz Oeste",
+          "en": "La Paz Oeste",
+          "slug": "la-paz-oeste-sv06003"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "13.542",
+      "lon": "-89.064"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

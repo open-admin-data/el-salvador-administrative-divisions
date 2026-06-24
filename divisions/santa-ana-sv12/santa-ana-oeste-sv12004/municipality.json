@@ -1,0 +1,326 @@
+[
+  {
+    "id": "SV12004001",
+    "level": 3,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Candelaria de la Frontera",
+      "en": "Candelaria de la Frontera",
+      "slug": "candelaria-de-la-frontera-sv12004001"
+    },
+    "code": {
+      "id": "SV12004001",
+      "iso": null
+    },
+    "parent": {
+      "id": "SV12004",
+      "level": 2,
+      "name": {
+        "local": "Santa Ana Oeste",
+        "en": "Santa Ana Oeste",
+        "slug": "santa-ana-oeste-sv12004"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SV12",
+        "level": 1,
+        "name": {
+          "local": "Santa Ana",
+          "en": "Santa Ana",
+          "slug": "santa-ana-sv12"
+        }
+      },
+      {
+        "id": "SV12004",
+        "level": 2,
+        "name": {
+          "local": "Santa Ana Oeste",
+          "en": "Santa Ana Oeste",
+          "slug": "santa-ana-oeste-sv12004"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "14.124",
+      "lon": "-89.626"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SV12004002",
+    "level": 3,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Chalchuapa",
+      "en": "Chalchuapa",
+      "slug": "chalchuapa-sv12004002"
+    },
+    "code": {
+      "id": "SV12004002",
+      "iso": null
+    },
+    "parent": {
+      "id": "SV12004",
+      "level": 2,
+      "name": {
+        "local": "Santa Ana Oeste",
+        "en": "Santa Ana Oeste",
+        "slug": "santa-ana-oeste-sv12004"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SV12",
+        "level": 1,
+        "name": {
+          "local": "Santa Ana",
+          "en": "Santa Ana",
+          "slug": "santa-ana-sv12"
+        }
+      },
+      {
+        "id": "SV12004",
+        "level": 2,
+        "name": {
+          "local": "Santa Ana Oeste",
+          "en": "Santa Ana Oeste",
+          "slug": "santa-ana-oeste-sv12004"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "14.011",
+      "lon": "-89.689"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SV12004003",
+    "level": 3,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "El Porvenir",
+      "en": "El Porvenir",
+      "slug": "el-porvenir-sv12004003"
+    },
+    "code": {
+      "id": "SV12004003",
+      "iso": null
+    },
+    "parent": {
+      "id": "SV12004",
+      "level": 2,
+      "name": {
+        "local": "Santa Ana Oeste",
+        "en": "Santa Ana Oeste",
+        "slug": "santa-ana-oeste-sv12004"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SV12",
+        "level": 1,
+        "name": {
+          "local": "Santa Ana",
+          "en": "Santa Ana",
+          "slug": "santa-ana-sv12"
+        }
+      },
+      {
+        "id": "SV12004",
+        "level": 2,
+        "name": {
+          "local": "Santa Ana Oeste",
+          "en": "Santa Ana Oeste",
+          "slug": "santa-ana-oeste-sv12004"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "14.03",
+      "lon": "-89.647"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SV12004004",
+    "level": 3,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "San Antonio Pajonal",
+      "en": "San Antonio Pajonal",
+      "slug": "san-antonio-pajonal-sv12004004"
+    },
+    "code": {
+      "id": "SV12004004",
+      "iso": null
+    },
+    "parent": {
+      "id": "SV12004",
+      "level": 2,
+      "name": {
+        "local": "Santa Ana Oeste",
+        "en": "Santa Ana Oeste",
+        "slug": "santa-ana-oeste-sv12004"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SV12",
+        "level": 1,
+        "name": {
+          "local": "Santa Ana",
+          "en": "Santa Ana",
+          "slug": "santa-ana-sv12"
+        }
+      },
+      {
+        "id": "SV12004",
+        "level": 2,
+        "name": {
+          "local": "Santa Ana Oeste",
+          "en": "Santa Ana Oeste",
+          "slug": "santa-ana-oeste-sv12004"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "14.19",
+      "lon": "-89.551"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SV12004005",
+    "level": 3,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "San Sebastián Salitrillo",
+      "en": "San Sebastian Salitrillo",
+      "slug": "san-sebastian-salitrillo-sv12004005"
+    },
+    "code": {
+      "id": "SV12004005",
+      "iso": null
+    },
+    "parent": {
+      "id": "SV12004",
+      "level": 2,
+      "name": {
+        "local": "Santa Ana Oeste",
+        "en": "Santa Ana Oeste",
+        "slug": "santa-ana-oeste-sv12004"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SV12",
+        "level": 1,
+        "name": {
+          "local": "Santa Ana",
+          "en": "Santa Ana",
+          "slug": "santa-ana-sv12"
+        }
+      },
+      {
+        "id": "SV12004",
+        "level": 2,
+        "name": {
+          "local": "Santa Ana Oeste",
+          "en": "Santa Ana Oeste",
+          "slug": "santa-ana-oeste-sv12004"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "13.968",
+      "lon": "-89.621"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SV12004006",
+    "level": 3,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Santiago de la Frontera",
+      "en": "Santiago de la Frontera",
+      "slug": "santiago-de-la-frontera-sv12004006"
+    },
+    "code": {
+      "id": "SV12004006",
+      "iso": null
+    },
+    "parent": {
+      "id": "SV12004",
+      "level": 2,
+      "name": {
+        "local": "Santa Ana Oeste",
+        "en": "Santa Ana Oeste",
+        "slug": "santa-ana-oeste-sv12004"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SV12",
+        "level": 1,
+        "name": {
+          "local": "Santa Ana",
+          "en": "Santa Ana",
+          "slug": "santa-ana-sv12"
+        }
+      },
+      {
+        "id": "SV12004",
+        "level": 2,
+        "name": {
+          "local": "Santa Ana Oeste",
+          "en": "Santa Ana Oeste",
+          "slug": "santa-ana-oeste-sv12004"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "14.169",
+      "lon": "-89.616"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

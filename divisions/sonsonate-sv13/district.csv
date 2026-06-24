@@ -1,0 +1,5 @@
+id,name.local,name.en,name.slug,code.id,children_count.municipality,geo.lat,geo.lon
+SV13001,Sonsonate Centro,Sonsonate Centro,sonsonate-centro-sv13001,SV13001,5,13.652,-89.711
+SV13002,Sonsonate Este,Sonsonate Este,sonsonate-este-sv13002,SV13002,6,13.675,-89.599
+SV13003,Sonsonate Norte,Sonsonate Norte,sonsonate-norte-sv13003,SV13003,4,13.826,-89.718
+SV13004,Sonsonate Oeste,Sonsonate Oeste,sonsonate-oeste-sv13004,SV13004,1,13.612,-89.816

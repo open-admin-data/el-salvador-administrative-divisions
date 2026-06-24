@@ -1,0 +1,47 @@
+{
+  "id": "SV03001",
+  "level": 2,
+  "level_name": {
+    "local": "Distrito",
+    "en": "District"
+  },
+  "name": {
+    "local": "Chalatenango Centro",
+    "en": "Chalatenango Centro",
+    "slug": "chalatenango-centro-sv03001"
+  },
+  "code": {
+    "id": "SV03001",
+    "iso": null
+  },
+  "parent": {
+    "id": "SV03",
+    "level": 1,
+    "name": {
+      "local": "Chalatenango",
+      "en": "Chalatenango",
+      "slug": "chalatenango-sv03"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "SV03",
+      "level": 1,
+      "name": {
+        "local": "Chalatenango",
+        "en": "Chalatenango",
+        "slug": "chalatenango-sv03"
+      }
+    }
+  ],
+  "children_count": {
+    "municipality": 10
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "14.181",
+    "lon": "-89.147"
+  },
+  "metadata": {},
+  "source": {}
+}

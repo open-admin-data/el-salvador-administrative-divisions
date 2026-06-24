@@ -1,0 +1,39 @@
+# El Salvador Administrative Divisions — Full Reference
+
+> Last updated: 2026-06-24. License: CC-BY-4.0.
+
+## Per-Department Data Files
+
+- [Ahuachapan](https://github.com/open-admin-data/el-salvador-administrative-divisions/blob/main/docs/llms-full/ahuachapan-sv01.txt) — 3 districts, 12 municipalitys
+- [Cabanas](https://github.com/open-admin-data/el-salvador-administrative-divisions/blob/main/docs/llms-full/cabanas-sv02.txt) — 2 districts, 9 municipalitys
+- [Chalatenango](https://github.com/open-admin-data/el-salvador-administrative-divisions/blob/main/docs/llms-full/chalatenango-sv03.txt) — 4 districts, 34 municipalitys
+- [Cuscatlan](https://github.com/open-admin-data/el-salvador-administrative-divisions/blob/main/docs/llms-full/cuscatlan-sv04.txt) — 2 districts, 16 municipalitys
+- [La Libertad](https://github.com/open-admin-data/el-salvador-administrative-divisions/blob/main/docs/llms-full/la-libertad-sv05.txt) — 6 districts, 22 municipalitys
+- [La Paz](https://github.com/open-admin-data/el-salvador-administrative-divisions/blob/main/docs/llms-full/la-paz-sv06.txt) — 3 districts, 22 municipalitys
+- [La Union](https://github.com/open-admin-data/el-salvador-administrative-divisions/blob/main/docs/llms-full/la-union-sv07.txt) — 2 districts, 18 municipalitys
+- [Morazan](https://github.com/open-admin-data/el-salvador-administrative-divisions/blob/main/docs/llms-full/morazan-sv08.txt) — 2 districts, 26 municipalitys
+- [San Miguel](https://github.com/open-admin-data/el-salvador-administrative-divisions/blob/main/docs/llms-full/san-miguel-sv09.txt) — 3 districts, 20 municipalitys
+- [San Salvador](https://github.com/open-admin-data/el-salvador-administrative-divisions/blob/main/docs/llms-full/san-salvador-sv10.txt) — 6 districts, 20 municipalitys
+- [San Vicente](https://github.com/open-admin-data/el-salvador-administrative-divisions/blob/main/docs/llms-full/san-vicente-sv11.txt) — 2 districts, 13 municipalitys
+- [Santa Ana](https://github.com/open-admin-data/el-salvador-administrative-divisions/blob/main/docs/llms-full/santa-ana-sv12.txt) — 6 districts, 15 municipalitys
+- [Sonsonate](https://github.com/open-admin-data/el-salvador-administrative-divisions/blob/main/docs/llms-full/sonsonate-sv13.txt) — 4 districts, 16 municipalitys
+- [Usulutan](https://github.com/open-admin-data/el-salvador-administrative-divisions/blob/main/docs/llms-full/usulutan-sv14.txt) — 3 districts, 23 municipalitys
+
+## Summary
+
+| Department | Districts | Municipalitys | 
+|---|---|---|
+| Ahuachapan | 3 | 12 | 
+| Cabanas | 2 | 9 | 
+| Chalatenango | 4 | 34 | 
+| Cuscatlan | 2 | 16 | 
+| La Libertad | 6 | 22 | 
+| La Paz | 3 | 22 | 
+| La Union | 2 | 18 | 
+| Morazan | 2 | 26 | 
+| San Miguel | 3 | 20 | 
+| San Salvador | 6 | 20 | 
+| San Vicente | 2 | 13 | 
+| Santa Ana | 6 | 15 | 
+| Sonsonate | 4 | 16 | 
+| Usulutan | 3 | 23 | 

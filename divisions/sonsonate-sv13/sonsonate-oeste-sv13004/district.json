@@ -1,0 +1,47 @@
+{
+  "id": "SV13004",
+  "level": 2,
+  "level_name": {
+    "local": "Distrito",
+    "en": "District"
+  },
+  "name": {
+    "local": "Sonsonate Oeste",
+    "en": "Sonsonate Oeste",
+    "slug": "sonsonate-oeste-sv13004"
+  },
+  "code": {
+    "id": "SV13004",
+    "iso": null
+  },
+  "parent": {
+    "id": "SV13",
+    "level": 1,
+    "name": {
+      "local": "Sonsonate",
+      "en": "Sonsonate",
+      "slug": "sonsonate-sv13"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "SV13",
+      "level": 1,
+      "name": {
+        "local": "Sonsonate",
+        "en": "Sonsonate",
+        "slug": "sonsonate-sv13"
+      }
+    }
+  ],
+  "children_count": {
+    "municipality": 1
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "13.612",
+    "lon": "-89.816"
+  },
+  "metadata": {},
+  "source": {}
+}

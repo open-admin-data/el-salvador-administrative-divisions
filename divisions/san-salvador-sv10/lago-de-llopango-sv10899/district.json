@@ -1,0 +1,47 @@
+{
+  "id": "SV10899",
+  "level": 2,
+  "level_name": {
+    "local": "Distrito",
+    "en": "District"
+  },
+  "name": {
+    "local": "Lago de Llopango",
+    "en": "Lago de Llopango",
+    "slug": "lago-de-llopango-sv10899"
+  },
+  "code": {
+    "id": "SV10899",
+    "iso": null
+  },
+  "parent": {
+    "id": "SV10",
+    "level": 1,
+    "name": {
+      "local": "San Salvador",
+      "en": "San Salvador",
+      "slug": "san-salvador-sv10"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "SV10",
+      "level": 1,
+      "name": {
+        "local": "San Salvador",
+        "en": "San Salvador",
+        "slug": "san-salvador-sv10"
+      }
+    }
+  ],
+  "children_count": {
+    "municipality": 1
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "13.667",
+    "lon": "-89.045"
+  },
+  "metadata": {},
+  "source": {}
+}

@@ -1,0 +1,47 @@
+{
+  "id": "SV14003",
+  "level": 2,
+  "level_name": {
+    "local": "Distrito",
+    "en": "District"
+  },
+  "name": {
+    "local": "Usulután Oeste",
+    "en": "Usulutan Oeste",
+    "slug": "usulutan-oeste-sv14003"
+  },
+  "code": {
+    "id": "SV14003",
+    "iso": null
+  },
+  "parent": {
+    "id": "SV14",
+    "level": 1,
+    "name": {
+      "local": "Usulután",
+      "en": "Usulutan",
+      "slug": "usulutan-sv14"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "SV14",
+      "level": 1,
+      "name": {
+        "local": "Usulután",
+        "en": "Usulutan",
+        "slug": "usulutan-sv14"
+      }
+    }
+  ],
+  "children_count": {
+    "municipality": 4
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "13.344",
+    "lon": "-88.617"
+  },
+  "metadata": {},
+  "source": {}
+}

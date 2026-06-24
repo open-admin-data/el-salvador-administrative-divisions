@@ -1,0 +1,7 @@
+id,name.local,name.en,name.slug,code.id,children_count.municipality,geo.lat,geo.lon
+SV10899,Lago de Llopango,Lago de Llopango,lago-de-llopango-sv10899,SV10899,1,13.667,-89.045
+SV10001,San Salvador Centro,San Salvador Centro,san-salvador-centro-sv10001,SV10001,5,13.711,-89.212
+SV10002,San Salvador Este,San Salvador Este,san-salvador-este-sv10002,SV10002,4,13.75,-89.091
+SV10003,San Salvador Norte,San Salvador Norte,san-salvador-norte-sv10003,SV10003,3,13.946,-89.209
+SV10004,San Salvador Oeste,San Salvador Oeste,san-salvador-oeste-sv10004,SV10004,2,13.82,-89.193
+SV10005,San Salvador Sur,San Salvador Sur,san-salvador-sur-sv10005,SV10005,5,13.57,-89.176

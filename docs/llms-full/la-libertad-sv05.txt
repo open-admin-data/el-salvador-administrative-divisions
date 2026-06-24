@@ -1,0 +1,127 @@
+# La Libertad — El Salvador Administrative Divisions
+
+> 6 districts, 22 municipalitys
+> Code: SV05
+> Coordinates: 13.74, -89.362
+> Last updated: 2026-06-24. License: CC-BY-4.0.
+
+## Districts
+
+### La Libertad Centro
+
+Code: SV05001, Coordinates: 13.845, -89.386
+Municipalitys: 2
+
+#### Ciudad Arce
+
+Code: SV05001001, Coordinates: 13.81, -89.415
+
+#### San Juan Opico
+
+Code: SV05001002, Coordinates: 13.845, -89.353
+
+### La Libertad Costa
+
+Code: SV05002, Coordinates: 13.536, -89.479
+Municipalitys: 5
+
+#### Chiltiupán (Chiltiupan)
+
+Code: SV05002001, Coordinates: 13.57, -89.459
+
+#### Jicalapa
+
+Code: SV05002002, Coordinates: 13.536, -89.511
+
+#### La Libertad
+
+Code: SV05002003, Coordinates: 13.479, -89.243
+
+#### Tamanique
+
+Code: SV05002004, Coordinates: 13.571, -89.414
+
+#### Teotepeque
+
+Code: SV05002005, Coordinates: 13.577, -89.529
+
+### La Libertad Este
+
+Code: SV05003, Coordinates: 13.595, -89.261
+Municipalitys: 5
+
+#### Antiguo Cuscatlán (Antiguo Cuscatlan)
+
+Code: SV05003001, Coordinates: 13.666, -89.247
+
+#### Huizúcar (Huizucar)
+
+Code: SV05003002, Coordinates: 13.561, -89.231
+
+#### Nuevo Cuscatlán (Nuevo Cuscatlan)
+
+Code: SV05003003, Coordinates: 13.642, -89.261
+
+#### San José Villanueva (San Jose Villanueva)
+
+Code: SV05003004, Coordinates: 13.564, -89.265
+
+#### Zaragoza
+
+Code: SV05003005, Coordinates: 13.568, -89.295
+
+### La Libertad Norte
+
+Code: SV05004, Coordinates: 13.896, -89.282
+Municipalitys: 3
+
+#### Quezaltepeque
+
+Code: SV05004001, Coordinates: 13.838, -89.285
+
+#### San Matías (San Matias)
+
+Code: SV05004002, Coordinates: 13.906, -89.297
+
+#### San Pablo Tacachico
+
+Code: SV05004003, Coordinates: 13.997, -89.333
+
+### La Libertad Oeste
+
+Code: SV05005, Coordinates: 13.694, -89.448
+Municipalitys: 5
+
+#### Colón (Colon)
+
+Code: SV05005001, Coordinates: 13.724, -89.35
+
+#### Jayaque
+
+Code: SV05005002, Coordinates: 13.669, -89.441
+
+#### Sacacoyo
+
+Code: SV05005003, Coordinates: 13.734, -89.441
+
+#### Talnique
+
+Code: SV05005004, Coordinates: 13.673, -89.379
+
+#### Tepecoyo
+
+Code: SV05005005, Coordinates: 13.68, -89.491
+
+### La Libertad Sur
+
+Code: SV05006, Coordinates: 13.627, -89.344
+Municipalitys: 2
+
+#### Comasagua
+
+Code: SV05006001, Coordinates: 13.598, -89.362
+
+#### Santa Tecla
+
+Code: SV05006002, Coordinates: 13.627, -89.3
+

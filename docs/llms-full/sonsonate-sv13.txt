@@ -1,0 +1,93 @@
+# Sonsonate — El Salvador Administrative Divisions
+
+> 4 districts, 16 municipalitys
+> Code: SV13
+> Coordinates: 13.712, -89.647
+> Last updated: 2026-06-24. License: CC-BY-4.0.
+
+## Districts
+
+### Sonsonate Centro
+
+Code: SV13001, Coordinates: 13.652, -89.711
+Municipalitys: 5
+
+#### Nahulingo
+
+Code: SV13001001, Coordinates: 13.658, -89.716
+
+#### San Antonio del Monte
+
+Code: SV13001002, Coordinates: 13.713, -89.747
+
+#### Santo Domingo
+
+Code: SV13001003, Coordinates: 13.71, -89.788
+
+#### Sonsonate
+
+Code: SV13001004, Coordinates: 13.637, -89.671
+
+#### Sonzacate
+
+Code: SV13001005, Coordinates: 13.75, -89.714
+
+### Sonsonate Este
+
+Code: SV13002, Coordinates: 13.675, -89.599
+Municipalitys: 6
+
+#### Armenia
+
+Code: SV13002001, Coordinates: 13.75, -89.486
+
+#### Caluco
+
+Code: SV13002002, Coordinates: 13.698, -89.633
+
+#### Cuisnahuat
+
+Code: SV13002003, Coordinates: 13.621, -89.637
+
+#### Izalco
+
+Code: SV13002004, Coordinates: 13.749, -89.637
+
+#### San Julián (San Julian)
+
+Code: SV13002005, Coordinates: 13.7, -89.562
+
+#### Santa Isabel Ishuatán (Santa Isabel Ishuatan)
+
+Code: SV13002006, Coordinates: 13.587, -89.589
+
+### Sonsonate Norte
+
+Code: SV13003, Coordinates: 13.826, -89.718
+Municipalitys: 4
+
+#### Juayúa (Juayua)
+
+Code: SV13003001, Coordinates: 13.859, -89.701
+
+#### Nahuizalco
+
+Code: SV13003002, Coordinates: 13.799, -89.713
+
+#### Salcoatitán (Salcoatitan)
+
+Code: SV13003003, Coordinates: 13.836, -89.756
+
+#### Santa Catarina Masahuat
+
+Code: SV13003004, Coordinates: 13.79, -89.771
+
+### Sonsonate Oeste
+
+Code: SV13004, Coordinates: 13.612, -89.816
+Municipalitys: 1
+
+#### Acajutla
+
+Code: SV13004001, Coordinates: 13.612, -89.816
+

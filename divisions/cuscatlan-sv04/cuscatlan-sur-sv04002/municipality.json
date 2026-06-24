@@ -1,0 +1,596 @@
+[
+  {
+    "id": "SV04002001",
+    "level": 3,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Candelaria",
+      "en": "Candelaria",
+      "slug": "candelaria-sv04002001"
+    },
+    "code": {
+      "id": "SV04002001",
+      "iso": null
+    },
+    "parent": {
+      "id": "SV04002",
+      "level": 2,
+      "name": {
+        "local": "Cuscatlán Sur",
+        "en": "Cuscatlan Sur",
+        "slug": "cuscatlan-sur-sv04002"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SV04",
+        "level": 1,
+        "name": {
+          "local": "Cuscatlán",
+          "en": "Cuscatlan",
+          "slug": "cuscatlan-sv04"
+        }
+      },
+      {
+        "id": "SV04002",
+        "level": 2,
+        "name": {
+          "local": "Cuscatlán Sur",
+          "en": "Cuscatlan Sur",
+          "slug": "cuscatlan-sur-sv04002"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "13.681",
+      "lon": "-88.965"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SV04002002",
+    "level": 3,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Cojutepeque",
+      "en": "Cojutepeque",
+      "slug": "cojutepeque-sv04002002"
+    },
+    "code": {
+      "id": "SV04002002",
+      "iso": null
+    },
+    "parent": {
+      "id": "SV04002",
+      "level": 2,
+      "name": {
+        "local": "Cuscatlán Sur",
+        "en": "Cuscatlan Sur",
+        "slug": "cuscatlan-sur-sv04002"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SV04",
+        "level": 1,
+        "name": {
+          "local": "Cuscatlán",
+          "en": "Cuscatlan",
+          "slug": "cuscatlan-sv04"
+        }
+      },
+      {
+        "id": "SV04002",
+        "level": 2,
+        "name": {
+          "local": "Cuscatlán Sur",
+          "en": "Cuscatlan Sur",
+          "slug": "cuscatlan-sur-sv04002"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "13.727",
+      "lon": "-88.927"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SV04002003",
+    "level": 3,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "El Carmen",
+      "en": "El Carmen",
+      "slug": "el-carmen-sv04002003"
+    },
+    "code": {
+      "id": "SV04002003",
+      "iso": null
+    },
+    "parent": {
+      "id": "SV04002",
+      "level": 2,
+      "name": {
+        "local": "Cuscatlán Sur",
+        "en": "Cuscatlan Sur",
+        "slug": "cuscatlan-sur-sv04002"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SV04",
+        "level": 1,
+        "name": {
+          "local": "Cuscatlán",
+          "en": "Cuscatlan",
+          "slug": "cuscatlan-sv04"
+        }
+      },
+      {
+        "id": "SV04002",
+        "level": 2,
+        "name": {
+          "local": "Cuscatlán Sur",
+          "en": "Cuscatlan Sur",
+          "slug": "cuscatlan-sur-sv04002"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "13.74",
+      "lon": "-88.904"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SV04002004",
+    "level": 3,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "El Rosario",
+      "en": "El Rosario",
+      "slug": "el-rosario-sv04002004"
+    },
+    "code": {
+      "id": "SV04002004",
+      "iso": null
+    },
+    "parent": {
+      "id": "SV04002",
+      "level": 2,
+      "name": {
+        "local": "Cuscatlán Sur",
+        "en": "Cuscatlan Sur",
+        "slug": "cuscatlan-sur-sv04002"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SV04",
+        "level": 1,
+        "name": {
+          "local": "Cuscatlán",
+          "en": "Cuscatlan",
+          "slug": "cuscatlan-sv04"
+        }
+      },
+      {
+        "id": "SV04002",
+        "level": 2,
+        "name": {
+          "local": "Cuscatlán Sur",
+          "en": "Cuscatlan Sur",
+          "slug": "cuscatlan-sur-sv04002"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "13.771",
+      "lon": "-88.901"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SV04002005",
+    "level": 3,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Monte San Juan",
+      "en": "Monte San Juan",
+      "slug": "monte-san-juan-sv04002005"
+    },
+    "code": {
+      "id": "SV04002005",
+      "iso": null
+    },
+    "parent": {
+      "id": "SV04002",
+      "level": 2,
+      "name": {
+        "local": "Cuscatlán Sur",
+        "en": "Cuscatlan Sur",
+        "slug": "cuscatlan-sur-sv04002"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SV04",
+        "level": 1,
+        "name": {
+          "local": "Cuscatlán",
+          "en": "Cuscatlan",
+          "slug": "cuscatlan-sv04"
+        }
+      },
+      {
+        "id": "SV04002",
+        "level": 2,
+        "name": {
+          "local": "Cuscatlán Sur",
+          "en": "Cuscatlan Sur",
+          "slug": "cuscatlan-sur-sv04002"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "13.76",
+      "lon": "-88.94"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SV04002006",
+    "level": 3,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "San Cristóbal",
+      "en": "San Cristobal",
+      "slug": "san-cristobal-sv04002006"
+    },
+    "code": {
+      "id": "SV04002006",
+      "iso": null
+    },
+    "parent": {
+      "id": "SV04002",
+      "level": 2,
+      "name": {
+        "local": "Cuscatlán Sur",
+        "en": "Cuscatlan Sur",
+        "slug": "cuscatlan-sur-sv04002"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SV04",
+        "level": 1,
+        "name": {
+          "local": "Cuscatlán",
+          "en": "Cuscatlan",
+          "slug": "cuscatlan-sv04"
+        }
+      },
+      {
+        "id": "SV04002",
+        "level": 2,
+        "name": {
+          "local": "Cuscatlán Sur",
+          "en": "Cuscatlan Sur",
+          "slug": "cuscatlan-sur-sv04002"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "13.686",
+      "lon": "-88.886"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SV04002007",
+    "level": 3,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "San Rafael Cedros",
+      "en": "San Rafael Cedros",
+      "slug": "san-rafael-cedros-sv04002007"
+    },
+    "code": {
+      "id": "SV04002007",
+      "iso": null
+    },
+    "parent": {
+      "id": "SV04002",
+      "level": 2,
+      "name": {
+        "local": "Cuscatlán Sur",
+        "en": "Cuscatlan Sur",
+        "slug": "cuscatlan-sur-sv04002"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SV04",
+        "level": 1,
+        "name": {
+          "local": "Cuscatlán",
+          "en": "Cuscatlan",
+          "slug": "cuscatlan-sv04"
+        }
+      },
+      {
+        "id": "SV04002",
+        "level": 2,
+        "name": {
+          "local": "Cuscatlán Sur",
+          "en": "Cuscatlan Sur",
+          "slug": "cuscatlan-sur-sv04002"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "13.747",
+      "lon": "-88.875"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SV04002008",
+    "level": 3,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "San Ramón",
+      "en": "San Ramon",
+      "slug": "san-ramon-sv04002008"
+    },
+    "code": {
+      "id": "SV04002008",
+      "iso": null
+    },
+    "parent": {
+      "id": "SV04002",
+      "level": 2,
+      "name": {
+        "local": "Cuscatlán Sur",
+        "en": "Cuscatlan Sur",
+        "slug": "cuscatlan-sur-sv04002"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SV04",
+        "level": 1,
+        "name": {
+          "local": "Cuscatlán",
+          "en": "Cuscatlan",
+          "slug": "cuscatlan-sv04"
+        }
+      },
+      {
+        "id": "SV04002",
+        "level": 2,
+        "name": {
+          "local": "Cuscatlán Sur",
+          "en": "Cuscatlan Sur",
+          "slug": "cuscatlan-sur-sv04002"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "13.678",
+      "lon": "-88.925"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SV04002009",
+    "level": 3,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Santa Cruz Analquito",
+      "en": "Santa Cruz Analquito",
+      "slug": "santa-cruz-analquito-sv04002009"
+    },
+    "code": {
+      "id": "SV04002009",
+      "iso": null
+    },
+    "parent": {
+      "id": "SV04002",
+      "level": 2,
+      "name": {
+        "local": "Cuscatlán Sur",
+        "en": "Cuscatlan Sur",
+        "slug": "cuscatlan-sur-sv04002"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SV04",
+        "level": 1,
+        "name": {
+          "local": "Cuscatlán",
+          "en": "Cuscatlan",
+          "slug": "cuscatlan-sv04"
+        }
+      },
+      {
+        "id": "SV04002",
+        "level": 2,
+        "name": {
+          "local": "Cuscatlán Sur",
+          "en": "Cuscatlan Sur",
+          "slug": "cuscatlan-sur-sv04002"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "13.65",
+      "lon": "-88.952"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SV04002010",
+    "level": 3,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Santa Cruz Michapa",
+      "en": "Santa Cruz Michapa",
+      "slug": "santa-cruz-michapa-sv04002010"
+    },
+    "code": {
+      "id": "SV04002010",
+      "iso": null
+    },
+    "parent": {
+      "id": "SV04002",
+      "level": 2,
+      "name": {
+        "local": "Cuscatlán Sur",
+        "en": "Cuscatlan Sur",
+        "slug": "cuscatlan-sur-sv04002"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SV04",
+        "level": 1,
+        "name": {
+          "local": "Cuscatlán",
+          "en": "Cuscatlan",
+          "slug": "cuscatlan-sv04"
+        }
+      },
+      {
+        "id": "SV04002",
+        "level": 2,
+        "name": {
+          "local": "Cuscatlán Sur",
+          "en": "Cuscatlan Sur",
+          "slug": "cuscatlan-sur-sv04002"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "13.742",
+      "lon": "-88.964"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SV04002011",
+    "level": 3,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Tenancingo",
+      "en": "Tenancingo",
+      "slug": "tenancingo-sv04002011"
+    },
+    "code": {
+      "id": "SV04002011",
+      "iso": null
+    },
+    "parent": {
+      "id": "SV04002",
+      "level": 2,
+      "name": {
+        "local": "Cuscatlán Sur",
+        "en": "Cuscatlan Sur",
+        "slug": "cuscatlan-sur-sv04002"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SV04",
+        "level": 1,
+        "name": {
+          "local": "Cuscatlán",
+          "en": "Cuscatlan",
+          "slug": "cuscatlan-sv04"
+        }
+      },
+      {
+        "id": "SV04002",
+        "level": 2,
+        "name": {
+          "local": "Cuscatlán Sur",
+          "en": "Cuscatlan Sur",
+          "slug": "cuscatlan-sur-sv04002"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "13.824",
+      "lon": "-88.969"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

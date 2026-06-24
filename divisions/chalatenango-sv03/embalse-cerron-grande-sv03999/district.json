@@ -1,0 +1,47 @@
+{
+  "id": "SV03999",
+  "level": 2,
+  "level_name": {
+    "local": "Distrito",
+    "en": "District"
+  },
+  "name": {
+    "local": "Embalse Cerron Grande",
+    "en": "Embalse Cerron Grande",
+    "slug": "embalse-cerron-grande-sv03999"
+  },
+  "code": {
+    "id": "SV03999",
+    "iso": null
+  },
+  "parent": {
+    "id": "SV03",
+    "level": 1,
+    "name": {
+      "local": "Chalatenango",
+      "en": "Chalatenango",
+      "slug": "chalatenango-sv03"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "SV03",
+      "level": 1,
+      "name": {
+        "local": "Chalatenango",
+        "en": "Chalatenango",
+        "slug": "chalatenango-sv03"
+      }
+    }
+  ],
+  "children_count": {
+    "municipality": 1
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "14.006",
+    "lon": "-89.022"
+  },
+  "metadata": {},
+  "source": {}
+}

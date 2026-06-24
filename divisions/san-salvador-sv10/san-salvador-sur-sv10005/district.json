@@ -1,0 +1,47 @@
+{
+  "id": "SV10005",
+  "level": 2,
+  "level_name": {
+    "local": "Distrito",
+    "en": "District"
+  },
+  "name": {
+    "local": "San Salvador Sur",
+    "en": "San Salvador Sur",
+    "slug": "san-salvador-sur-sv10005"
+  },
+  "code": {
+    "id": "SV10005",
+    "iso": null
+  },
+  "parent": {
+    "id": "SV10",
+    "level": 1,
+    "name": {
+      "local": "San Salvador",
+      "en": "San Salvador",
+      "slug": "san-salvador-sv10"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "SV10",
+      "level": 1,
+      "name": {
+        "local": "San Salvador",
+        "en": "San Salvador",
+        "slug": "san-salvador-sv10"
+      }
+    }
+  ],
+  "children_count": {
+    "municipality": 5
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "13.57",
+    "lon": "-89.176"
+  },
+  "metadata": {},
+  "source": {}
+}

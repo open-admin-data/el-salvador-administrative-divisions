@@ -1,0 +1,34 @@
+{
+  "id": "SV13",
+  "level": 1,
+  "level_name": {
+    "local": "Departamento",
+    "en": "Department"
+  },
+  "name": {
+    "local": "Sonsonate",
+    "en": "Sonsonate",
+    "slug": "sonsonate-sv13"
+  },
+  "code": {
+    "id": "SV13",
+    "iso": null
+  },
+  "parent": null,
+  "ancestors": [],
+  "children_count": {
+    "district": 4,
+    "municipality": 16
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "13.712",
+    "lon": "-89.647"
+  },
+  "metadata": {},
+  "source": {
+    "name": "Open Admin Data",
+    "url": "https://openadmindata.org/sv/departments/sonsonate-sv13/",
+    "api": "https://openadmindata.org/api/sv/"
+  }
+}

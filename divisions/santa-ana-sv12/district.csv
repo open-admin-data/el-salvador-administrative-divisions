@@ -1,0 +1,7 @@
+id,name.local,name.en,name.slug,code.id,children_count.municipality,geo.lat,geo.lon
+SV12999,Lago de Coatepeque,Lago de Coatepeque,lago-de-coatepeque-sv12999,SV12999,1,13.861,-89.542
+SV12998,Lago de Guija,Lago de Guija,lago-de-guija-sv12998,SV12998,1,14.267,-89.51
+SV12001,Santa Ana Centro,Santa Ana Centro,santa-ana-centro-sv12001,SV12001,1,13.956,-89.558
+SV12002,Santa Ana Este,Santa Ana Este,santa-ana-este-sv12002,SV12002,2,13.885,-89.49
+SV12003,Santa Ana Norte,Santa Ana Norte,santa-ana-norte-sv12003,SV12003,4,14.251,-89.374
+SV12004,Santa Ana Oeste,Santa Ana Oeste,santa-ana-oeste-sv12004,SV12004,6,14.046,-89.677

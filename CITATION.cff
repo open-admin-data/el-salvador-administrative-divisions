@@ -1,0 +1,22 @@
+cff-version: 1.2.0
+message: "If you use this dataset, please cite as below"
+type: dataset
+authors:
+  - name: "jakkrapongt"
+title: "El Salvador Administrative Divisions Dataset"
+version: "2026.06"
+date-released: "2026-06-24"
+url: "https://github.com/open-admin-data/el-salvador-administrative-divisions"
+repository-code: "https://github.com/open-admin-data/el-salvador-administrative-divisions"
+license: CC-BY-4.0
+keywords:
+  - el salvador
+  - administrative-divisions
+  - geography
+  - open-data
+  - dataset
+  - multilingual
+abstract: >
+  Open dataset of El Salvador's administrative hierarchy:
+  14 departments, 48 districts, 266 municipalitys.
+  Bilingual with coordinates and postal codes where available.

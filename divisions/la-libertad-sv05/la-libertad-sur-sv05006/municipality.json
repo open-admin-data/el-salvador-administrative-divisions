@@ -1,0 +1,110 @@
+[
+  {
+    "id": "SV05006001",
+    "level": 3,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Comasagua",
+      "en": "Comasagua",
+      "slug": "comasagua-sv05006001"
+    },
+    "code": {
+      "id": "SV05006001",
+      "iso": null
+    },
+    "parent": {
+      "id": "SV05006",
+      "level": 2,
+      "name": {
+        "local": "La Libertad Sur",
+        "en": "La Libertad Sur",
+        "slug": "la-libertad-sur-sv05006"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SV05",
+        "level": 1,
+        "name": {
+          "local": "La Libertad",
+          "en": "La Libertad",
+          "slug": "la-libertad-sv05"
+        }
+      },
+      {
+        "id": "SV05006",
+        "level": 2,
+        "name": {
+          "local": "La Libertad Sur",
+          "en": "La Libertad Sur",
+          "slug": "la-libertad-sur-sv05006"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "13.598",
+      "lon": "-89.362"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SV05006002",
+    "level": 3,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Santa Tecla",
+      "en": "Santa Tecla",
+      "slug": "santa-tecla-sv05006002"
+    },
+    "code": {
+      "id": "SV05006002",
+      "iso": null
+    },
+    "parent": {
+      "id": "SV05006",
+      "level": 2,
+      "name": {
+        "local": "La Libertad Sur",
+        "en": "La Libertad Sur",
+        "slug": "la-libertad-sur-sv05006"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SV05",
+        "level": 1,
+        "name": {
+          "local": "La Libertad",
+          "en": "La Libertad",
+          "slug": "la-libertad-sv05"
+        }
+      },
+      {
+        "id": "SV05006",
+        "level": 2,
+        "name": {
+          "local": "La Libertad Sur",
+          "en": "La Libertad Sur",
+          "slug": "la-libertad-sur-sv05006"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "13.627",
+      "lon": "-89.3"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

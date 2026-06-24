@@ -1,0 +1,596 @@
+[
+  {
+    "id": "SV08001001",
+    "level": 3,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Arambala",
+      "en": "Arambala",
+      "slug": "arambala-sv08001001"
+    },
+    "code": {
+      "id": "SV08001001",
+      "iso": null
+    },
+    "parent": {
+      "id": "SV08001",
+      "level": 2,
+      "name": {
+        "local": "Morazán Norte",
+        "en": "Morazan Norte",
+        "slug": "morazan-norte-sv08001"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SV08",
+        "level": 1,
+        "name": {
+          "local": "Morazán",
+          "en": "Morazan",
+          "slug": "morazan-sv08"
+        }
+      },
+      {
+        "id": "SV08001",
+        "level": 2,
+        "name": {
+          "local": "Morazán Norte",
+          "en": "Morazan Norte",
+          "slug": "morazan-norte-sv08001"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "13.92",
+      "lon": "-88.128"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SV08001002",
+    "level": 3,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Cacaopera",
+      "en": "Cacaopera",
+      "slug": "cacaopera-sv08001002"
+    },
+    "code": {
+      "id": "SV08001002",
+      "iso": null
+    },
+    "parent": {
+      "id": "SV08001",
+      "level": 2,
+      "name": {
+        "local": "Morazán Norte",
+        "en": "Morazan Norte",
+        "slug": "morazan-norte-sv08001"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SV08",
+        "level": 1,
+        "name": {
+          "local": "Morazán",
+          "en": "Morazan",
+          "slug": "morazan-sv08"
+        }
+      },
+      {
+        "id": "SV08001",
+        "level": 2,
+        "name": {
+          "local": "Morazán Norte",
+          "en": "Morazan Norte",
+          "slug": "morazan-norte-sv08001"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "13.799",
+      "lon": "-88.047"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SV08001003",
+    "level": 3,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Corinto",
+      "en": "Corinto",
+      "slug": "corinto-sv08001003"
+    },
+    "code": {
+      "id": "SV08001003",
+      "iso": null
+    },
+    "parent": {
+      "id": "SV08001",
+      "level": 2,
+      "name": {
+        "local": "Morazán Norte",
+        "en": "Morazan Norte",
+        "slug": "morazan-norte-sv08001"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SV08",
+        "level": 1,
+        "name": {
+          "local": "Morazán",
+          "en": "Morazan",
+          "slug": "morazan-sv08"
+        }
+      },
+      {
+        "id": "SV08001",
+        "level": 2,
+        "name": {
+          "local": "Morazán Norte",
+          "en": "Morazan Norte",
+          "slug": "morazan-norte-sv08001"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "13.821",
+      "lon": "-87.973"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SV08001004",
+    "level": 3,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "El Rosario",
+      "en": "El Rosario",
+      "slug": "el-rosario-sv08001004"
+    },
+    "code": {
+      "id": "SV08001004",
+      "iso": null
+    },
+    "parent": {
+      "id": "SV08001",
+      "level": 2,
+      "name": {
+        "local": "Morazán Norte",
+        "en": "Morazan Norte",
+        "slug": "morazan-norte-sv08001"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SV08",
+        "level": 1,
+        "name": {
+          "local": "Morazán",
+          "en": "Morazan",
+          "slug": "morazan-sv08"
+        }
+      },
+      {
+        "id": "SV08001",
+        "level": 2,
+        "name": {
+          "local": "Morazán Norte",
+          "en": "Morazan Norte",
+          "slug": "morazan-norte-sv08001"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "13.862",
+      "lon": "-88.201"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SV08001005",
+    "level": 3,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Joateca",
+      "en": "Joateca",
+      "slug": "joateca-sv08001005"
+    },
+    "code": {
+      "id": "SV08001005",
+      "iso": null
+    },
+    "parent": {
+      "id": "SV08001",
+      "level": 2,
+      "name": {
+        "local": "Morazán Norte",
+        "en": "Morazan Norte",
+        "slug": "morazan-norte-sv08001"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SV08",
+        "level": 1,
+        "name": {
+          "local": "Morazán",
+          "en": "Morazan",
+          "slug": "morazan-sv08"
+        }
+      },
+      {
+        "id": "SV08001",
+        "level": 2,
+        "name": {
+          "local": "Morazán Norte",
+          "en": "Morazan Norte",
+          "slug": "morazan-norte-sv08001"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "13.896",
+      "lon": "-88.058"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SV08001006",
+    "level": 3,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Jocoaitique",
+      "en": "Jocoaitique",
+      "slug": "jocoaitique-sv08001006"
+    },
+    "code": {
+      "id": "SV08001006",
+      "iso": null
+    },
+    "parent": {
+      "id": "SV08001",
+      "level": 2,
+      "name": {
+        "local": "Morazán Norte",
+        "en": "Morazan Norte",
+        "slug": "morazan-norte-sv08001"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SV08",
+        "level": 1,
+        "name": {
+          "local": "Morazán",
+          "en": "Morazan",
+          "slug": "morazan-sv08"
+        }
+      },
+      {
+        "id": "SV08001",
+        "level": 2,
+        "name": {
+          "local": "Morazán Norte",
+          "en": "Morazan Norte",
+          "slug": "morazan-norte-sv08001"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "13.904",
+      "lon": "-88.175"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SV08001007",
+    "level": 3,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Meanguera",
+      "en": "Meanguera",
+      "slug": "meanguera-sv08001007"
+    },
+    "code": {
+      "id": "SV08001007",
+      "iso": null
+    },
+    "parent": {
+      "id": "SV08001",
+      "level": 2,
+      "name": {
+        "local": "Morazán Norte",
+        "en": "Morazan Norte",
+        "slug": "morazan-norte-sv08001"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SV08",
+        "level": 1,
+        "name": {
+          "local": "Morazán",
+          "en": "Morazan",
+          "slug": "morazan-sv08"
+        }
+      },
+      {
+        "id": "SV08001",
+        "level": 2,
+        "name": {
+          "local": "Morazán Norte",
+          "en": "Morazan Norte",
+          "slug": "morazan-norte-sv08001"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "13.859",
+      "lon": "-88.134"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SV08001008",
+    "level": 3,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Perquín",
+      "en": "Perquin",
+      "slug": "perquin-sv08001008"
+    },
+    "code": {
+      "id": "SV08001008",
+      "iso": null
+    },
+    "parent": {
+      "id": "SV08001",
+      "level": 2,
+      "name": {
+        "local": "Morazán Norte",
+        "en": "Morazan Norte",
+        "slug": "morazan-norte-sv08001"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SV08",
+        "level": 1,
+        "name": {
+          "local": "Morazán",
+          "en": "Morazan",
+          "slug": "morazan-sv08"
+        }
+      },
+      {
+        "id": "SV08001",
+        "level": 2,
+        "name": {
+          "local": "Morazán Norte",
+          "en": "Morazan Norte",
+          "slug": "morazan-norte-sv08001"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "13.955",
+      "lon": "-88.14"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SV08001009",
+    "level": 3,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "San Fernando",
+      "en": "San Fernando",
+      "slug": "san-fernando-sv08001009"
+    },
+    "code": {
+      "id": "SV08001009",
+      "iso": null
+    },
+    "parent": {
+      "id": "SV08001",
+      "level": 2,
+      "name": {
+        "local": "Morazán Norte",
+        "en": "Morazan Norte",
+        "slug": "morazan-norte-sv08001"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SV08",
+        "level": 1,
+        "name": {
+          "local": "Morazán",
+          "en": "Morazan",
+          "slug": "morazan-sv08"
+        }
+      },
+      {
+        "id": "SV08001",
+        "level": 2,
+        "name": {
+          "local": "Morazán Norte",
+          "en": "Morazan Norte",
+          "slug": "morazan-norte-sv08001"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "13.926",
+      "lon": "-88.197"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SV08001010",
+    "level": 3,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "San Isidro",
+      "en": "San Isidro",
+      "slug": "san-isidro-sv08001010"
+    },
+    "code": {
+      "id": "SV08001010",
+      "iso": null
+    },
+    "parent": {
+      "id": "SV08001",
+      "level": 2,
+      "name": {
+        "local": "Morazán Norte",
+        "en": "Morazan Norte",
+        "slug": "morazan-norte-sv08001"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SV08",
+        "level": 1,
+        "name": {
+          "local": "Morazán",
+          "en": "Morazan",
+          "slug": "morazan-sv08"
+        }
+      },
+      {
+        "id": "SV08001",
+        "level": 2,
+        "name": {
+          "local": "Morazán Norte",
+          "en": "Morazan Norte",
+          "slug": "morazan-norte-sv08001"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "13.85",
+      "lon": "-88.237"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SV08001011",
+    "level": 3,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Torola",
+      "en": "Torola",
+      "slug": "torola-sv08001011"
+    },
+    "code": {
+      "id": "SV08001011",
+      "iso": null
+    },
+    "parent": {
+      "id": "SV08001",
+      "level": 2,
+      "name": {
+        "local": "Morazán Norte",
+        "en": "Morazan Norte",
+        "slug": "morazan-norte-sv08001"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SV08",
+        "level": 1,
+        "name": {
+          "local": "Morazán",
+          "en": "Morazan",
+          "slug": "morazan-sv08"
+        }
+      },
+      {
+        "id": "SV08001",
+        "level": 2,
+        "name": {
+          "local": "Morazán Norte",
+          "en": "Morazan Norte",
+          "slug": "morazan-norte-sv08001"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "13.904",
+      "lon": "-88.232"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

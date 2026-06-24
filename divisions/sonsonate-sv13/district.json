@@ -1,0 +1,190 @@
+[
+  {
+    "id": "SV13001",
+    "level": 2,
+    "level_name": {
+      "local": "Distrito",
+      "en": "District"
+    },
+    "name": {
+      "local": "Sonsonate Centro",
+      "en": "Sonsonate Centro",
+      "slug": "sonsonate-centro-sv13001"
+    },
+    "code": {
+      "id": "SV13001",
+      "iso": null
+    },
+    "parent": {
+      "id": "SV13",
+      "level": 1,
+      "name": {
+        "local": "Sonsonate",
+        "en": "Sonsonate",
+        "slug": "sonsonate-sv13"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SV13",
+        "level": 1,
+        "name": {
+          "local": "Sonsonate",
+          "en": "Sonsonate",
+          "slug": "sonsonate-sv13"
+        }
+      }
+    ],
+    "children_count": {
+      "municipality": 5
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "13.652",
+      "lon": "-89.711"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SV13002",
+    "level": 2,
+    "level_name": {
+      "local": "Distrito",
+      "en": "District"
+    },
+    "name": {
+      "local": "Sonsonate Este",
+      "en": "Sonsonate Este",
+      "slug": "sonsonate-este-sv13002"
+    },
+    "code": {
+      "id": "SV13002",
+      "iso": null
+    },
+    "parent": {
+      "id": "SV13",
+      "level": 1,
+      "name": {
+        "local": "Sonsonate",
+        "en": "Sonsonate",
+        "slug": "sonsonate-sv13"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SV13",
+        "level": 1,
+        "name": {
+          "local": "Sonsonate",
+          "en": "Sonsonate",
+          "slug": "sonsonate-sv13"
+        }
+      }
+    ],
+    "children_count": {
+      "municipality": 6
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "13.675",
+      "lon": "-89.599"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SV13003",
+    "level": 2,
+    "level_name": {
+      "local": "Distrito",
+      "en": "District"
+    },
+    "name": {
+      "local": "Sonsonate Norte",
+      "en": "Sonsonate Norte",
+      "slug": "sonsonate-norte-sv13003"
+    },
+    "code": {
+      "id": "SV13003",
+      "iso": null
+    },
+    "parent": {
+      "id": "SV13",
+      "level": 1,
+      "name": {
+        "local": "Sonsonate",
+        "en": "Sonsonate",
+        "slug": "sonsonate-sv13"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SV13",
+        "level": 1,
+        "name": {
+          "local": "Sonsonate",
+          "en": "Sonsonate",
+          "slug": "sonsonate-sv13"
+        }
+      }
+    ],
+    "children_count": {
+      "municipality": 4
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "13.826",
+      "lon": "-89.718"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SV13004",
+    "level": 2,
+    "level_name": {
+      "local": "Distrito",
+      "en": "District"
+    },
+    "name": {
+      "local": "Sonsonate Oeste",
+      "en": "Sonsonate Oeste",
+      "slug": "sonsonate-oeste-sv13004"
+    },
+    "code": {
+      "id": "SV13004",
+      "iso": null
+    },
+    "parent": {
+      "id": "SV13",
+      "level": 1,
+      "name": {
+        "local": "Sonsonate",
+        "en": "Sonsonate",
+        "slug": "sonsonate-sv13"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SV13",
+        "level": 1,
+        "name": {
+          "local": "Sonsonate",
+          "en": "Sonsonate",
+          "slug": "sonsonate-sv13"
+        }
+      }
+    ],
+    "children_count": {
+      "municipality": 1
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "13.612",
+      "lon": "-89.816"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

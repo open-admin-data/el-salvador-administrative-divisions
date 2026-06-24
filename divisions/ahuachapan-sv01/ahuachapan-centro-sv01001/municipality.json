@@ -1,0 +1,218 @@
+[
+  {
+    "id": "SV01001001",
+    "level": 3,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Ahuachapán",
+      "en": "Ahuachapan",
+      "slug": "ahuachapan-sv01001001"
+    },
+    "code": {
+      "id": "SV01001001",
+      "iso": null
+    },
+    "parent": {
+      "id": "SV01001",
+      "level": 2,
+      "name": {
+        "local": "Ahuachapán Centro",
+        "en": "Ahuachapan Centro",
+        "slug": "ahuachapan-centro-sv01001"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SV01",
+        "level": 1,
+        "name": {
+          "local": "Ahuachapán",
+          "en": "Ahuachapan",
+          "slug": "ahuachapan-sv01"
+        }
+      },
+      {
+        "id": "SV01001",
+        "level": 2,
+        "name": {
+          "local": "Ahuachapán Centro",
+          "en": "Ahuachapan Centro",
+          "slug": "ahuachapan-centro-sv01001"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "13.963",
+      "lon": "-89.87"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SV01001002",
+    "level": 3,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Apaneca",
+      "en": "Apaneca",
+      "slug": "apaneca-sv01001002"
+    },
+    "code": {
+      "id": "SV01001002",
+      "iso": null
+    },
+    "parent": {
+      "id": "SV01001",
+      "level": 2,
+      "name": {
+        "local": "Ahuachapán Centro",
+        "en": "Ahuachapan Centro",
+        "slug": "ahuachapan-centro-sv01001"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SV01",
+        "level": 1,
+        "name": {
+          "local": "Ahuachapán",
+          "en": "Ahuachapan",
+          "slug": "ahuachapan-sv01"
+        }
+      },
+      {
+        "id": "SV01001",
+        "level": 2,
+        "name": {
+          "local": "Ahuachapán Centro",
+          "en": "Ahuachapan Centro",
+          "slug": "ahuachapan-centro-sv01001"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "13.848",
+      "lon": "-89.79"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SV01001003",
+    "level": 3,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Concepción de Ataco",
+      "en": "Concepcion de Ataco",
+      "slug": "concepcion-de-ataco-sv01001003"
+    },
+    "code": {
+      "id": "SV01001003",
+      "iso": null
+    },
+    "parent": {
+      "id": "SV01001",
+      "level": 2,
+      "name": {
+        "local": "Ahuachapán Centro",
+        "en": "Ahuachapan Centro",
+        "slug": "ahuachapan-centro-sv01001"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SV01",
+        "level": 1,
+        "name": {
+          "local": "Ahuachapán",
+          "en": "Ahuachapan",
+          "slug": "ahuachapan-sv01"
+        }
+      },
+      {
+        "id": "SV01001",
+        "level": 2,
+        "name": {
+          "local": "Ahuachapán Centro",
+          "en": "Ahuachapan Centro",
+          "slug": "ahuachapan-centro-sv01001"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "13.844",
+      "lon": "-89.85"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SV01001004",
+    "level": 3,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Tacuba",
+      "en": "Tacuba",
+      "slug": "tacuba-sv01001004"
+    },
+    "code": {
+      "id": "SV01001004",
+      "iso": null
+    },
+    "parent": {
+      "id": "SV01001",
+      "level": 2,
+      "name": {
+        "local": "Ahuachapán Centro",
+        "en": "Ahuachapan Centro",
+        "slug": "ahuachapan-centro-sv01001"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SV01",
+        "level": 1,
+        "name": {
+          "local": "Ahuachapán",
+          "en": "Ahuachapan",
+          "slug": "ahuachapan-sv01"
+        }
+      },
+      {
+        "id": "SV01001",
+        "level": 2,
+        "name": {
+          "local": "Ahuachapán Centro",
+          "en": "Ahuachapan Centro",
+          "slug": "ahuachapan-centro-sv01001"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "13.874",
+      "lon": "-89.916"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

@@ -1,0 +1,272 @@
+[
+  {
+    "id": "SV10001001",
+    "level": 3,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Ayutuxtepeque",
+      "en": "Ayutuxtepeque",
+      "slug": "ayutuxtepeque-sv10001001"
+    },
+    "code": {
+      "id": "SV10001001",
+      "iso": null
+    },
+    "parent": {
+      "id": "SV10001",
+      "level": 2,
+      "name": {
+        "local": "San Salvador Centro",
+        "en": "San Salvador Centro",
+        "slug": "san-salvador-centro-sv10001"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SV10",
+        "level": 1,
+        "name": {
+          "local": "San Salvador",
+          "en": "San Salvador",
+          "slug": "san-salvador-sv10"
+        }
+      },
+      {
+        "id": "SV10001",
+        "level": 2,
+        "name": {
+          "local": "San Salvador Centro",
+          "en": "San Salvador Centro",
+          "slug": "san-salvador-centro-sv10001"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "13.745",
+      "lon": "-89.222"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SV10001002",
+    "level": 3,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Cuscatancingo",
+      "en": "Cuscatancingo",
+      "slug": "cuscatancingo-sv10001002"
+    },
+    "code": {
+      "id": "SV10001002",
+      "iso": null
+    },
+    "parent": {
+      "id": "SV10001",
+      "level": 2,
+      "name": {
+        "local": "San Salvador Centro",
+        "en": "San Salvador Centro",
+        "slug": "san-salvador-centro-sv10001"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SV10",
+        "level": 1,
+        "name": {
+          "local": "San Salvador",
+          "en": "San Salvador",
+          "slug": "san-salvador-sv10"
+        }
+      },
+      {
+        "id": "SV10001",
+        "level": 2,
+        "name": {
+          "local": "San Salvador Centro",
+          "en": "San Salvador Centro",
+          "slug": "san-salvador-centro-sv10001"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "13.766",
+      "lon": "-89.172"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SV10001003",
+    "level": 3,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Delgado",
+      "en": "Delgado",
+      "slug": "delgado-sv10001003"
+    },
+    "code": {
+      "id": "SV10001003",
+      "iso": null
+    },
+    "parent": {
+      "id": "SV10001",
+      "level": 2,
+      "name": {
+        "local": "San Salvador Centro",
+        "en": "San Salvador Centro",
+        "slug": "san-salvador-centro-sv10001"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SV10",
+        "level": 1,
+        "name": {
+          "local": "San Salvador",
+          "en": "San Salvador",
+          "slug": "san-salvador-sv10"
+        }
+      },
+      {
+        "id": "SV10001",
+        "level": 2,
+        "name": {
+          "local": "San Salvador Centro",
+          "en": "San Salvador Centro",
+          "slug": "san-salvador-centro-sv10001"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "13.749",
+      "lon": "-89.162"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SV10001004",
+    "level": 3,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Mejicanos",
+      "en": "Mejicanos",
+      "slug": "mejicanos-sv10001004"
+    },
+    "code": {
+      "id": "SV10001004",
+      "iso": null
+    },
+    "parent": {
+      "id": "SV10001",
+      "level": 2,
+      "name": {
+        "local": "San Salvador Centro",
+        "en": "San Salvador Centro",
+        "slug": "san-salvador-centro-sv10001"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SV10",
+        "level": 1,
+        "name": {
+          "local": "San Salvador",
+          "en": "San Salvador",
+          "slug": "san-salvador-sv10"
+        }
+      },
+      {
+        "id": "SV10001",
+        "level": 2,
+        "name": {
+          "local": "San Salvador Centro",
+          "en": "San Salvador Centro",
+          "slug": "san-salvador-centro-sv10001"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "13.735",
+      "lon": "-89.227"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SV10001005",
+    "level": 3,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "San Salvador",
+      "en": "San Salvador",
+      "slug": "san-salvador-sv10001005"
+    },
+    "code": {
+      "id": "SV10001005",
+      "iso": null
+    },
+    "parent": {
+      "id": "SV10001",
+      "level": 2,
+      "name": {
+        "local": "San Salvador Centro",
+        "en": "San Salvador Centro",
+        "slug": "san-salvador-centro-sv10001"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SV10",
+        "level": 1,
+        "name": {
+          "local": "San Salvador",
+          "en": "San Salvador",
+          "slug": "san-salvador-sv10"
+        }
+      },
+      {
+        "id": "SV10001",
+        "level": 2,
+        "name": {
+          "local": "San Salvador Centro",
+          "en": "San Salvador Centro",
+          "slug": "san-salvador-centro-sv10001"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "13.683",
+      "lon": "-89.198"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

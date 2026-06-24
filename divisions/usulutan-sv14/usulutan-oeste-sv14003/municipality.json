@@ -1,0 +1,218 @@
+[
+  {
+    "id": "SV14003001",
+    "level": 3,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Jiquilisco",
+      "en": "Jiquilisco",
+      "slug": "jiquilisco-sv14003001"
+    },
+    "code": {
+      "id": "SV14003001",
+      "iso": null
+    },
+    "parent": {
+      "id": "SV14003",
+      "level": 2,
+      "name": {
+        "local": "Usulután Oeste",
+        "en": "Usulutan Oeste",
+        "slug": "usulutan-oeste-sv14003"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SV14",
+        "level": 1,
+        "name": {
+          "local": "Usulután",
+          "en": "Usulutan",
+          "slug": "usulutan-sv14"
+        }
+      },
+      {
+        "id": "SV14003",
+        "level": 2,
+        "name": {
+          "local": "Usulután Oeste",
+          "en": "Usulutan Oeste",
+          "slug": "usulutan-oeste-sv14003"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "13.319",
+      "lon": "-88.629"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SV14003002",
+    "level": 3,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Puerto El Triunfo",
+      "en": "Puerto El Triunfo",
+      "slug": "puerto-el-triunfo-sv14003002"
+    },
+    "code": {
+      "id": "SV14003002",
+      "iso": null
+    },
+    "parent": {
+      "id": "SV14003",
+      "level": 2,
+      "name": {
+        "local": "Usulután Oeste",
+        "en": "Usulutan Oeste",
+        "slug": "usulutan-oeste-sv14003"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SV14",
+        "level": 1,
+        "name": {
+          "local": "Usulután",
+          "en": "Usulutan",
+          "slug": "usulutan-sv14"
+        }
+      },
+      {
+        "id": "SV14003",
+        "level": 2,
+        "name": {
+          "local": "Usulután Oeste",
+          "en": "Usulutan Oeste",
+          "slug": "usulutan-oeste-sv14003"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "13.267",
+      "lon": "-88.527"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SV14003003",
+    "level": 3,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "San Agustín",
+      "en": "San Agustin",
+      "slug": "san-agustin-sv14003003"
+    },
+    "code": {
+      "id": "SV14003003",
+      "iso": null
+    },
+    "parent": {
+      "id": "SV14003",
+      "level": 2,
+      "name": {
+        "local": "Usulután Oeste",
+        "en": "Usulutan Oeste",
+        "slug": "usulutan-oeste-sv14003"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SV14",
+        "level": 1,
+        "name": {
+          "local": "Usulután",
+          "en": "Usulutan",
+          "slug": "usulutan-sv14"
+        }
+      },
+      {
+        "id": "SV14003",
+        "level": 2,
+        "name": {
+          "local": "Usulután Oeste",
+          "en": "Usulutan Oeste",
+          "slug": "usulutan-oeste-sv14003"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "13.443",
+      "lon": "-88.584"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SV14003004",
+    "level": 3,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "San Francisco Javier",
+      "en": "San Francisco Javier",
+      "slug": "san-francisco-javier-sv14003004"
+    },
+    "code": {
+      "id": "SV14003004",
+      "iso": null
+    },
+    "parent": {
+      "id": "SV14003",
+      "level": 2,
+      "name": {
+        "local": "Usulután Oeste",
+        "en": "Usulutan Oeste",
+        "slug": "usulutan-oeste-sv14003"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SV14",
+        "level": 1,
+        "name": {
+          "local": "Usulután",
+          "en": "Usulutan",
+          "slug": "usulutan-sv14"
+        }
+      },
+      {
+        "id": "SV14003",
+        "level": 2,
+        "name": {
+          "local": "Usulután Oeste",
+          "en": "Usulutan Oeste",
+          "slug": "usulutan-oeste-sv14003"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "13.405",
+      "lon": "-88.567"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

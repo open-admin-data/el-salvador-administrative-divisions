@@ -1,0 +1,34 @@
+{
+  "id": "SV05",
+  "level": 1,
+  "level_name": {
+    "local": "Departamento",
+    "en": "Department"
+  },
+  "name": {
+    "local": "La Libertad",
+    "en": "La Libertad",
+    "slug": "la-libertad-sv05"
+  },
+  "code": {
+    "id": "SV05",
+    "iso": null
+  },
+  "parent": null,
+  "ancestors": [],
+  "children_count": {
+    "district": 6,
+    "municipality": 22
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "13.74",
+    "lon": "-89.362"
+  },
+  "metadata": {},
+  "source": {
+    "name": "Open Admin Data",
+    "url": "https://openadmindata.org/sv/departments/la-libertad-sv05/",
+    "api": "https://openadmindata.org/api/sv/"
+  }
+}

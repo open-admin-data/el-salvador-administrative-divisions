@@ -1,0 +1,2737 @@
+{
+  "_attribution": "Data from Open Admin Data (https://openadmindata.org/sv/) — CC-BY-4.0. Please cite: https://github.com/open-admin-data/el-salvador-administrative-divisions",
+  "data": [
+    {
+      "id": "SV01",
+      "level": 1,
+      "level_name": {
+        "local": "Departamento",
+        "en": "Department"
+      },
+      "name": {
+        "local": "Ahuachapán",
+        "en": "Ahuachapan",
+        "slug": "ahuachapan-sv01"
+      },
+      "code": {
+        "id": "SV01",
+        "iso": null
+      },
+      "parent": null,
+      "ancestors": [],
+      "children_count": {
+        "district": 3,
+        "municipality": 12
+      },
+      "zip_codes": [],
+      "geo": {
+        "lat": "13.863",
+        "lon": "-89.93"
+      },
+      "metadata": {},
+      "source": {
+        "name": "Open Admin Data",
+        "url": "https://openadmindata.org/sv/departments/ahuachapan-sv01/",
+        "api": "https://openadmindata.org/api/sv/"
+      }
+    },
+    {
+      "id": "SV01001",
+      "level": 2,
+      "level_name": {
+        "local": "Distrito",
+        "en": "District"
+      },
+      "name": {
+        "local": "Ahuachapán Centro",
+        "en": "Ahuachapan Centro",
+        "slug": "ahuachapan-centro-sv01001"
+      },
+      "code": {
+        "id": "SV01001",
+        "iso": null
+      },
+      "parent": {
+        "id": "SV01",
+        "level": 1,
+        "name": {
+          "local": "Ahuachapán",
+          "en": "Ahuachapan",
+          "slug": "ahuachapan-sv01"
+        }
+      },
+      "ancestors": [
+        {
+          "id": "SV01",
+          "level": 1,
+          "name": {
+            "local": "Ahuachapán",
+            "en": "Ahuachapan",
+            "slug": "ahuachapan-sv01"
+          }
+        }
+      ],
+      "children_count": {
+        "municipality": 4
+      },
+      "zip_codes": [],
+      "geo": {
+        "lat": "13.913",
+        "lon": "-89.899"
+      },
+      "metadata": {},
+      "source": {}
+    },
+    {
+      "id": "SV01002",
+      "level": 2,
+      "level_name": {
+        "local": "Distrito",
+        "en": "District"
+      },
+      "name": {
+        "local": "Ahuachapán Norte",
+        "en": "Ahuachapan Norte",
+        "slug": "ahuachapan-norte-sv01002"
+      },
+      "code": {
+        "id": "SV01002",
+        "iso": null
+      },
+      "parent": {
+        "id": "SV01",
+        "level": 1,
+        "name": {
+          "local": "Ahuachapán",
+          "en": "Ahuachapan",
+          "slug": "ahuachapan-sv01"
+        }
+      },
+      "ancestors": [
+        {
+          "id": "SV01",
+          "level": 1,
+          "name": {
+            "local": "Ahuachapán",
+            "en": "Ahuachapan",
+            "slug": "ahuachapan-sv01"
+          }
+        }
+      ],
+      "children_count": {
+        "municipality": 4
+      },
+      "zip_codes": [],
+      "geo": {
+        "lat": "13.98",
+        "lon": "-89.738"
+      },
+      "metadata": {},
+      "source": {}
+    },
+    {
+      "id": "SV01003",
+      "level": 2,
+      "level_name": {
+        "local": "Distrito",
+        "en": "District"
+      },
+      "name": {
+        "local": "Ahuachapán Sur",
+        "en": "Ahuachapan Sur",
+        "slug": "ahuachapan-sur-sv01003"
+      },
+      "code": {
+        "id": "SV01003",
+        "iso": null
+      },
+      "parent": {
+        "id": "SV01",
+        "level": 1,
+        "name": {
+          "local": "Ahuachapán",
+          "en": "Ahuachapan",
+          "slug": "ahuachapan-sv01"
+        }
+      },
+      "ancestors": [
+        {
+          "id": "SV01",
+          "level": 1,
+          "name": {
+            "local": "Ahuachapán",
+            "en": "Ahuachapan",
+            "slug": "ahuachapan-sv01"
+          }
+        }
+      ],
+      "children_count": {
+        "municipality": 4
+      },
+      "zip_codes": [],
+      "geo": {
+        "lat": "13.78",
+        "lon": "-90.018"
+      },
+      "metadata": {},
+      "source": {}
+    },
+    {
+      "id": "SV02",
+      "level": 1,
+      "level_name": {
+        "local": "Departamento",
+        "en": "Department"
+      },
+      "name": {
+        "local": "Cabañas",
+        "en": "Cabanas",
+        "slug": "cabanas-sv02"
+      },
+      "code": {
+        "id": "SV02",
+        "iso": null
+      },
+      "parent": null,
+      "ancestors": [],
+      "children_count": {
+        "district": 2,
+        "municipality": 9
+      },
+      "zip_codes": [],
+      "geo": {
+        "lat": "13.879",
+        "lon": "-88.742"
+      },
+      "metadata": {},
+      "source": {
+        "name": "Open Admin Data",
+        "url": "https://openadmindata.org/sv/departments/cabanas-sv02/",
+        "api": "https://openadmindata.org/api/sv/"
+      }
+    },
+    {
+      "id": "SV02001",
+      "level": 2,
+      "level_name": {
+        "local": "Distrito",
+        "en": "District"
+      },
+      "name": {
+        "local": "Cabañas Este",
+        "en": "Cabanas Este",
+        "slug": "cabanas-este-sv02001"
+      },
+      "code": {
+        "id": "SV02001",
+        "iso": null
+      },
+      "parent": {
+        "id": "SV02",
+        "level": 1,
+        "name": {
+          "local": "Cabañas",
+          "en": "Cabanas",
+          "slug": "cabanas-sv02"
+        }
+      },
+      "ancestors": [
+        {
+          "id": "SV02",
+          "level": 1,
+          "name": {
+            "local": "Cabañas",
+            "en": "Cabanas",
+            "slug": "cabanas-sv02"
+          }
+        }
+      ],
+      "children_count": {
+        "municipality": 5
+      },
+      "zip_codes": [],
+      "geo": {
+        "lat": "13.879",
+        "lon": "-88.613"
+      },
+      "metadata": {},
+      "source": {}
+    },
+    {
+      "id": "SV02002",
+      "level": 2,
+      "level_name": {
+        "local": "Distrito",
+        "en": "District"
+      },
+      "name": {
+        "local": "Cabañas Oeste",
+        "en": "Cabanas Oeste",
+        "slug": "cabanas-oeste-sv02002"
+      },
+      "code": {
+        "id": "SV02002",
+        "iso": null
+      },
+      "parent": {
+        "id": "SV02",
+        "level": 1,
+        "name": {
+          "local": "Cabañas",
+          "en": "Cabanas",
+          "slug": "cabanas-sv02"
+        }
+      },
+      "ancestors": [
+        {
+          "id": "SV02",
+          "level": 1,
+          "name": {
+            "local": "Cabañas",
+            "en": "Cabanas",
+            "slug": "cabanas-sv02"
+          }
+        }
+      ],
+      "children_count": {
+        "municipality": 4
+      },
+      "zip_codes": [],
+      "geo": {
+        "lat": "13.861",
+        "lon": "-88.862"
+      },
+      "metadata": {},
+      "source": {}
+    },
+    {
+      "id": "SV03",
+      "level": 1,
+      "level_name": {
+        "local": "Departamento",
+        "en": "Department"
+      },
+      "name": {
+        "local": "Chalatenango",
+        "en": "Chalatenango",
+        "slug": "chalatenango-sv03"
+      },
+      "code": {
+        "id": "SV03",
+        "iso": null
+      },
+      "parent": null,
+      "ancestors": [],
+      "children_count": {
+        "district": 4,
+        "municipality": 34
+      },
+      "zip_codes": [],
+      "geo": {
+        "lat": "14.163",
+        "lon": "-89.111"
+      },
+      "metadata": {},
+      "source": {
+        "name": "Open Admin Data",
+        "url": "https://openadmindata.org/sv/departments/chalatenango-sv03/",
+        "api": "https://openadmindata.org/api/sv/"
+      }
+    },
+    {
+      "id": "SV03001",
+      "level": 2,
+      "level_name": {
+        "local": "Distrito",
+        "en": "District"
+      },
+      "name": {
+        "local": "Chalatenango Centro",
+        "en": "Chalatenango Centro",
+        "slug": "chalatenango-centro-sv03001"
+      },
+      "code": {
+        "id": "SV03001",
+        "iso": null
+      },
+      "parent": {
+        "id": "SV03",
+        "level": 1,
+        "name": {
+          "local": "Chalatenango",
+          "en": "Chalatenango",
+          "slug": "chalatenango-sv03"
+        }
+      },
+      "ancestors": [
+        {
+          "id": "SV03",
+          "level": 1,
+          "name": {
+            "local": "Chalatenango",
+            "en": "Chalatenango",
+            "slug": "chalatenango-sv03"
+          }
+        }
+      ],
+      "children_count": {
+        "municipality": 10
+      },
+      "zip_codes": [],
+      "geo": {
+        "lat": "14.181",
+        "lon": "-89.147"
+      },
+      "metadata": {},
+      "source": {}
+    },
+    {
+      "id": "SV03002",
+      "level": 2,
+      "level_name": {
+        "local": "Distrito",
+        "en": "District"
+      },
+      "name": {
+        "local": "Chalatenango Norte",
+        "en": "Chalatenango Norte",
+        "slug": "chalatenango-norte-sv03002"
+      },
+      "code": {
+        "id": "SV03002",
+        "iso": null
+      },
+      "parent": {
+        "id": "SV03",
+        "level": 1,
+        "name": {
+          "local": "Chalatenango",
+          "en": "Chalatenango",
+          "slug": "chalatenango-sv03"
+        }
+      },
+      "ancestors": [
+        {
+          "id": "SV03",
+          "level": 1,
+          "name": {
+            "local": "Chalatenango",
+            "en": "Chalatenango",
+            "slug": "chalatenango-sv03"
+          }
+        }
+      ],
+      "children_count": {
+        "municipality": 3
+      },
+      "zip_codes": [],
+      "geo": {
+        "lat": "14.333",
+        "lon": "-89.169"
+      },
+      "metadata": {},
+      "source": {}
+    },
+    {
+      "id": "SV03003",
+      "level": 2,
+      "level_name": {
+        "local": "Distrito",
+        "en": "District"
+      },
+      "name": {
+        "local": "Chalatenango Sur",
+        "en": "Chalatenango Sur",
+        "slug": "chalatenango-sur-sv03003"
+      },
+      "code": {
+        "id": "SV03003",
+        "iso": null
+      },
+      "parent": {
+        "id": "SV03",
+        "level": 1,
+        "name": {
+          "local": "Chalatenango",
+          "en": "Chalatenango",
+          "slug": "chalatenango-sv03"
+        }
+      },
+      "ancestors": [
+        {
+          "id": "SV03",
+          "level": 1,
+          "name": {
+            "local": "Chalatenango",
+            "en": "Chalatenango",
+            "slug": "chalatenango-sv03"
+          }
+        }
+      ],
+      "children_count": {
+        "municipality": 20
+      },
+      "zip_codes": [],
+      "geo": {
+        "lat": "14.066",
+        "lon": "-88.874"
+      },
+      "metadata": {},
+      "source": {}
+    },
+    {
+      "id": "SV03999",
+      "level": 2,
+      "level_name": {
+        "local": "Distrito",
+        "en": "District"
+      },
+      "name": {
+        "local": "Embalse Cerron Grande",
+        "en": "Embalse Cerron Grande",
+        "slug": "embalse-cerron-grande-sv03999"
+      },
+      "code": {
+        "id": "SV03999",
+        "iso": null
+      },
+      "parent": {
+        "id": "SV03",
+        "level": 1,
+        "name": {
+          "local": "Chalatenango",
+          "en": "Chalatenango",
+          "slug": "chalatenango-sv03"
+        }
+      },
+      "ancestors": [
+        {
+          "id": "SV03",
+          "level": 1,
+          "name": {
+            "local": "Chalatenango",
+            "en": "Chalatenango",
+            "slug": "chalatenango-sv03"
+          }
+        }
+      ],
+      "children_count": {
+        "municipality": 1
+      },
+      "zip_codes": [],
+      "geo": {
+        "lat": "14.006",
+        "lon": "-89.022"
+      },
+      "metadata": {},
+      "source": {}
+    },
+    {
+      "id": "SV04",
+      "level": 1,
+      "level_name": {
+        "local": "Departamento",
+        "en": "Department"
+      },
+      "name": {
+        "local": "Cuscatlán",
+        "en": "Cuscatlan",
+        "slug": "cuscatlan-sv04"
+      },
+      "code": {
+        "id": "SV04",
+        "iso": null
+      },
+      "parent": null,
+      "ancestors": [],
+      "children_count": {
+        "district": 2,
+        "municipality": 16
+      },
+      "zip_codes": [],
+      "geo": {
+        "lat": "13.845",
+        "lon": "-89.052"
+      },
+      "metadata": {},
+      "source": {
+        "name": "Open Admin Data",
+        "url": "https://openadmindata.org/sv/departments/cuscatlan-sv04/",
+        "api": "https://openadmindata.org/api/sv/"
+      }
+    },
+    {
+      "id": "SV04001",
+      "level": 2,
+      "level_name": {
+        "local": "Distrito",
+        "en": "District"
+      },
+      "name": {
+        "local": "Cuscatlán Norte",
+        "en": "Cuscatlan Norte",
+        "slug": "cuscatlan-norte-sv04001"
+      },
+      "code": {
+        "id": "SV04001",
+        "iso": null
+      },
+      "parent": {
+        "id": "SV04",
+        "level": 1,
+        "name": {
+          "local": "Cuscatlán",
+          "en": "Cuscatlan",
+          "slug": "cuscatlan-sv04"
+        }
+      },
+      "ancestors": [
+        {
+          "id": "SV04",
+          "level": 1,
+          "name": {
+            "local": "Cuscatlán",
+            "en": "Cuscatlan",
+            "slug": "cuscatlan-sv04"
+          }
+        }
+      ],
+      "children_count": {
+        "municipality": 5
+      },
+      "zip_codes": [],
+      "geo": {
+        "lat": "13.876",
+        "lon": "-89.06"
+      },
+      "metadata": {},
+      "source": {}
+    },
+    {
+      "id": "SV04002",
+      "level": 2,
+      "level_name": {
+        "local": "Distrito",
+        "en": "District"
+      },
+      "name": {
+        "local": "Cuscatlán Sur",
+        "en": "Cuscatlan Sur",
+        "slug": "cuscatlan-sur-sv04002"
+      },
+      "code": {
+        "id": "SV04002",
+        "iso": null
+      },
+      "parent": {
+        "id": "SV04",
+        "level": 1,
+        "name": {
+          "local": "Cuscatlán",
+          "en": "Cuscatlan",
+          "slug": "cuscatlan-sv04"
+        }
+      },
+      "ancestors": [
+        {
+          "id": "SV04",
+          "level": 1,
+          "name": {
+            "local": "Cuscatlán",
+            "en": "Cuscatlan",
+            "slug": "cuscatlan-sv04"
+          }
+        }
+      ],
+      "children_count": {
+        "municipality": 11
+      },
+      "zip_codes": [],
+      "geo": {
+        "lat": "13.752",
+        "lon": "-88.918"
+      },
+      "metadata": {},
+      "source": {}
+    },
+    {
+      "id": "SV05",
+      "level": 1,
+      "level_name": {
+        "local": "Departamento",
+        "en": "Department"
+      },
+      "name": {
+        "local": "La Libertad",
+        "en": "La Libertad",
+        "slug": "la-libertad-sv05"
+      },
+      "code": {
+        "id": "SV05",
+        "iso": null
+      },
+      "parent": null,
+      "ancestors": [],
+      "children_count": {
+        "district": 6,
+        "municipality": 22
+      },
+      "zip_codes": [],
+      "geo": {
+        "lat": "13.74",
+        "lon": "-89.362"
+      },
+      "metadata": {},
+      "source": {
+        "name": "Open Admin Data",
+        "url": "https://openadmindata.org/sv/departments/la-libertad-sv05/",
+        "api": "https://openadmindata.org/api/sv/"
+      }
+    },
+    {
+      "id": "SV05001",
+      "level": 2,
+      "level_name": {
+        "local": "Distrito",
+        "en": "District"
+      },
+      "name": {
+        "local": "La Libertad Centro",
+        "en": "La Libertad Centro",
+        "slug": "la-libertad-centro-sv05001"
+      },
+      "code": {
+        "id": "SV05001",
+        "iso": null
+      },
+      "parent": {
+        "id": "SV05",
+        "level": 1,
+        "name": {
+          "local": "La Libertad",
+          "en": "La Libertad",
+          "slug": "la-libertad-sv05"
+        }
+      },
+      "ancestors": [
+        {
+          "id": "SV05",
+          "level": 1,
+          "name": {
+            "local": "La Libertad",
+            "en": "La Libertad",
+            "slug": "la-libertad-sv05"
+          }
+        }
+      ],
+      "children_count": {
+        "municipality": 2
+      },
+      "zip_codes": [],
+      "geo": {
+        "lat": "13.845",
+        "lon": "-89.386"
+      },
+      "metadata": {},
+      "source": {}
+    },
+    {
+      "id": "SV05002",
+      "level": 2,
+      "level_name": {
+        "local": "Distrito",
+        "en": "District"
+      },
+      "name": {
+        "local": "La Libertad Costa",
+        "en": "La Libertad Costa",
+        "slug": "la-libertad-costa-sv05002"
+      },
+      "code": {
+        "id": "SV05002",
+        "iso": null
+      },
+      "parent": {
+        "id": "SV05",
+        "level": 1,
+        "name": {
+          "local": "La Libertad",
+          "en": "La Libertad",
+          "slug": "la-libertad-sv05"
+        }
+      },
+      "ancestors": [
+        {
+          "id": "SV05",
+          "level": 1,
+          "name": {
+            "local": "La Libertad",
+            "en": "La Libertad",
+            "slug": "la-libertad-sv05"
+          }
+        }
+      ],
+      "children_count": {
+        "municipality": 5
+      },
+      "zip_codes": [],
+      "geo": {
+        "lat": "13.536",
+        "lon": "-89.479"
+      },
+      "metadata": {},
+      "source": {}
+    },
+    {
+      "id": "SV05003",
+      "level": 2,
+      "level_name": {
+        "local": "Distrito",
+        "en": "District"
+      },
+      "name": {
+        "local": "La Libertad Este",
+        "en": "La Libertad Este",
+        "slug": "la-libertad-este-sv05003"
+      },
+      "code": {
+        "id": "SV05003",
+        "iso": null
+      },
+      "parent": {
+        "id": "SV05",
+        "level": 1,
+        "name": {
+          "local": "La Libertad",
+          "en": "La Libertad",
+          "slug": "la-libertad-sv05"
+        }
+      },
+      "ancestors": [
+        {
+          "id": "SV05",
+          "level": 1,
+          "name": {
+            "local": "La Libertad",
+            "en": "La Libertad",
+            "slug": "la-libertad-sv05"
+          }
+        }
+      ],
+      "children_count": {
+        "municipality": 5
+      },
+      "zip_codes": [],
+      "geo": {
+        "lat": "13.595",
+        "lon": "-89.261"
+      },
+      "metadata": {},
+      "source": {}
+    },
+    {
+      "id": "SV05004",
+      "level": 2,
+      "level_name": {
+        "local": "Distrito",
+        "en": "District"
+      },
+      "name": {
+        "local": "La Libertad Norte",
+        "en": "La Libertad Norte",
+        "slug": "la-libertad-norte-sv05004"
+      },
+      "code": {
+        "id": "SV05004",
+        "iso": null
+      },
+      "parent": {
+        "id": "SV05",
+        "level": 1,
+        "name": {
+          "local": "La Libertad",
+          "en": "La Libertad",
+          "slug": "la-libertad-sv05"
+        }
+      },
+      "ancestors": [
+        {
+          "id": "SV05",
+          "level": 1,
+          "name": {
+            "local": "La Libertad",
+            "en": "La Libertad",
+            "slug": "la-libertad-sv05"
+          }
+        }
+      ],
+      "children_count": {
+        "municipality": 3
+      },
+      "zip_codes": [],
+      "geo": {
+        "lat": "13.896",
+        "lon": "-89.282"
+      },
+      "metadata": {},
+      "source": {}
+    },
+    {
+      "id": "SV05005",
+      "level": 2,
+      "level_name": {
+        "local": "Distrito",
+        "en": "District"
+      },
+      "name": {
+        "local": "La Libertad Oeste",
+        "en": "La Libertad Oeste",
+        "slug": "la-libertad-oeste-sv05005"
+      },
+      "code": {
+        "id": "SV05005",
+        "iso": null
+      },
+      "parent": {
+        "id": "SV05",
+        "level": 1,
+        "name": {
+          "local": "La Libertad",
+          "en": "La Libertad",
+          "slug": "la-libertad-sv05"
+        }
+      },
+      "ancestors": [
+        {
+          "id": "SV05",
+          "level": 1,
+          "name": {
+            "local": "La Libertad",
+            "en": "La Libertad",
+            "slug": "la-libertad-sv05"
+          }
+        }
+      ],
+      "children_count": {
+        "municipality": 5
+      },
+      "zip_codes": [],
+      "geo": {
+        "lat": "13.694",
+        "lon": "-89.448"
+      },
+      "metadata": {},
+      "source": {}
+    },
+    {
+      "id": "SV05006",
+      "level": 2,
+      "level_name": {
+        "local": "Distrito",
+        "en": "District"
+      },
+      "name": {
+        "local": "La Libertad Sur",
+        "en": "La Libertad Sur",
+        "slug": "la-libertad-sur-sv05006"
+      },
+      "code": {
+        "id": "SV05006",
+        "iso": null
+      },
+      "parent": {
+        "id": "SV05",
+        "level": 1,
+        "name": {
+          "local": "La Libertad",
+          "en": "La Libertad",
+          "slug": "la-libertad-sv05"
+        }
+      },
+      "ancestors": [
+        {
+          "id": "SV05",
+          "level": 1,
+          "name": {
+            "local": "La Libertad",
+            "en": "La Libertad",
+            "slug": "la-libertad-sv05"
+          }
+        }
+      ],
+      "children_count": {
+        "municipality": 2
+      },
+      "zip_codes": [],
+      "geo": {
+        "lat": "13.627",
+        "lon": "-89.344"
+      },
+      "metadata": {},
+      "source": {}
+    },
+    {
+      "id": "SV06",
+      "level": 1,
+      "level_name": {
+        "local": "Departamento",
+        "en": "Department"
+      },
+      "name": {
+        "local": "La Paz",
+        "en": "La Paz",
+        "slug": "la-paz-sv06"
+      },
+      "code": {
+        "id": "SV06",
+        "iso": null
+      },
+      "parent": null,
+      "ancestors": [],
+      "children_count": {
+        "district": 3,
+        "municipality": 22
+      },
+      "zip_codes": [],
+      "geo": {
+        "lat": "13.462",
+        "lon": "-88.977"
+      },
+      "metadata": {},
+      "source": {
+        "name": "Open Admin Data",
+        "url": "https://openadmindata.org/sv/departments/la-paz-sv06/",
+        "api": "https://openadmindata.org/api/sv/"
+      }
+    },
+    {
+      "id": "SV06001",
+      "level": 2,
+      "level_name": {
+        "local": "Distrito",
+        "en": "District"
+      },
+      "name": {
+        "local": "La Paz Centro",
+        "en": "La Paz Centro",
+        "slug": "la-paz-centro-sv06001"
+      },
+      "code": {
+        "id": "SV06001",
+        "iso": null
+      },
+      "parent": {
+        "id": "SV06",
+        "level": 1,
+        "name": {
+          "local": "La Paz",
+          "en": "La Paz",
+          "slug": "la-paz-sv06"
+        }
+      },
+      "ancestors": [
+        {
+          "id": "SV06",
+          "level": 1,
+          "name": {
+            "local": "La Paz",
+            "en": "La Paz",
+            "slug": "la-paz-sv06"
+          }
+        }
+      ],
+      "children_count": {
+        "municipality": 12
+      },
+      "zip_codes": [],
+      "geo": {
+        "lat": "13.476",
+        "lon": "-88.978"
+      },
+      "metadata": {},
+      "source": {}
+    },
+    {
+      "id": "SV06002",
+      "level": 2,
+      "level_name": {
+        "local": "Distrito",
+        "en": "District"
+      },
+      "name": {
+        "local": "La Paz Este",
+        "en": "La Paz Este",
+        "slug": "la-paz-este-sv06002"
+      },
+      "code": {
+        "id": "SV06002",
+        "iso": null
+      },
+      "parent": {
+        "id": "SV06",
+        "level": 1,
+        "name": {
+          "local": "La Paz",
+          "en": "La Paz",
+          "slug": "la-paz-sv06"
+        }
+      },
+      "ancestors": [
+        {
+          "id": "SV06",
+          "level": 1,
+          "name": {
+            "local": "La Paz",
+            "en": "La Paz",
+            "slug": "la-paz-sv06"
+          }
+        }
+      ],
+      "children_count": {
+        "municipality": 3
+      },
+      "zip_codes": [],
+      "geo": {
+        "lat": "13.444",
+        "lon": "-88.877"
+      },
+      "metadata": {},
+      "source": {}
+    },
+    {
+      "id": "SV06003",
+      "level": 2,
+      "level_name": {
+        "local": "Distrito",
+        "en": "District"
+      },
+      "name": {
+        "local": "La Paz Oeste",
+        "en": "La Paz Oeste",
+        "slug": "la-paz-oeste-sv06003"
+      },
+      "code": {
+        "id": "SV06003",
+        "iso": null
+      },
+      "parent": {
+        "id": "SV06",
+        "level": 1,
+        "name": {
+          "local": "La Paz",
+          "en": "La Paz",
+          "slug": "la-paz-sv06"
+        }
+      },
+      "ancestors": [
+        {
+          "id": "SV06",
+          "level": 1,
+          "name": {
+            "local": "La Paz",
+            "en": "La Paz",
+            "slug": "la-paz-sv06"
+          }
+        }
+      ],
+      "children_count": {
+        "municipality": 7
+      },
+      "zip_codes": [],
+      "geo": {
+        "lat": "13.494",
+        "lon": "-89.092"
+      },
+      "metadata": {},
+      "source": {}
+    },
+    {
+      "id": "SV07",
+      "level": 1,
+      "level_name": {
+        "local": "Departamento",
+        "en": "Department"
+      },
+      "name": {
+        "local": "La Unión",
+        "en": "La Union",
+        "slug": "la-union-sv07"
+      },
+      "code": {
+        "id": "SV07",
+        "iso": null
+      },
+      "parent": null,
+      "ancestors": [],
+      "children_count": {
+        "district": 2,
+        "municipality": 18
+      },
+      "zip_codes": [],
+      "geo": {
+        "lat": "13.525",
+        "lon": "-87.906"
+      },
+      "metadata": {},
+      "source": {
+        "name": "Open Admin Data",
+        "url": "https://openadmindata.org/sv/departments/la-union-sv07/",
+        "api": "https://openadmindata.org/api/sv/"
+      }
+    },
+    {
+      "id": "SV07001",
+      "level": 2,
+      "level_name": {
+        "local": "Distrito",
+        "en": "District"
+      },
+      "name": {
+        "local": "La Unión Norte",
+        "en": "La Union Norte",
+        "slug": "la-union-norte-sv07001"
+      },
+      "code": {
+        "id": "SV07001",
+        "iso": null
+      },
+      "parent": {
+        "id": "SV07",
+        "level": 1,
+        "name": {
+          "local": "La Unión",
+          "en": "La Union",
+          "slug": "la-union-sv07"
+        }
+      },
+      "ancestors": [
+        {
+          "id": "SV07",
+          "level": 1,
+          "name": {
+            "local": "La Unión",
+            "en": "La Union",
+            "slug": "la-union-sv07"
+          }
+        }
+      ],
+      "children_count": {
+        "municipality": 10
+      },
+      "zip_codes": [],
+      "geo": {
+        "lat": "13.65",
+        "lon": "-87.86"
+      },
+      "metadata": {},
+      "source": {}
+    },
+    {
+      "id": "SV07002",
+      "level": 2,
+      "level_name": {
+        "local": "Distrito",
+        "en": "District"
+      },
+      "name": {
+        "local": "La Unión Sur",
+        "en": "La Union Sur",
+        "slug": "la-union-sur-sv07002"
+      },
+      "code": {
+        "id": "SV07002",
+        "iso": null
+      },
+      "parent": {
+        "id": "SV07",
+        "level": 1,
+        "name": {
+          "local": "La Unión",
+          "en": "La Union",
+          "slug": "la-union-sv07"
+        }
+      },
+      "ancestors": [
+        {
+          "id": "SV07",
+          "level": 1,
+          "name": {
+            "local": "La Unión",
+            "en": "La Union",
+            "slug": "la-union-sv07"
+          }
+        }
+      ],
+      "children_count": {
+        "municipality": 8
+      },
+      "zip_codes": [],
+      "geo": {
+        "lat": "13.369",
+        "lon": "-87.95"
+      },
+      "metadata": {},
+      "source": {}
+    },
+    {
+      "id": "SV08",
+      "level": 1,
+      "level_name": {
+        "local": "Departamento",
+        "en": "Department"
+      },
+      "name": {
+        "local": "Morazán",
+        "en": "Morazan",
+        "slug": "morazan-sv08"
+      },
+      "code": {
+        "id": "SV08",
+        "iso": null
+      },
+      "parent": null,
+      "ancestors": [],
+      "children_count": {
+        "district": 2,
+        "municipality": 26
+      },
+      "zip_codes": [],
+      "geo": {
+        "lat": "13.763",
+        "lon": "-88.093"
+      },
+      "metadata": {},
+      "source": {
+        "name": "Open Admin Data",
+        "url": "https://openadmindata.org/sv/departments/morazan-sv08/",
+        "api": "https://openadmindata.org/api/sv/"
+      }
+    },
+    {
+      "id": "SV08001",
+      "level": 2,
+      "level_name": {
+        "local": "Distrito",
+        "en": "District"
+      },
+      "name": {
+        "local": "Morazán Norte",
+        "en": "Morazan Norte",
+        "slug": "morazan-norte-sv08001"
+      },
+      "code": {
+        "id": "SV08001",
+        "iso": null
+      },
+      "parent": {
+        "id": "SV08",
+        "level": 1,
+        "name": {
+          "local": "Morazán",
+          "en": "Morazan",
+          "slug": "morazan-sv08"
+        }
+      },
+      "ancestors": [
+        {
+          "id": "SV08",
+          "level": 1,
+          "name": {
+            "local": "Morazán",
+            "en": "Morazan",
+            "slug": "morazan-sv08"
+          }
+        }
+      ],
+      "children_count": {
+        "municipality": 11
+      },
+      "zip_codes": [],
+      "geo": {
+        "lat": "13.86",
+        "lon": "-88.11"
+      },
+      "metadata": {},
+      "source": {}
+    },
+    {
+      "id": "SV08002",
+      "level": 2,
+      "level_name": {
+        "local": "Distrito",
+        "en": "District"
+      },
+      "name": {
+        "local": "Morazán Sur",
+        "en": "Morazan Sur",
+        "slug": "morazan-sur-sv08002"
+      },
+      "code": {
+        "id": "SV08002",
+        "iso": null
+      },
+      "parent": {
+        "id": "SV08",
+        "level": 1,
+        "name": {
+          "local": "Morazán",
+          "en": "Morazan",
+          "slug": "morazan-sv08"
+        }
+      },
+      "ancestors": [
+        {
+          "id": "SV08",
+          "level": 1,
+          "name": {
+            "local": "Morazán",
+            "en": "Morazan",
+            "slug": "morazan-sv08"
+          }
+        }
+      ],
+      "children_count": {
+        "municipality": 15
+      },
+      "zip_codes": [],
+      "geo": {
+        "lat": "13.695",
+        "lon": "-88.11"
+      },
+      "metadata": {},
+      "source": {}
+    },
+    {
+      "id": "SV09",
+      "level": 1,
+      "level_name": {
+        "local": "Departamento",
+        "en": "Department"
+      },
+      "name": {
+        "local": "San Miguel",
+        "en": "San Miguel",
+        "slug": "san-miguel-sv09"
+      },
+      "code": {
+        "id": "SV09",
+        "iso": null
+      },
+      "parent": null,
+      "ancestors": [],
+      "children_count": {
+        "district": 3,
+        "municipality": 20
+      },
+      "zip_codes": [],
+      "geo": {
+        "lat": "13.529",
+        "lon": "-88.198"
+      },
+      "metadata": {},
+      "source": {
+        "name": "Open Admin Data",
+        "url": "https://openadmindata.org/sv/departments/san-miguel-sv09/",
+        "api": "https://openadmindata.org/api/sv/"
+      }
+    },
+    {
+      "id": "SV09001",
+      "level": 2,
+      "level_name": {
+        "local": "Distrito",
+        "en": "District"
+      },
+      "name": {
+        "local": "San Miguel Centro",
+        "en": "San Miguel Centro",
+        "slug": "san-miguel-centro-sv09001"
+      },
+      "code": {
+        "id": "SV09001",
+        "iso": null
+      },
+      "parent": {
+        "id": "SV09",
+        "level": 1,
+        "name": {
+          "local": "San Miguel",
+          "en": "San Miguel",
+          "slug": "san-miguel-sv09"
+        }
+      },
+      "ancestors": [
+        {
+          "id": "SV09",
+          "level": 1,
+          "name": {
+            "local": "San Miguel",
+            "en": "San Miguel",
+            "slug": "san-miguel-sv09"
+          }
+        }
+      ],
+      "children_count": {
+        "municipality": 6
+      },
+      "zip_codes": [],
+      "geo": {
+        "lat": "13.39",
+        "lon": "-88.169"
+      },
+      "metadata": {},
+      "source": {}
+    },
+    {
+      "id": "SV09002",
+      "level": 2,
+      "level_name": {
+        "local": "Distrito",
+        "en": "District"
+      },
+      "name": {
+        "local": "San Miguel Norte",
+        "en": "San Miguel Norte",
+        "slug": "san-miguel-norte-sv09002"
+      },
+      "code": {
+        "id": "SV09002",
+        "iso": null
+      },
+      "parent": {
+        "id": "SV09",
+        "level": 1,
+        "name": {
+          "local": "San Miguel",
+          "en": "San Miguel",
+          "slug": "san-miguel-sv09"
+        }
+      },
+      "ancestors": [
+        {
+          "id": "SV09",
+          "level": 1,
+          "name": {
+            "local": "San Miguel",
+            "en": "San Miguel",
+            "slug": "san-miguel-sv09"
+          }
+        }
+      ],
+      "children_count": {
+        "municipality": 8
+      },
+      "zip_codes": [],
+      "geo": {
+        "lat": "13.738",
+        "lon": "-88.383"
+      },
+      "metadata": {},
+      "source": {}
+    },
+    {
+      "id": "SV09003",
+      "level": 2,
+      "level_name": {
+        "local": "Distrito",
+        "en": "District"
+      },
+      "name": {
+        "local": "San Miguel Oeste",
+        "en": "San Miguel Oeste",
+        "slug": "san-miguel-oeste-sv09003"
+      },
+      "code": {
+        "id": "SV09003",
+        "iso": null
+      },
+      "parent": {
+        "id": "SV09",
+        "level": 1,
+        "name": {
+          "local": "San Miguel",
+          "en": "San Miguel",
+          "slug": "san-miguel-sv09"
+        }
+      },
+      "ancestors": [
+        {
+          "id": "SV09",
+          "level": 1,
+          "name": {
+            "local": "San Miguel",
+            "en": "San Miguel",
+            "slug": "san-miguel-sv09"
+          }
+        }
+      ],
+      "children_count": {
+        "municipality": 6
+      },
+      "zip_codes": [],
+      "geo": {
+        "lat": "13.447",
+        "lon": "-88.332"
+      },
+      "metadata": {},
+      "source": {}
+    },
+    {
+      "id": "SV10",
+      "level": 1,
+      "level_name": {
+        "local": "Departamento",
+        "en": "Department"
+      },
+      "name": {
+        "local": "San Salvador",
+        "en": "San Salvador",
+        "slug": "san-salvador-sv10"
+      },
+      "code": {
+        "id": "SV10",
+        "iso": null
+      },
+      "parent": null,
+      "ancestors": [],
+      "children_count": {
+        "district": 6,
+        "municipality": 20
+      },
+      "zip_codes": [],
+      "geo": {
+        "lat": "13.763",
+        "lon": "-89.157"
+      },
+      "metadata": {},
+      "source": {
+        "name": "Open Admin Data",
+        "url": "https://openadmindata.org/sv/departments/san-salvador-sv10/",
+        "api": "https://openadmindata.org/api/sv/"
+      }
+    },
+    {
+      "id": "SV10001",
+      "level": 2,
+      "level_name": {
+        "local": "Distrito",
+        "en": "District"
+      },
+      "name": {
+        "local": "San Salvador Centro",
+        "en": "San Salvador Centro",
+        "slug": "san-salvador-centro-sv10001"
+      },
+      "code": {
+        "id": "SV10001",
+        "iso": null
+      },
+      "parent": {
+        "id": "SV10",
+        "level": 1,
+        "name": {
+          "local": "San Salvador",
+          "en": "San Salvador",
+          "slug": "san-salvador-sv10"
+        }
+      },
+      "ancestors": [
+        {
+          "id": "SV10",
+          "level": 1,
+          "name": {
+            "local": "San Salvador",
+            "en": "San Salvador",
+            "slug": "san-salvador-sv10"
+          }
+        }
+      ],
+      "children_count": {
+        "municipality": 5
+      },
+      "zip_codes": [],
+      "geo": {
+        "lat": "13.711",
+        "lon": "-89.212"
+      },
+      "metadata": {},
+      "source": {}
+    },
+    {
+      "id": "SV10002",
+      "level": 2,
+      "level_name": {
+        "local": "Distrito",
+        "en": "District"
+      },
+      "name": {
+        "local": "San Salvador Este",
+        "en": "San Salvador Este",
+        "slug": "san-salvador-este-sv10002"
+      },
+      "code": {
+        "id": "SV10002",
+        "iso": null
+      },
+      "parent": {
+        "id": "SV10",
+        "level": 1,
+        "name": {
+          "local": "San Salvador",
+          "en": "San Salvador",
+          "slug": "san-salvador-sv10"
+        }
+      },
+      "ancestors": [
+        {
+          "id": "SV10",
+          "level": 1,
+          "name": {
+            "local": "San Salvador",
+            "en": "San Salvador",
+            "slug": "san-salvador-sv10"
+          }
+        }
+      ],
+      "children_count": {
+        "municipality": 4
+      },
+      "zip_codes": [],
+      "geo": {
+        "lat": "13.75",
+        "lon": "-89.091"
+      },
+      "metadata": {},
+      "source": {}
+    },
+    {
+      "id": "SV10003",
+      "level": 2,
+      "level_name": {
+        "local": "Distrito",
+        "en": "District"
+      },
+      "name": {
+        "local": "San Salvador Norte",
+        "en": "San Salvador Norte",
+        "slug": "san-salvador-norte-sv10003"
+      },
+      "code": {
+        "id": "SV10003",
+        "iso": null
+      },
+      "parent": {
+        "id": "SV10",
+        "level": 1,
+        "name": {
+          "local": "San Salvador",
+          "en": "San Salvador",
+          "slug": "san-salvador-sv10"
+        }
+      },
+      "ancestors": [
+        {
+          "id": "SV10",
+          "level": 1,
+          "name": {
+            "local": "San Salvador",
+            "en": "San Salvador",
+            "slug": "san-salvador-sv10"
+          }
+        }
+      ],
+      "children_count": {
+        "municipality": 3
+      },
+      "zip_codes": [],
+      "geo": {
+        "lat": "13.946",
+        "lon": "-89.209"
+      },
+      "metadata": {},
+      "source": {}
+    },
+    {
+      "id": "SV10004",
+      "level": 2,
+      "level_name": {
+        "local": "Distrito",
+        "en": "District"
+      },
+      "name": {
+        "local": "San Salvador Oeste",
+        "en": "San Salvador Oeste",
+        "slug": "san-salvador-oeste-sv10004"
+      },
+      "code": {
+        "id": "SV10004",
+        "iso": null
+      },
+      "parent": {
+        "id": "SV10",
+        "level": 1,
+        "name": {
+          "local": "San Salvador",
+          "en": "San Salvador",
+          "slug": "san-salvador-sv10"
+        }
+      },
+      "ancestors": [
+        {
+          "id": "SV10",
+          "level": 1,
+          "name": {
+            "local": "San Salvador",
+            "en": "San Salvador",
+            "slug": "san-salvador-sv10"
+          }
+        }
+      ],
+      "children_count": {
+        "municipality": 2
+      },
+      "zip_codes": [],
+      "geo": {
+        "lat": "13.82",
+        "lon": "-89.193"
+      },
+      "metadata": {},
+      "source": {}
+    },
+    {
+      "id": "SV10005",
+      "level": 2,
+      "level_name": {
+        "local": "Distrito",
+        "en": "District"
+      },
+      "name": {
+        "local": "San Salvador Sur",
+        "en": "San Salvador Sur",
+        "slug": "san-salvador-sur-sv10005"
+      },
+      "code": {
+        "id": "SV10005",
+        "iso": null
+      },
+      "parent": {
+        "id": "SV10",
+        "level": 1,
+        "name": {
+          "local": "San Salvador",
+          "en": "San Salvador",
+          "slug": "san-salvador-sv10"
+        }
+      },
+      "ancestors": [
+        {
+          "id": "SV10",
+          "level": 1,
+          "name": {
+            "local": "San Salvador",
+            "en": "San Salvador",
+            "slug": "san-salvador-sv10"
+          }
+        }
+      ],
+      "children_count": {
+        "municipality": 5
+      },
+      "zip_codes": [],
+      "geo": {
+        "lat": "13.57",
+        "lon": "-89.176"
+      },
+      "metadata": {},
+      "source": {}
+    },
+    {
+      "id": "SV10899",
+      "level": 2,
+      "level_name": {
+        "local": "Distrito",
+        "en": "District"
+      },
+      "name": {
+        "local": "Lago de Llopango",
+        "en": "Lago de Llopango",
+        "slug": "lago-de-llopango-sv10899"
+      },
+      "code": {
+        "id": "SV10899",
+        "iso": null
+      },
+      "parent": {
+        "id": "SV10",
+        "level": 1,
+        "name": {
+          "local": "San Salvador",
+          "en": "San Salvador",
+          "slug": "san-salvador-sv10"
+        }
+      },
+      "ancestors": [
+        {
+          "id": "SV10",
+          "level": 1,
+          "name": {
+            "local": "San Salvador",
+            "en": "San Salvador",
+            "slug": "san-salvador-sv10"
+          }
+        }
+      ],
+      "children_count": {
+        "municipality": 1
+      },
+      "zip_codes": [],
+      "geo": {
+        "lat": "13.667",
+        "lon": "-89.045"
+      },
+      "metadata": {},
+      "source": {}
+    },
+    {
+      "id": "SV11",
+      "level": 1,
+      "level_name": {
+        "local": "Departamento",
+        "en": "Department"
+      },
+      "name": {
+        "local": "San Vicente",
+        "en": "San Vicente",
+        "slug": "san-vicente-sv11"
+      },
+      "code": {
+        "id": "SV11",
+        "iso": null
+      },
+      "parent": null,
+      "ancestors": [],
+      "children_count": {
+        "district": 2,
+        "municipality": 13
+      },
+      "zip_codes": [],
+      "geo": {
+        "lat": "13.515",
+        "lon": "-88.739"
+      },
+      "metadata": {},
+      "source": {
+        "name": "Open Admin Data",
+        "url": "https://openadmindata.org/sv/departments/san-vicente-sv11/",
+        "api": "https://openadmindata.org/api/sv/"
+      }
+    },
+    {
+      "id": "SV11001",
+      "level": 2,
+      "level_name": {
+        "local": "Distrito",
+        "en": "District"
+      },
+      "name": {
+        "local": "San Vicente Norte",
+        "en": "San Vicente Norte",
+        "slug": "san-vicente-norte-sv11001"
+      },
+      "code": {
+        "id": "SV11001",
+        "iso": null
+      },
+      "parent": {
+        "id": "SV11",
+        "level": 1,
+        "name": {
+          "local": "San Vicente",
+          "en": "San Vicente",
+          "slug": "san-vicente-sv11"
+        }
+      },
+      "ancestors": [
+        {
+          "id": "SV11",
+          "level": 1,
+          "name": {
+            "local": "San Vicente",
+            "en": "San Vicente",
+            "slug": "san-vicente-sv11"
+          }
+        }
+      ],
+      "children_count": {
+        "municipality": 7
+      },
+      "zip_codes": [],
+      "geo": {
+        "lat": "13.697",
+        "lon": "-88.681"
+      },
+      "metadata": {},
+      "source": {}
+    },
+    {
+      "id": "SV11002",
+      "level": 2,
+      "level_name": {
+        "local": "Distrito",
+        "en": "District"
+      },
+      "name": {
+        "local": "San Vicente Sur",
+        "en": "San Vicente Sur",
+        "slug": "san-vicente-sur-sv11002"
+      },
+      "code": {
+        "id": "SV11002",
+        "iso": null
+      },
+      "parent": {
+        "id": "SV11",
+        "level": 1,
+        "name": {
+          "local": "San Vicente",
+          "en": "San Vicente",
+          "slug": "san-vicente-sv11"
+        }
+      },
+      "ancestors": [
+        {
+          "id": "SV11",
+          "level": 1,
+          "name": {
+            "local": "San Vicente",
+            "en": "San Vicente",
+            "slug": "san-vicente-sv11"
+          }
+        }
+      ],
+      "children_count": {
+        "municipality": 6
+      },
+      "zip_codes": [],
+      "geo": {
+        "lat": "13.463",
+        "lon": "-88.746"
+      },
+      "metadata": {},
+      "source": {}
+    },
+    {
+      "id": "SV12",
+      "level": 1,
+      "level_name": {
+        "local": "Departamento",
+        "en": "Department"
+      },
+      "name": {
+        "local": "Santa Ana",
+        "en": "Santa Ana",
+        "slug": "santa-ana-sv12"
+      },
+      "code": {
+        "id": "SV12",
+        "iso": null
+      },
+      "parent": null,
+      "ancestors": [],
+      "children_count": {
+        "district": 6,
+        "municipality": 15
+      },
+      "zip_codes": [],
+      "geo": {
+        "lat": "14.111",
+        "lon": "-89.564"
+      },
+      "metadata": {},
+      "source": {
+        "name": "Open Admin Data",
+        "url": "https://openadmindata.org/sv/departments/santa-ana-sv12/",
+        "api": "https://openadmindata.org/api/sv/"
+      }
+    },
+    {
+      "id": "SV12001",
+      "level": 2,
+      "level_name": {
+        "local": "Distrito",
+        "en": "District"
+      },
+      "name": {
+        "local": "Santa Ana Centro",
+        "en": "Santa Ana Centro",
+        "slug": "santa-ana-centro-sv12001"
+      },
+      "code": {
+        "id": "SV12001",
+        "iso": null
+      },
+      "parent": {
+        "id": "SV12",
+        "level": 1,
+        "name": {
+          "local": "Santa Ana",
+          "en": "Santa Ana",
+          "slug": "santa-ana-sv12"
+        }
+      },
+      "ancestors": [
+        {
+          "id": "SV12",
+          "level": 1,
+          "name": {
+            "local": "Santa Ana",
+            "en": "Santa Ana",
+            "slug": "santa-ana-sv12"
+          }
+        }
+      ],
+      "children_count": {
+        "municipality": 1
+      },
+      "zip_codes": [],
+      "geo": {
+        "lat": "13.956",
+        "lon": "-89.558"
+      },
+      "metadata": {},
+      "source": {}
+    },
+    {
+      "id": "SV12002",
+      "level": 2,
+      "level_name": {
+        "local": "Distrito",
+        "en": "District"
+      },
+      "name": {
+        "local": "Santa Ana Este",
+        "en": "Santa Ana Este",
+        "slug": "santa-ana-este-sv12002"
+      },
+      "code": {
+        "id": "SV12002",
+        "iso": null
+      },
+      "parent": {
+        "id": "SV12",
+        "level": 1,
+        "name": {
+          "local": "Santa Ana",
+          "en": "Santa Ana",
+          "slug": "santa-ana-sv12"
+        }
+      },
+      "ancestors": [
+        {
+          "id": "SV12",
+          "level": 1,
+          "name": {
+            "local": "Santa Ana",
+            "en": "Santa Ana",
+            "slug": "santa-ana-sv12"
+          }
+        }
+      ],
+      "children_count": {
+        "municipality": 2
+      },
+      "zip_codes": [],
+      "geo": {
+        "lat": "13.885",
+        "lon": "-89.49"
+      },
+      "metadata": {},
+      "source": {}
+    },
+    {
+      "id": "SV12003",
+      "level": 2,
+      "level_name": {
+        "local": "Distrito",
+        "en": "District"
+      },
+      "name": {
+        "local": "Santa Ana Norte",
+        "en": "Santa Ana Norte",
+        "slug": "santa-ana-norte-sv12003"
+      },
+      "code": {
+        "id": "SV12003",
+        "iso": null
+      },
+      "parent": {
+        "id": "SV12",
+        "level": 1,
+        "name": {
+          "local": "Santa Ana",
+          "en": "Santa Ana",
+          "slug": "santa-ana-sv12"
+        }
+      },
+      "ancestors": [
+        {
+          "id": "SV12",
+          "level": 1,
+          "name": {
+            "local": "Santa Ana",
+            "en": "Santa Ana",
+            "slug": "santa-ana-sv12"
+          }
+        }
+      ],
+      "children_count": {
+        "municipality": 4
+      },
+      "zip_codes": [],
+      "geo": {
+        "lat": "14.251",
+        "lon": "-89.374"
+      },
+      "metadata": {},
+      "source": {}
+    },
+    {
+      "id": "SV12004",
+      "level": 2,
+      "level_name": {
+        "local": "Distrito",
+        "en": "District"
+      },
+      "name": {
+        "local": "Santa Ana Oeste",
+        "en": "Santa Ana Oeste",
+        "slug": "santa-ana-oeste-sv12004"
+      },
+      "code": {
+        "id": "SV12004",
+        "iso": null
+      },
+      "parent": {
+        "id": "SV12",
+        "level": 1,
+        "name": {
+          "local": "Santa Ana",
+          "en": "Santa Ana",
+          "slug": "santa-ana-sv12"
+        }
+      },
+      "ancestors": [
+        {
+          "id": "SV12",
+          "level": 1,
+          "name": {
+            "local": "Santa Ana",
+            "en": "Santa Ana",
+            "slug": "santa-ana-sv12"
+          }
+        }
+      ],
+      "children_count": {
+        "municipality": 6
+      },
+      "zip_codes": [],
+      "geo": {
+        "lat": "14.046",
+        "lon": "-89.677"
+      },
+      "metadata": {},
+      "source": {}
+    },
+    {
+      "id": "SV12998",
+      "level": 2,
+      "level_name": {
+        "local": "Distrito",
+        "en": "District"
+      },
+      "name": {
+        "local": "Lago de Guija",
+        "en": "Lago de Guija",
+        "slug": "lago-de-guija-sv12998"
+      },
+      "code": {
+        "id": "SV12998",
+        "iso": null
+      },
+      "parent": {
+        "id": "SV12",
+        "level": 1,
+        "name": {
+          "local": "Santa Ana",
+          "en": "Santa Ana",
+          "slug": "santa-ana-sv12"
+        }
+      },
+      "ancestors": [
+        {
+          "id": "SV12",
+          "level": 1,
+          "name": {
+            "local": "Santa Ana",
+            "en": "Santa Ana",
+            "slug": "santa-ana-sv12"
+          }
+        }
+      ],
+      "children_count": {
+        "municipality": 1
+      },
+      "zip_codes": [],
+      "geo": {
+        "lat": "14.267",
+        "lon": "-89.51"
+      },
+      "metadata": {},
+      "source": {}
+    },
+    {
+      "id": "SV12999",
+      "level": 2,
+      "level_name": {
+        "local": "Distrito",
+        "en": "District"
+      },
+      "name": {
+        "local": "Lago de Coatepeque",
+        "en": "Lago de Coatepeque",
+        "slug": "lago-de-coatepeque-sv12999"
+      },
+      "code": {
+        "id": "SV12999",
+        "iso": null
+      },
+      "parent": {
+        "id": "SV12",
+        "level": 1,
+        "name": {
+          "local": "Santa Ana",
+          "en": "Santa Ana",
+          "slug": "santa-ana-sv12"
+        }
+      },
+      "ancestors": [
+        {
+          "id": "SV12",
+          "level": 1,
+          "name": {
+            "local": "Santa Ana",
+            "en": "Santa Ana",
+            "slug": "santa-ana-sv12"
+          }
+        }
+      ],
+      "children_count": {
+        "municipality": 1
+      },
+      "zip_codes": [],
+      "geo": {
+        "lat": "13.861",
+        "lon": "-89.542"
+      },
+      "metadata": {},
+      "source": {}
+    },
+    {
+      "id": "SV13",
+      "level": 1,
+      "level_name": {
+        "local": "Departamento",
+        "en": "Department"
+      },
+      "name": {
+        "local": "Sonsonate",
+        "en": "Sonsonate",
+        "slug": "sonsonate-sv13"
+      },
+      "code": {
+        "id": "SV13",
+        "iso": null
+      },
+      "parent": null,
+      "ancestors": [],
+      "children_count": {
+        "district": 4,
+        "municipality": 16
+      },
+      "zip_codes": [],
+      "geo": {
+        "lat": "13.712",
+        "lon": "-89.647"
+      },
+      "metadata": {},
+      "source": {
+        "name": "Open Admin Data",
+        "url": "https://openadmindata.org/sv/departments/sonsonate-sv13/",
+        "api": "https://openadmindata.org/api/sv/"
+      }
+    },
+    {
+      "id": "SV13001",
+      "level": 2,
+      "level_name": {
+        "local": "Distrito",
+        "en": "District"
+      },
+      "name": {
+        "local": "Sonsonate Centro",
+        "en": "Sonsonate Centro",
+        "slug": "sonsonate-centro-sv13001"
+      },
+      "code": {
+        "id": "SV13001",
+        "iso": null
+      },
+      "parent": {
+        "id": "SV13",
+        "level": 1,
+        "name": {
+          "local": "Sonsonate",
+          "en": "Sonsonate",
+          "slug": "sonsonate-sv13"
+        }
+      },
+      "ancestors": [
+        {
+          "id": "SV13",
+          "level": 1,
+          "name": {
+            "local": "Sonsonate",
+            "en": "Sonsonate",
+            "slug": "sonsonate-sv13"
+          }
+        }
+      ],
+      "children_count": {
+        "municipality": 5
+      },
+      "zip_codes": [],
+      "geo": {
+        "lat": "13.652",
+        "lon": "-89.711"
+      },
+      "metadata": {},
+      "source": {}
+    },
+    {
+      "id": "SV13002",
+      "level": 2,
+      "level_name": {
+        "local": "Distrito",
+        "en": "District"
+      },
+      "name": {
+        "local": "Sonsonate Este",
+        "en": "Sonsonate Este",
+        "slug": "sonsonate-este-sv13002"
+      },
+      "code": {
+        "id": "SV13002",
+        "iso": null
+      },
+      "parent": {
+        "id": "SV13",
+        "level": 1,
+        "name": {
+          "local": "Sonsonate",
+          "en": "Sonsonate",
+          "slug": "sonsonate-sv13"
+        }
+      },
+      "ancestors": [
+        {
+          "id": "SV13",
+          "level": 1,
+          "name": {
+            "local": "Sonsonate",
+            "en": "Sonsonate",
+            "slug": "sonsonate-sv13"
+          }
+        }
+      ],
+      "children_count": {
+        "municipality": 6
+      },
+      "zip_codes": [],
+      "geo": {
+        "lat": "13.675",
+        "lon": "-89.599"
+      },
+      "metadata": {},
+      "source": {}
+    },
+    {
+      "id": "SV13003",
+      "level": 2,
+      "level_name": {
+        "local": "Distrito",
+        "en": "District"
+      },
+      "name": {
+        "local": "Sonsonate Norte",
+        "en": "Sonsonate Norte",
+        "slug": "sonsonate-norte-sv13003"
+      },
+      "code": {
+        "id": "SV13003",
+        "iso": null
+      },
+      "parent": {
+        "id": "SV13",
+        "level": 1,
+        "name": {
+          "local": "Sonsonate",
+          "en": "Sonsonate",
+          "slug": "sonsonate-sv13"
+        }
+      },
+      "ancestors": [
+        {
+          "id": "SV13",
+          "level": 1,
+          "name": {
+            "local": "Sonsonate",
+            "en": "Sonsonate",
+            "slug": "sonsonate-sv13"
+          }
+        }
+      ],
+      "children_count": {
+        "municipality": 4
+      },
+      "zip_codes": [],
+      "geo": {
+        "lat": "13.826",
+        "lon": "-89.718"
+      },
+      "metadata": {},
+      "source": {}
+    },
+    {
+      "id": "SV13004",
+      "level": 2,
+      "level_name": {
+        "local": "Distrito",
+        "en": "District"
+      },
+      "name": {
+        "local": "Sonsonate Oeste",
+        "en": "Sonsonate Oeste",
+        "slug": "sonsonate-oeste-sv13004"
+      },
+      "code": {
+        "id": "SV13004",
+        "iso": null
+      },
+      "parent": {
+        "id": "SV13",
+        "level": 1,
+        "name": {
+          "local": "Sonsonate",
+          "en": "Sonsonate",
+          "slug": "sonsonate-sv13"
+        }
+      },
+      "ancestors": [
+        {
+          "id": "SV13",
+          "level": 1,
+          "name": {
+            "local": "Sonsonate",
+            "en": "Sonsonate",
+            "slug": "sonsonate-sv13"
+          }
+        }
+      ],
+      "children_count": {
+        "municipality": 1
+      },
+      "zip_codes": [],
+      "geo": {
+        "lat": "13.612",
+        "lon": "-89.816"
+      },
+      "metadata": {},
+      "source": {}
+    },
+    {
+      "id": "SV14",
+      "level": 1,
+      "level_name": {
+        "local": "Departamento",
+        "en": "Department"
+      },
+      "name": {
+        "local": "Usulután",
+        "en": "Usulutan",
+        "slug": "usulutan-sv14"
+      },
+      "code": {
+        "id": "SV14",
+        "iso": null
+      },
+      "parent": null,
+      "ancestors": [],
+      "children_count": {
+        "district": 3,
+        "municipality": 23
+      },
+      "zip_codes": [],
+      "geo": {
+        "lat": "13.426",
+        "lon": "-88.534"
+      },
+      "metadata": {},
+      "source": {
+        "name": "Open Admin Data",
+        "url": "https://openadmindata.org/sv/departments/usulutan-sv14/",
+        "api": "https://openadmindata.org/api/sv/"
+      }
+    },
+    {
+      "id": "SV14001",
+      "level": 2,
+      "level_name": {
+        "local": "Distrito",
+        "en": "District"
+      },
+      "name": {
+        "local": "Usulután Este",
+        "en": "Usulutan Este",
+        "slug": "usulutan-este-sv14001"
+      },
+      "code": {
+        "id": "SV14001",
+        "iso": null
+      },
+      "parent": {
+        "id": "SV14",
+        "level": 1,
+        "name": {
+          "local": "Usulután",
+          "en": "Usulutan",
+          "slug": "usulutan-sv14"
+        }
+      },
+      "ancestors": [
+        {
+          "id": "SV14",
+          "level": 1,
+          "name": {
+            "local": "Usulután",
+            "en": "Usulutan",
+            "slug": "usulutan-sv14"
+          }
+        }
+      ],
+      "children_count": {
+        "municipality": 10
+      },
+      "zip_codes": [],
+      "geo": {
+        "lat": "13.315",
+        "lon": "-88.391"
+      },
+      "metadata": {},
+      "source": {}
+    },
+    {
+      "id": "SV14002",
+      "level": 2,
+      "level_name": {
+        "local": "Distrito",
+        "en": "District"
+      },
+      "name": {
+        "local": "Usulután Norte",
+        "en": "Usulutan Norte",
+        "slug": "usulutan-norte-sv14002"
+      },
+      "code": {
+        "id": "SV14002",
+        "iso": null
+      },
+      "parent": {
+        "id": "SV14",
+        "level": 1,
+        "name": {
+          "local": "Usulután",
+          "en": "Usulutan",
+          "slug": "usulutan-sv14"
+        }
+      },
+      "ancestors": [
+        {
+          "id": "SV14",
+          "level": 1,
+          "name": {
+            "local": "Usulután",
+            "en": "Usulutan",
+            "slug": "usulutan-sv14"
+          }
+        }
+      ],
+      "children_count": {
+        "municipality": 9
+      },
+      "zip_codes": [],
+      "geo": {
+        "lat": "13.558",
+        "lon": "-88.513"
+      },
+      "metadata": {},
+      "source": {}
+    },
+    {
+      "id": "SV14003",
+      "level": 2,
+      "level_name": {
+        "local": "Distrito",
+        "en": "District"
+      },
+      "name": {
+        "local": "Usulután Oeste",
+        "en": "Usulutan Oeste",
+        "slug": "usulutan-oeste-sv14003"
+      },
+      "code": {
+        "id": "SV14003",
+        "iso": null
+      },
+      "parent": {
+        "id": "SV14",
+        "level": 1,
+        "name": {
+          "local": "Usulután",
+          "en": "Usulutan",
+          "slug": "usulutan-sv14"
+        }
+      },
+      "ancestors": [
+        {
+          "id": "SV14",
+          "level": 1,
+          "name": {
+            "local": "Usulután",
+            "en": "Usulutan",
+            "slug": "usulutan-sv14"
+          }
+        }
+      ],
+      "children_count": {
+        "municipality": 4
+      },
+      "zip_codes": [],
+      "geo": {
+        "lat": "13.344",
+        "lon": "-88.617"
+      },
+      "metadata": {},
+      "source": {}
+    }
+  ]
+}

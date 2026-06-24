@@ -1,0 +1,47 @@
+{
+  "id": "SV04002",
+  "level": 2,
+  "level_name": {
+    "local": "Distrito",
+    "en": "District"
+  },
+  "name": {
+    "local": "Cuscatlán Sur",
+    "en": "Cuscatlan Sur",
+    "slug": "cuscatlan-sur-sv04002"
+  },
+  "code": {
+    "id": "SV04002",
+    "iso": null
+  },
+  "parent": {
+    "id": "SV04",
+    "level": 1,
+    "name": {
+      "local": "Cuscatlán",
+      "en": "Cuscatlan",
+      "slug": "cuscatlan-sv04"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "SV04",
+      "level": 1,
+      "name": {
+        "local": "Cuscatlán",
+        "en": "Cuscatlan",
+        "slug": "cuscatlan-sv04"
+      }
+    }
+  ],
+  "children_count": {
+    "municipality": 11
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "13.752",
+    "lon": "-88.918"
+  },
+  "metadata": {},
+  "source": {}
+}

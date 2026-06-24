@@ -1,0 +1,380 @@
+[
+  {
+    "id": "SV11001001",
+    "level": 3,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Apastepeque",
+      "en": "Apastepeque",
+      "slug": "apastepeque-sv11001001"
+    },
+    "code": {
+      "id": "SV11001001",
+      "iso": null
+    },
+    "parent": {
+      "id": "SV11001",
+      "level": 2,
+      "name": {
+        "local": "San Vicente Norte",
+        "en": "San Vicente Norte",
+        "slug": "san-vicente-norte-sv11001"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SV11",
+        "level": 1,
+        "name": {
+          "local": "San Vicente",
+          "en": "San Vicente",
+          "slug": "san-vicente-sv11"
+        }
+      },
+      {
+        "id": "SV11001",
+        "level": 2,
+        "name": {
+          "local": "San Vicente Norte",
+          "en": "San Vicente Norte",
+          "slug": "san-vicente-norte-sv11001"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "13.653",
+      "lon": "-88.703"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SV11001002",
+    "level": 3,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "San Esteban Catarina",
+      "en": "San Esteban Catarina",
+      "slug": "san-esteban-catarina-sv11001002"
+    },
+    "code": {
+      "id": "SV11001002",
+      "iso": null
+    },
+    "parent": {
+      "id": "SV11001",
+      "level": 2,
+      "name": {
+        "local": "San Vicente Norte",
+        "en": "San Vicente Norte",
+        "slug": "san-vicente-norte-sv11001"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SV11",
+        "level": 1,
+        "name": {
+          "local": "San Vicente",
+          "en": "San Vicente",
+          "slug": "san-vicente-sv11"
+        }
+      },
+      {
+        "id": "SV11001",
+        "level": 2,
+        "name": {
+          "local": "San Vicente Norte",
+          "en": "San Vicente Norte",
+          "slug": "san-vicente-norte-sv11001"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "13.728",
+      "lon": "-88.743"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SV11001003",
+    "level": 3,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "San Ildefonso",
+      "en": "San Ildefonso",
+      "slug": "san-ildefonso-sv11001003"
+    },
+    "code": {
+      "id": "SV11001003",
+      "iso": null
+    },
+    "parent": {
+      "id": "SV11001",
+      "level": 2,
+      "name": {
+        "local": "San Vicente Norte",
+        "en": "San Vicente Norte",
+        "slug": "san-vicente-norte-sv11001"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SV11",
+        "level": 1,
+        "name": {
+          "local": "San Vicente",
+          "en": "San Vicente",
+          "slug": "san-vicente-sv11"
+        }
+      },
+      {
+        "id": "SV11001",
+        "level": 2,
+        "name": {
+          "local": "San Vicente Norte",
+          "en": "San Vicente Norte",
+          "slug": "san-vicente-norte-sv11001"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "13.673",
+      "lon": "-88.553"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SV11001004",
+    "level": 3,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "San Lorenzo",
+      "en": "San Lorenzo",
+      "slug": "san-lorenzo-sv11001004"
+    },
+    "code": {
+      "id": "SV11001004",
+      "iso": null
+    },
+    "parent": {
+      "id": "SV11001",
+      "level": 2,
+      "name": {
+        "local": "San Vicente Norte",
+        "en": "San Vicente Norte",
+        "slug": "san-vicente-norte-sv11001"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SV11",
+        "level": 1,
+        "name": {
+          "local": "San Vicente",
+          "en": "San Vicente",
+          "slug": "san-vicente-sv11"
+        }
+      },
+      {
+        "id": "SV11001",
+        "level": 2,
+        "name": {
+          "local": "San Vicente Norte",
+          "en": "San Vicente Norte",
+          "slug": "san-vicente-norte-sv11001"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "13.694",
+      "lon": "-88.815"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SV11001005",
+    "level": 3,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "San Sebastián",
+      "en": "San Sebastian",
+      "slug": "san-sebastian-sv11001005"
+    },
+    "code": {
+      "id": "SV11001005",
+      "iso": null
+    },
+    "parent": {
+      "id": "SV11001",
+      "level": 2,
+      "name": {
+        "local": "San Vicente Norte",
+        "en": "San Vicente Norte",
+        "slug": "san-vicente-norte-sv11001"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SV11",
+        "level": 1,
+        "name": {
+          "local": "San Vicente",
+          "en": "San Vicente",
+          "slug": "san-vicente-sv11"
+        }
+      },
+      {
+        "id": "SV11001",
+        "level": 2,
+        "name": {
+          "local": "San Vicente Norte",
+          "en": "San Vicente Norte",
+          "slug": "san-vicente-norte-sv11001"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "13.748",
+      "lon": "-88.813"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SV11001006",
+    "level": 3,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Santa Clara",
+      "en": "Santa Clara",
+      "slug": "santa-clara-sv11001006"
+    },
+    "code": {
+      "id": "SV11001006",
+      "iso": null
+    },
+    "parent": {
+      "id": "SV11001",
+      "level": 2,
+      "name": {
+        "local": "San Vicente Norte",
+        "en": "San Vicente Norte",
+        "slug": "san-vicente-norte-sv11001"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SV11",
+        "level": 1,
+        "name": {
+          "local": "San Vicente",
+          "en": "San Vicente",
+          "slug": "san-vicente-sv11"
+        }
+      },
+      {
+        "id": "SV11001",
+        "level": 2,
+        "name": {
+          "local": "San Vicente Norte",
+          "en": "San Vicente Norte",
+          "slug": "san-vicente-norte-sv11001"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "13.728",
+      "lon": "-88.643"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SV11001007",
+    "level": 3,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Santo Domingo",
+      "en": "Santo Domingo",
+      "slug": "santo-domingo-sv11001007"
+    },
+    "code": {
+      "id": "SV11001007",
+      "iso": null
+    },
+    "parent": {
+      "id": "SV11001",
+      "level": 2,
+      "name": {
+        "local": "San Vicente Norte",
+        "en": "San Vicente Norte",
+        "slug": "san-vicente-norte-sv11001"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SV11",
+        "level": 1,
+        "name": {
+          "local": "San Vicente",
+          "en": "San Vicente",
+          "slug": "san-vicente-sv11"
+        }
+      },
+      {
+        "id": "SV11001",
+        "level": 2,
+        "name": {
+          "local": "San Vicente Norte",
+          "en": "San Vicente Norte",
+          "slug": "san-vicente-norte-sv11001"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "13.704",
+      "lon": "-88.848"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

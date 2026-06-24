@@ -1,0 +1,272 @@
+[
+  {
+    "id": "SV10005001",
+    "level": 3,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Panchimalco",
+      "en": "Panchimalco",
+      "slug": "panchimalco-sv10005001"
+    },
+    "code": {
+      "id": "SV10005001",
+      "iso": null
+    },
+    "parent": {
+      "id": "SV10005",
+      "level": 2,
+      "name": {
+        "local": "San Salvador Sur",
+        "en": "San Salvador Sur",
+        "slug": "san-salvador-sur-sv10005"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SV10",
+        "level": 1,
+        "name": {
+          "local": "San Salvador",
+          "en": "San Salvador",
+          "slug": "san-salvador-sv10"
+        }
+      },
+      {
+        "id": "SV10005",
+        "level": 2,
+        "name": {
+          "local": "San Salvador Sur",
+          "en": "San Salvador Sur",
+          "slug": "san-salvador-sur-sv10005"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "13.553",
+      "lon": "-89.158"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SV10005002",
+    "level": 3,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Rosario de Mora",
+      "en": "Rosario de Mora",
+      "slug": "rosario-de-mora-sv10005002"
+    },
+    "code": {
+      "id": "SV10005002",
+      "iso": null
+    },
+    "parent": {
+      "id": "SV10005",
+      "level": 2,
+      "name": {
+        "local": "San Salvador Sur",
+        "en": "San Salvador Sur",
+        "slug": "san-salvador-sur-sv10005"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SV10",
+        "level": 1,
+        "name": {
+          "local": "San Salvador",
+          "en": "San Salvador",
+          "slug": "san-salvador-sv10"
+        }
+      },
+      {
+        "id": "SV10005",
+        "level": 2,
+        "name": {
+          "local": "San Salvador Sur",
+          "en": "San Salvador Sur",
+          "slug": "san-salvador-sur-sv10005"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "13.529",
+      "lon": "-89.203"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SV10005003",
+    "level": 3,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "San Marcos",
+      "en": "San Marcos",
+      "slug": "san-marcos-sv10005003"
+    },
+    "code": {
+      "id": "SV10005003",
+      "iso": null
+    },
+    "parent": {
+      "id": "SV10005",
+      "level": 2,
+      "name": {
+        "local": "San Salvador Sur",
+        "en": "San Salvador Sur",
+        "slug": "san-salvador-sur-sv10005"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SV10",
+        "level": 1,
+        "name": {
+          "local": "San Salvador",
+          "en": "San Salvador",
+          "slug": "san-salvador-sv10"
+        }
+      },
+      {
+        "id": "SV10005",
+        "level": 2,
+        "name": {
+          "local": "San Salvador Sur",
+          "en": "San Salvador Sur",
+          "slug": "san-salvador-sur-sv10005"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "13.654",
+      "lon": "-89.171"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SV10005004",
+    "level": 3,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Santiago Texacuangos",
+      "en": "Santiago Texacuangos",
+      "slug": "santiago-texacuangos-sv10005004"
+    },
+    "code": {
+      "id": "SV10005004",
+      "iso": null
+    },
+    "parent": {
+      "id": "SV10005",
+      "level": 2,
+      "name": {
+        "local": "San Salvador Sur",
+        "en": "San Salvador Sur",
+        "slug": "san-salvador-sur-sv10005"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SV10",
+        "level": 1,
+        "name": {
+          "local": "San Salvador",
+          "en": "San Salvador",
+          "slug": "san-salvador-sv10"
+        }
+      },
+      {
+        "id": "SV10005",
+        "level": 2,
+        "name": {
+          "local": "San Salvador Sur",
+          "en": "San Salvador Sur",
+          "slug": "san-salvador-sur-sv10005"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "13.64",
+      "lon": "-89.1"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SV10005005",
+    "level": 3,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Santo Tomás",
+      "en": "Santo Tomas",
+      "slug": "santo-tomas-sv10005005"
+    },
+    "code": {
+      "id": "SV10005005",
+      "iso": null
+    },
+    "parent": {
+      "id": "SV10005",
+      "level": 2,
+      "name": {
+        "local": "San Salvador Sur",
+        "en": "San Salvador Sur",
+        "slug": "san-salvador-sur-sv10005"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SV10",
+        "level": 1,
+        "name": {
+          "local": "San Salvador",
+          "en": "San Salvador",
+          "slug": "san-salvador-sv10"
+        }
+      },
+      {
+        "id": "SV10005",
+        "level": 2,
+        "name": {
+          "local": "San Salvador Sur",
+          "en": "San Salvador Sur",
+          "slug": "san-salvador-sur-sv10005"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "13.637",
+      "lon": "-89.142"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

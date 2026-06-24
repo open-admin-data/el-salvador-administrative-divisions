@@ -1,0 +1,47 @@
+{
+  "id": "SV09003",
+  "level": 2,
+  "level_name": {
+    "local": "Distrito",
+    "en": "District"
+  },
+  "name": {
+    "local": "San Miguel Oeste",
+    "en": "San Miguel Oeste",
+    "slug": "san-miguel-oeste-sv09003"
+  },
+  "code": {
+    "id": "SV09003",
+    "iso": null
+  },
+  "parent": {
+    "id": "SV09",
+    "level": 1,
+    "name": {
+      "local": "San Miguel",
+      "en": "San Miguel",
+      "slug": "san-miguel-sv09"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "SV09",
+      "level": 1,
+      "name": {
+        "local": "San Miguel",
+        "en": "San Miguel",
+        "slug": "san-miguel-sv09"
+      }
+    }
+  ],
+  "children_count": {
+    "municipality": 6
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "13.447",
+    "lon": "-88.332"
+  },
+  "metadata": {},
+  "source": {}
+}

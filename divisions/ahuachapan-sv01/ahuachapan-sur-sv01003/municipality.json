@@ -1,0 +1,218 @@
+[
+  {
+    "id": "SV01003001",
+    "level": 3,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Guaymango",
+      "en": "Guaymango",
+      "slug": "guaymango-sv01003001"
+    },
+    "code": {
+      "id": "SV01003001",
+      "iso": null
+    },
+    "parent": {
+      "id": "SV01003",
+      "level": 2,
+      "name": {
+        "local": "Ahuachapán Sur",
+        "en": "Ahuachapan Sur",
+        "slug": "ahuachapan-sur-sv01003"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SV01",
+        "level": 1,
+        "name": {
+          "local": "Ahuachapán",
+          "en": "Ahuachapan",
+          "slug": "ahuachapan-sv01"
+        }
+      },
+      {
+        "id": "SV01003",
+        "level": 2,
+        "name": {
+          "local": "Ahuachapán Sur",
+          "en": "Ahuachapan Sur",
+          "slug": "ahuachapan-sur-sv01003"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "13.735",
+      "lon": "-89.849"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SV01003002",
+    "level": 3,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Jujutla",
+      "en": "Jujutla",
+      "slug": "jujutla-sv01003002"
+    },
+    "code": {
+      "id": "SV01003002",
+      "iso": null
+    },
+    "parent": {
+      "id": "SV01003",
+      "level": 2,
+      "name": {
+        "local": "Ahuachapán Sur",
+        "en": "Ahuachapan Sur",
+        "slug": "ahuachapan-sur-sv01003"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SV01",
+        "level": 1,
+        "name": {
+          "local": "Ahuachapán",
+          "en": "Ahuachapan",
+          "slug": "ahuachapan-sv01"
+        }
+      },
+      {
+        "id": "SV01003",
+        "level": 2,
+        "name": {
+          "local": "Ahuachapán Sur",
+          "en": "Ahuachapan Sur",
+          "slug": "ahuachapan-sur-sv01003"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "13.746",
+      "lon": "-89.946"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SV01003003",
+    "level": 3,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "San Francisco Menéndez",
+      "en": "San Francisco Menendez",
+      "slug": "san-francisco-menendez-sv01003003"
+    },
+    "code": {
+      "id": "SV01003003",
+      "iso": null
+    },
+    "parent": {
+      "id": "SV01003",
+      "level": 2,
+      "name": {
+        "local": "Ahuachapán Sur",
+        "en": "Ahuachapan Sur",
+        "slug": "ahuachapan-sur-sv01003"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SV01",
+        "level": 1,
+        "name": {
+          "local": "Ahuachapán",
+          "en": "Ahuachapan",
+          "slug": "ahuachapan-sv01"
+        }
+      },
+      {
+        "id": "SV01003",
+        "level": 2,
+        "name": {
+          "local": "Ahuachapán Sur",
+          "en": "Ahuachapan Sur",
+          "slug": "ahuachapan-sur-sv01003"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "13.803",
+      "lon": "-90.029"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SV01003004",
+    "level": 3,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "San Pedro Puxtla",
+      "en": "San Pedro Puxtla",
+      "slug": "san-pedro-puxtla-sv01003004"
+    },
+    "code": {
+      "id": "SV01003004",
+      "iso": null
+    },
+    "parent": {
+      "id": "SV01003",
+      "level": 2,
+      "name": {
+        "local": "Ahuachapán Sur",
+        "en": "Ahuachapan Sur",
+        "slug": "ahuachapan-sur-sv01003"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SV01",
+        "level": 1,
+        "name": {
+          "local": "Ahuachapán",
+          "en": "Ahuachapan",
+          "slug": "ahuachapan-sv01"
+        }
+      },
+      {
+        "id": "SV01003",
+        "level": 2,
+        "name": {
+          "local": "Ahuachapán Sur",
+          "en": "Ahuachapan Sur",
+          "slug": "ahuachapan-sur-sv01003"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "13.756",
+      "lon": "-89.797"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

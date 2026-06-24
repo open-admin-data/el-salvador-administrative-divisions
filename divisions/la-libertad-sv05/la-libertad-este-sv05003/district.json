@@ -1,0 +1,47 @@
+{
+  "id": "SV05003",
+  "level": 2,
+  "level_name": {
+    "local": "Distrito",
+    "en": "District"
+  },
+  "name": {
+    "local": "La Libertad Este",
+    "en": "La Libertad Este",
+    "slug": "la-libertad-este-sv05003"
+  },
+  "code": {
+    "id": "SV05003",
+    "iso": null
+  },
+  "parent": {
+    "id": "SV05",
+    "level": 1,
+    "name": {
+      "local": "La Libertad",
+      "en": "La Libertad",
+      "slug": "la-libertad-sv05"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "SV05",
+      "level": 1,
+      "name": {
+        "local": "La Libertad",
+        "en": "La Libertad",
+        "slug": "la-libertad-sv05"
+      }
+    }
+  ],
+  "children_count": {
+    "municipality": 5
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "13.595",
+    "lon": "-89.261"
+  },
+  "metadata": {},
+  "source": {}
+}

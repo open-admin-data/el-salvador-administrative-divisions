@@ -1,0 +1,47 @@
+{
+  "id": "SV11002",
+  "level": 2,
+  "level_name": {
+    "local": "Distrito",
+    "en": "District"
+  },
+  "name": {
+    "local": "San Vicente Sur",
+    "en": "San Vicente Sur",
+    "slug": "san-vicente-sur-sv11002"
+  },
+  "code": {
+    "id": "SV11002",
+    "iso": null
+  },
+  "parent": {
+    "id": "SV11",
+    "level": 1,
+    "name": {
+      "local": "San Vicente",
+      "en": "San Vicente",
+      "slug": "san-vicente-sv11"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "SV11",
+      "level": 1,
+      "name": {
+        "local": "San Vicente",
+        "en": "San Vicente",
+        "slug": "san-vicente-sv11"
+      }
+    }
+  ],
+  "children_count": {
+    "municipality": 6
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "13.463",
+    "lon": "-88.746"
+  },
+  "metadata": {},
+  "source": {}
+}

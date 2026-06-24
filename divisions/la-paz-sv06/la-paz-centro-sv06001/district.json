@@ -1,0 +1,47 @@
+{
+  "id": "SV06001",
+  "level": 2,
+  "level_name": {
+    "local": "Distrito",
+    "en": "District"
+  },
+  "name": {
+    "local": "La Paz Centro",
+    "en": "La Paz Centro",
+    "slug": "la-paz-centro-sv06001"
+  },
+  "code": {
+    "id": "SV06001",
+    "iso": null
+  },
+  "parent": {
+    "id": "SV06",
+    "level": 1,
+    "name": {
+      "local": "La Paz",
+      "en": "La Paz",
+      "slug": "la-paz-sv06"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "SV06",
+      "level": 1,
+      "name": {
+        "local": "La Paz",
+        "en": "La Paz",
+        "slug": "la-paz-sv06"
+      }
+    }
+  ],
+  "children_count": {
+    "municipality": 12
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "13.476",
+    "lon": "-88.978"
+  },
+  "metadata": {},
+  "source": {}
+}

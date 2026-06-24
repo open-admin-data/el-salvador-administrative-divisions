@@ -1,0 +1,272 @@
+[
+  {
+    "id": "SV02001001",
+    "level": 3,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Dolores",
+      "en": "Dolores",
+      "slug": "dolores-sv02001001"
+    },
+    "code": {
+      "id": "SV02001001",
+      "iso": null
+    },
+    "parent": {
+      "id": "SV02001",
+      "level": 2,
+      "name": {
+        "local": "Cabañas Este",
+        "en": "Cabanas Este",
+        "slug": "cabanas-este-sv02001"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SV02",
+        "level": 1,
+        "name": {
+          "local": "Cabañas",
+          "en": "Cabanas",
+          "slug": "cabanas-sv02"
+        }
+      },
+      {
+        "id": "SV02001",
+        "level": 2,
+        "name": {
+          "local": "Cabañas Este",
+          "en": "Cabanas Este",
+          "slug": "cabanas-este-sv02001"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "13.814",
+      "lon": "-88.542"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SV02001002",
+    "level": 3,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Guacotecti",
+      "en": "Guacotecti",
+      "slug": "guacotecti-sv02001002"
+    },
+    "code": {
+      "id": "SV02001002",
+      "iso": null
+    },
+    "parent": {
+      "id": "SV02001",
+      "level": 2,
+      "name": {
+        "local": "Cabañas Este",
+        "en": "Cabanas Este",
+        "slug": "cabanas-este-sv02001"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SV02",
+        "level": 1,
+        "name": {
+          "local": "Cabañas",
+          "en": "Cabanas",
+          "slug": "cabanas-sv02"
+        }
+      },
+      {
+        "id": "SV02001",
+        "level": 2,
+        "name": {
+          "local": "Cabañas Este",
+          "en": "Cabanas Este",
+          "slug": "cabanas-este-sv02001"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "13.869",
+      "lon": "-88.647"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SV02001003",
+    "level": 3,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "San Isidro",
+      "en": "San Isidro",
+      "slug": "san-isidro-sv02001003"
+    },
+    "code": {
+      "id": "SV02001003",
+      "iso": null
+    },
+    "parent": {
+      "id": "SV02001",
+      "level": 2,
+      "name": {
+        "local": "Cabañas Este",
+        "en": "Cabanas Este",
+        "slug": "cabanas-este-sv02001"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SV02",
+        "level": 1,
+        "name": {
+          "local": "Cabañas",
+          "en": "Cabanas",
+          "slug": "cabanas-sv02"
+        }
+      },
+      {
+        "id": "SV02001",
+        "level": 2,
+        "name": {
+          "local": "Cabañas Este",
+          "en": "Cabanas Este",
+          "slug": "cabanas-este-sv02001"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "13.828",
+      "lon": "-88.702"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SV02001004",
+    "level": 3,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Sensuntepeque",
+      "en": "Sensuntepeque",
+      "slug": "sensuntepeque-sv02001004"
+    },
+    "code": {
+      "id": "SV02001004",
+      "iso": null
+    },
+    "parent": {
+      "id": "SV02001",
+      "level": 2,
+      "name": {
+        "local": "Cabañas Este",
+        "en": "Cabanas Este",
+        "slug": "cabanas-este-sv02001"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SV02",
+        "level": 1,
+        "name": {
+          "local": "Cabañas",
+          "en": "Cabanas",
+          "slug": "cabanas-sv02"
+        }
+      },
+      {
+        "id": "SV02001",
+        "level": 2,
+        "name": {
+          "local": "Cabañas Este",
+          "en": "Cabanas Este",
+          "slug": "cabanas-este-sv02001"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "13.89",
+      "lon": "-88.568"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SV02001005",
+    "level": 3,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Victoria",
+      "en": "Victoria",
+      "slug": "victoria-sv02001005"
+    },
+    "code": {
+      "id": "SV02001005",
+      "iso": null
+    },
+    "parent": {
+      "id": "SV02001",
+      "level": 2,
+      "name": {
+        "local": "Cabañas Este",
+        "en": "Cabanas Este",
+        "slug": "cabanas-este-sv02001"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SV02",
+        "level": 1,
+        "name": {
+          "local": "Cabañas",
+          "en": "Cabanas",
+          "slug": "cabanas-sv02"
+        }
+      },
+      {
+        "id": "SV02001",
+        "level": 2,
+        "name": {
+          "local": "Cabañas Este",
+          "en": "Cabanas Este",
+          "slug": "cabanas-este-sv02001"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "13.963",
+      "lon": "-88.641"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

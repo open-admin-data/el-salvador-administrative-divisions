@@ -1,0 +1,47 @@
+{
+  "id": "SV14001",
+  "level": 2,
+  "level_name": {
+    "local": "Distrito",
+    "en": "District"
+  },
+  "name": {
+    "local": "Usulután Este",
+    "en": "Usulutan Este",
+    "slug": "usulutan-este-sv14001"
+  },
+  "code": {
+    "id": "SV14001",
+    "iso": null
+  },
+  "parent": {
+    "id": "SV14",
+    "level": 1,
+    "name": {
+      "local": "Usulután",
+      "en": "Usulutan",
+      "slug": "usulutan-sv14"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "SV14",
+      "level": 1,
+      "name": {
+        "local": "Usulután",
+        "en": "Usulutan",
+        "slug": "usulutan-sv14"
+      }
+    }
+  ],
+  "children_count": {
+    "municipality": 10
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "13.315",
+    "lon": "-88.391"
+  },
+  "metadata": {},
+  "source": {}
+}

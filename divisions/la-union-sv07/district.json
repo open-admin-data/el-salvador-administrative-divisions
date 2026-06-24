@@ -1,0 +1,96 @@
+[
+  {
+    "id": "SV07001",
+    "level": 2,
+    "level_name": {
+      "local": "Distrito",
+      "en": "District"
+    },
+    "name": {
+      "local": "La Unión Norte",
+      "en": "La Union Norte",
+      "slug": "la-union-norte-sv07001"
+    },
+    "code": {
+      "id": "SV07001",
+      "iso": null
+    },
+    "parent": {
+      "id": "SV07",
+      "level": 1,
+      "name": {
+        "local": "La Unión",
+        "en": "La Union",
+        "slug": "la-union-sv07"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SV07",
+        "level": 1,
+        "name": {
+          "local": "La Unión",
+          "en": "La Union",
+          "slug": "la-union-sv07"
+        }
+      }
+    ],
+    "children_count": {
+      "municipality": 10
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "13.65",
+      "lon": "-87.86"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SV07002",
+    "level": 2,
+    "level_name": {
+      "local": "Distrito",
+      "en": "District"
+    },
+    "name": {
+      "local": "La Unión Sur",
+      "en": "La Union Sur",
+      "slug": "la-union-sur-sv07002"
+    },
+    "code": {
+      "id": "SV07002",
+      "iso": null
+    },
+    "parent": {
+      "id": "SV07",
+      "level": 1,
+      "name": {
+        "local": "La Unión",
+        "en": "La Union",
+        "slug": "la-union-sv07"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SV07",
+        "level": 1,
+        "name": {
+          "local": "La Unión",
+          "en": "La Union",
+          "slug": "la-union-sv07"
+        }
+      }
+    ],
+    "children_count": {
+      "municipality": 8
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "13.369",
+      "lon": "-87.95"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

@@ -1,0 +1,272 @@
+[
+  {
+    "id": "SV05005001",
+    "level": 3,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Colón",
+      "en": "Colon",
+      "slug": "colon-sv05005001"
+    },
+    "code": {
+      "id": "SV05005001",
+      "iso": null
+    },
+    "parent": {
+      "id": "SV05005",
+      "level": 2,
+      "name": {
+        "local": "La Libertad Oeste",
+        "en": "La Libertad Oeste",
+        "slug": "la-libertad-oeste-sv05005"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SV05",
+        "level": 1,
+        "name": {
+          "local": "La Libertad",
+          "en": "La Libertad",
+          "slug": "la-libertad-sv05"
+        }
+      },
+      {
+        "id": "SV05005",
+        "level": 2,
+        "name": {
+          "local": "La Libertad Oeste",
+          "en": "La Libertad Oeste",
+          "slug": "la-libertad-oeste-sv05005"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "13.724",
+      "lon": "-89.35"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SV05005002",
+    "level": 3,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Jayaque",
+      "en": "Jayaque",
+      "slug": "jayaque-sv05005002"
+    },
+    "code": {
+      "id": "SV05005002",
+      "iso": null
+    },
+    "parent": {
+      "id": "SV05005",
+      "level": 2,
+      "name": {
+        "local": "La Libertad Oeste",
+        "en": "La Libertad Oeste",
+        "slug": "la-libertad-oeste-sv05005"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SV05",
+        "level": 1,
+        "name": {
+          "local": "La Libertad",
+          "en": "La Libertad",
+          "slug": "la-libertad-sv05"
+        }
+      },
+      {
+        "id": "SV05005",
+        "level": 2,
+        "name": {
+          "local": "La Libertad Oeste",
+          "en": "La Libertad Oeste",
+          "slug": "la-libertad-oeste-sv05005"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "13.669",
+      "lon": "-89.441"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SV05005003",
+    "level": 3,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Sacacoyo",
+      "en": "Sacacoyo",
+      "slug": "sacacoyo-sv05005003"
+    },
+    "code": {
+      "id": "SV05005003",
+      "iso": null
+    },
+    "parent": {
+      "id": "SV05005",
+      "level": 2,
+      "name": {
+        "local": "La Libertad Oeste",
+        "en": "La Libertad Oeste",
+        "slug": "la-libertad-oeste-sv05005"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SV05",
+        "level": 1,
+        "name": {
+          "local": "La Libertad",
+          "en": "La Libertad",
+          "slug": "la-libertad-sv05"
+        }
+      },
+      {
+        "id": "SV05005",
+        "level": 2,
+        "name": {
+          "local": "La Libertad Oeste",
+          "en": "La Libertad Oeste",
+          "slug": "la-libertad-oeste-sv05005"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "13.734",
+      "lon": "-89.441"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SV05005004",
+    "level": 3,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Talnique",
+      "en": "Talnique",
+      "slug": "talnique-sv05005004"
+    },
+    "code": {
+      "id": "SV05005004",
+      "iso": null
+    },
+    "parent": {
+      "id": "SV05005",
+      "level": 2,
+      "name": {
+        "local": "La Libertad Oeste",
+        "en": "La Libertad Oeste",
+        "slug": "la-libertad-oeste-sv05005"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SV05",
+        "level": 1,
+        "name": {
+          "local": "La Libertad",
+          "en": "La Libertad",
+          "slug": "la-libertad-sv05"
+        }
+      },
+      {
+        "id": "SV05005",
+        "level": 2,
+        "name": {
+          "local": "La Libertad Oeste",
+          "en": "La Libertad Oeste",
+          "slug": "la-libertad-oeste-sv05005"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "13.673",
+      "lon": "-89.379"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SV05005005",
+    "level": 3,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Tepecoyo",
+      "en": "Tepecoyo",
+      "slug": "tepecoyo-sv05005005"
+    },
+    "code": {
+      "id": "SV05005005",
+      "iso": null
+    },
+    "parent": {
+      "id": "SV05005",
+      "level": 2,
+      "name": {
+        "local": "La Libertad Oeste",
+        "en": "La Libertad Oeste",
+        "slug": "la-libertad-oeste-sv05005"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SV05",
+        "level": 1,
+        "name": {
+          "local": "La Libertad",
+          "en": "La Libertad",
+          "slug": "la-libertad-sv05"
+        }
+      },
+      {
+        "id": "SV05005",
+        "level": 2,
+        "name": {
+          "local": "La Libertad Oeste",
+          "en": "La Libertad Oeste",
+          "slug": "la-libertad-oeste-sv05005"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "13.68",
+      "lon": "-89.491"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

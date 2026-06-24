@@ -1,0 +1,112 @@
+# La Paz — El Salvador Administrative Divisions
+
+> 3 districts, 22 municipalitys
+> Code: SV06
+> Coordinates: 13.462, -88.977
+> Last updated: 2026-06-24. License: CC-BY-4.0.
+
+## Districts
+
+### La Paz Centro
+
+Code: SV06001, Coordinates: 13.476, -88.978
+Municipalitys: 12
+
+#### El Rosario
+
+Code: SV06001001, Coordinates: 13.455, -88.995
+
+#### Jerusalén (Jerusalen)
+
+Code: SV06001002, Coordinates: 13.651, -88.912
+
+#### Mercedes La Ceiba
+
+Code: SV06001003, Coordinates: 13.636, -88.904
+
+#### Paraíso de Osorio (Paraiso de Osorio)
+
+Code: SV06001004, Coordinates: 13.622, -88.958
+
+#### San Antonio Masahuat
+
+Code: SV06001005, Coordinates: 13.566, -89.025
+
+#### San Emigdio
+
+Code: SV06001006, Coordinates: 13.64, -88.974
+
+#### San Juan Tepezontes
+
+Code: SV06001007, Coordinates: 13.592, -88.992
+
+#### San Luis La Herradura
+
+Code: SV06001008, Coordinates: 13.347, -88.913
+
+#### San Miguel Tepezontes
+
+Code: SV06001009, Coordinates: 13.621, -89.015
+
+#### San Pedro Nonualco
+
+Code: SV06001010, Coordinates: 13.586, -88.926
+
+#### Santa María Ostuma (Santa Maria Ostuma)
+
+Code: SV06001011, Coordinates: 13.622, -88.919
+
+#### Santiago Nonualco
+
+Code: SV06001012, Coordinates: 13.452, -88.954
+
+### La Paz Este
+
+Code: SV06002, Coordinates: 13.444, -88.877
+Municipalitys: 3
+
+#### San Juan Nonualco
+
+Code: SV06002001, Coordinates: 13.472, -88.9
+
+#### San Rafael Obrajuelo
+
+Code: SV06002002, Coordinates: 13.495, -88.916
+
+#### Zacatecoluca
+
+Code: SV06002003, Coordinates: 13.444, -88.857
+
+### La Paz Oeste
+
+Code: SV06003, Coordinates: 13.494, -89.092
+Municipalitys: 7
+
+#### Cuyultitán (Cuyultitan)
+
+Code: SV06003001, Coordinates: 13.537, -89.089
+
+#### Olocuilta
+
+Code: SV06003002, Coordinates: 13.54, -89.116
+
+#### San Francisco Chinameca
+
+Code: SV06003003, Coordinates: 13.593, -89.081
+
+#### San Juan Talpa
+
+Code: SV06003004, Coordinates: 13.5, -89.083
+
+#### San Luis Talpa
+
+Code: SV06003005, Coordinates: 13.431, -89.096
+
+#### San Pedro Masahuat
+
+Code: SV06003006, Coordinates: 13.454, -89.026
+
+#### Tapalhuaca
+
+Code: SV06003007, Coordinates: 13.542, -89.064
+

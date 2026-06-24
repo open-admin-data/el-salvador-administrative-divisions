@@ -1,0 +1,96 @@
+[
+  {
+    "id": "SV02001",
+    "level": 2,
+    "level_name": {
+      "local": "Distrito",
+      "en": "District"
+    },
+    "name": {
+      "local": "Cabañas Este",
+      "en": "Cabanas Este",
+      "slug": "cabanas-este-sv02001"
+    },
+    "code": {
+      "id": "SV02001",
+      "iso": null
+    },
+    "parent": {
+      "id": "SV02",
+      "level": 1,
+      "name": {
+        "local": "Cabañas",
+        "en": "Cabanas",
+        "slug": "cabanas-sv02"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SV02",
+        "level": 1,
+        "name": {
+          "local": "Cabañas",
+          "en": "Cabanas",
+          "slug": "cabanas-sv02"
+        }
+      }
+    ],
+    "children_count": {
+      "municipality": 5
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "13.879",
+      "lon": "-88.613"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SV02002",
+    "level": 2,
+    "level_name": {
+      "local": "Distrito",
+      "en": "District"
+    },
+    "name": {
+      "local": "Cabañas Oeste",
+      "en": "Cabanas Oeste",
+      "slug": "cabanas-oeste-sv02002"
+    },
+    "code": {
+      "id": "SV02002",
+      "iso": null
+    },
+    "parent": {
+      "id": "SV02",
+      "level": 1,
+      "name": {
+        "local": "Cabañas",
+        "en": "Cabanas",
+        "slug": "cabanas-sv02"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SV02",
+        "level": 1,
+        "name": {
+          "local": "Cabañas",
+          "en": "Cabanas",
+          "slug": "cabanas-sv02"
+        }
+      }
+    ],
+    "children_count": {
+      "municipality": 4
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "13.861",
+      "lon": "-88.862"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

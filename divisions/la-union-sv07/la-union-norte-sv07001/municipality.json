@@ -1,0 +1,542 @@
+[
+  {
+    "id": "SV07001001",
+    "level": 3,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Anamorós",
+      "en": "Anamoros",
+      "slug": "anamoros-sv07001001"
+    },
+    "code": {
+      "id": "SV07001001",
+      "iso": null
+    },
+    "parent": {
+      "id": "SV07001",
+      "level": 2,
+      "name": {
+        "local": "La Unión Norte",
+        "en": "La Union Norte",
+        "slug": "la-union-norte-sv07001"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SV07",
+        "level": 1,
+        "name": {
+          "local": "La Unión",
+          "en": "La Union",
+          "slug": "la-union-sv07"
+        }
+      },
+      {
+        "id": "SV07001",
+        "level": 2,
+        "name": {
+          "local": "La Unión Norte",
+          "en": "La Union Norte",
+          "slug": "la-union-norte-sv07001"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "13.733",
+      "lon": "-87.884"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SV07001002",
+    "level": 3,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Bolívar",
+      "en": "Bolivar",
+      "slug": "bolivar-sv07001002"
+    },
+    "code": {
+      "id": "SV07001002",
+      "iso": null
+    },
+    "parent": {
+      "id": "SV07001",
+      "level": 2,
+      "name": {
+        "local": "La Unión Norte",
+        "en": "La Union Norte",
+        "slug": "la-union-norte-sv07001"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SV07",
+        "level": 1,
+        "name": {
+          "local": "La Unión",
+          "en": "La Union",
+          "slug": "la-union-sv07"
+        }
+      },
+      {
+        "id": "SV07001",
+        "level": 2,
+        "name": {
+          "local": "La Unión Norte",
+          "en": "La Union Norte",
+          "slug": "la-union-norte-sv07001"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "13.557",
+      "lon": "-87.954"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SV07001003",
+    "level": 3,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Concepción de Oriente",
+      "en": "Concepcion de Oriente",
+      "slug": "concepcion-de-oriente-sv07001003"
+    },
+    "code": {
+      "id": "SV07001003",
+      "iso": null
+    },
+    "parent": {
+      "id": "SV07001",
+      "level": 2,
+      "name": {
+        "local": "La Unión Norte",
+        "en": "La Union Norte",
+        "slug": "la-union-norte-sv07001"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SV07",
+        "level": 1,
+        "name": {
+          "local": "La Unión",
+          "en": "La Union",
+          "slug": "la-union-sv07"
+        }
+      },
+      {
+        "id": "SV07001",
+        "level": 2,
+        "name": {
+          "local": "La Unión Norte",
+          "en": "La Union Norte",
+          "slug": "la-union-norte-sv07001"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "13.777",
+      "lon": "-87.733"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SV07001004",
+    "level": 3,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "El Sauce",
+      "en": "El Sauce",
+      "slug": "el-sauce-sv07001004"
+    },
+    "code": {
+      "id": "SV07001004",
+      "iso": null
+    },
+    "parent": {
+      "id": "SV07001",
+      "level": 2,
+      "name": {
+        "local": "La Unión Norte",
+        "en": "La Union Norte",
+        "slug": "la-union-norte-sv07001"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SV07",
+        "level": 1,
+        "name": {
+          "local": "La Unión",
+          "en": "La Union",
+          "slug": "la-union-sv07"
+        }
+      },
+      {
+        "id": "SV07001",
+        "level": 2,
+        "name": {
+          "local": "La Unión Norte",
+          "en": "La Union Norte",
+          "slug": "la-union-norte-sv07001"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "13.681",
+      "lon": "-87.808"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SV07001005",
+    "level": 3,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Lislique",
+      "en": "Lislique",
+      "slug": "lislique-sv07001005"
+    },
+    "code": {
+      "id": "SV07001005",
+      "iso": null
+    },
+    "parent": {
+      "id": "SV07001",
+      "level": 2,
+      "name": {
+        "local": "La Unión Norte",
+        "en": "La Union Norte",
+        "slug": "la-union-norte-sv07001"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SV07",
+        "level": 1,
+        "name": {
+          "local": "La Unión",
+          "en": "La Union",
+          "slug": "la-union-sv07"
+        }
+      },
+      {
+        "id": "SV07001",
+        "level": 2,
+        "name": {
+          "local": "La Unión Norte",
+          "en": "La Union Norte",
+          "slug": "la-union-norte-sv07001"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "13.828",
+      "lon": "-87.922"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SV07001006",
+    "level": 3,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Nueva Esparta",
+      "en": "Nueva Esparta",
+      "slug": "nueva-esparta-sv07001006"
+    },
+    "code": {
+      "id": "SV07001006",
+      "iso": null
+    },
+    "parent": {
+      "id": "SV07001",
+      "level": 2,
+      "name": {
+        "local": "La Unión Norte",
+        "en": "La Union Norte",
+        "slug": "la-union-norte-sv07001"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SV07",
+        "level": 1,
+        "name": {
+          "local": "La Unión",
+          "en": "La Union",
+          "slug": "la-union-sv07"
+        }
+      },
+      {
+        "id": "SV07001",
+        "level": 2,
+        "name": {
+          "local": "La Unión Norte",
+          "en": "La Union Norte",
+          "slug": "la-union-norte-sv07001"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "13.817",
+      "lon": "-87.867"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SV07001007",
+    "level": 3,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Pasaquina",
+      "en": "Pasaquina",
+      "slug": "pasaquina-sv07001007"
+    },
+    "code": {
+      "id": "SV07001007",
+      "iso": null
+    },
+    "parent": {
+      "id": "SV07001",
+      "level": 2,
+      "name": {
+        "local": "La Unión Norte",
+        "en": "La Union Norte",
+        "slug": "la-union-norte-sv07001"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SV07",
+        "level": 1,
+        "name": {
+          "local": "La Unión",
+          "en": "La Union",
+          "slug": "la-union-sv07"
+        }
+      },
+      {
+        "id": "SV07001",
+        "level": 2,
+        "name": {
+          "local": "La Unión Norte",
+          "en": "La Union Norte",
+          "slug": "la-union-norte-sv07001"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "13.518",
+      "lon": "-87.829"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SV07001008",
+    "level": 3,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Polorós",
+      "en": "Poloros",
+      "slug": "poloros-sv07001008"
+    },
+    "code": {
+      "id": "SV07001008",
+      "iso": null
+    },
+    "parent": {
+      "id": "SV07001",
+      "level": 2,
+      "name": {
+        "local": "La Unión Norte",
+        "en": "La Union Norte",
+        "slug": "la-union-norte-sv07001"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SV07",
+        "level": 1,
+        "name": {
+          "local": "La Unión",
+          "en": "La Union",
+          "slug": "la-union-sv07"
+        }
+      },
+      {
+        "id": "SV07001",
+        "level": 2,
+        "name": {
+          "local": "La Unión Norte",
+          "en": "La Union Norte",
+          "slug": "la-union-norte-sv07001"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "13.81",
+      "lon": "-87.802"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SV07001009",
+    "level": 3,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "San José",
+      "en": "San Jose",
+      "slug": "san-jose-sv07001009"
+    },
+    "code": {
+      "id": "SV07001009",
+      "iso": null
+    },
+    "parent": {
+      "id": "SV07001",
+      "level": 2,
+      "name": {
+        "local": "La Unión Norte",
+        "en": "La Union Norte",
+        "slug": "la-union-norte-sv07001"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SV07",
+        "level": 1,
+        "name": {
+          "local": "La Unión",
+          "en": "La Union",
+          "slug": "la-union-sv07"
+        }
+      },
+      {
+        "id": "SV07001",
+        "level": 2,
+        "name": {
+          "local": "La Unión Norte",
+          "en": "La Union Norte",
+          "slug": "la-union-norte-sv07001"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "13.551",
+      "lon": "-87.9"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SV07001010",
+    "level": 3,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Santa Rosa de Lima",
+      "en": "Santa Rosa de Lima",
+      "slug": "santa-rosa-de-lima-sv07001010"
+    },
+    "code": {
+      "id": "SV07001010",
+      "iso": null
+    },
+    "parent": {
+      "id": "SV07001",
+      "level": 2,
+      "name": {
+        "local": "La Unión Norte",
+        "en": "La Union Norte",
+        "slug": "la-union-norte-sv07001"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SV07",
+        "level": 1,
+        "name": {
+          "local": "La Unión",
+          "en": "La Union",
+          "slug": "la-union-sv07"
+        }
+      },
+      {
+        "id": "SV07001",
+        "level": 2,
+        "name": {
+          "local": "La Unión Norte",
+          "en": "La Union Norte",
+          "slug": "la-union-norte-sv07001"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "13.65",
+      "lon": "-87.908"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

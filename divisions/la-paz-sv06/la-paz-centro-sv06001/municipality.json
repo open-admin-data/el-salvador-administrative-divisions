@@ -1,0 +1,650 @@
+[
+  {
+    "id": "SV06001001",
+    "level": 3,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "El Rosario",
+      "en": "El Rosario",
+      "slug": "el-rosario-sv06001001"
+    },
+    "code": {
+      "id": "SV06001001",
+      "iso": null
+    },
+    "parent": {
+      "id": "SV06001",
+      "level": 2,
+      "name": {
+        "local": "La Paz Centro",
+        "en": "La Paz Centro",
+        "slug": "la-paz-centro-sv06001"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SV06",
+        "level": 1,
+        "name": {
+          "local": "La Paz",
+          "en": "La Paz",
+          "slug": "la-paz-sv06"
+        }
+      },
+      {
+        "id": "SV06001",
+        "level": 2,
+        "name": {
+          "local": "La Paz Centro",
+          "en": "La Paz Centro",
+          "slug": "la-paz-centro-sv06001"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "13.455",
+      "lon": "-88.995"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SV06001002",
+    "level": 3,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Jerusalén",
+      "en": "Jerusalen",
+      "slug": "jerusalen-sv06001002"
+    },
+    "code": {
+      "id": "SV06001002",
+      "iso": null
+    },
+    "parent": {
+      "id": "SV06001",
+      "level": 2,
+      "name": {
+        "local": "La Paz Centro",
+        "en": "La Paz Centro",
+        "slug": "la-paz-centro-sv06001"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SV06",
+        "level": 1,
+        "name": {
+          "local": "La Paz",
+          "en": "La Paz",
+          "slug": "la-paz-sv06"
+        }
+      },
+      {
+        "id": "SV06001",
+        "level": 2,
+        "name": {
+          "local": "La Paz Centro",
+          "en": "La Paz Centro",
+          "slug": "la-paz-centro-sv06001"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "13.651",
+      "lon": "-88.912"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SV06001003",
+    "level": 3,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Mercedes La Ceiba",
+      "en": "Mercedes La Ceiba",
+      "slug": "mercedes-la-ceiba-sv06001003"
+    },
+    "code": {
+      "id": "SV06001003",
+      "iso": null
+    },
+    "parent": {
+      "id": "SV06001",
+      "level": 2,
+      "name": {
+        "local": "La Paz Centro",
+        "en": "La Paz Centro",
+        "slug": "la-paz-centro-sv06001"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SV06",
+        "level": 1,
+        "name": {
+          "local": "La Paz",
+          "en": "La Paz",
+          "slug": "la-paz-sv06"
+        }
+      },
+      {
+        "id": "SV06001",
+        "level": 2,
+        "name": {
+          "local": "La Paz Centro",
+          "en": "La Paz Centro",
+          "slug": "la-paz-centro-sv06001"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "13.636",
+      "lon": "-88.904"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SV06001004",
+    "level": 3,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Paraíso de Osorio",
+      "en": "Paraiso de Osorio",
+      "slug": "paraiso-de-osorio-sv06001004"
+    },
+    "code": {
+      "id": "SV06001004",
+      "iso": null
+    },
+    "parent": {
+      "id": "SV06001",
+      "level": 2,
+      "name": {
+        "local": "La Paz Centro",
+        "en": "La Paz Centro",
+        "slug": "la-paz-centro-sv06001"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SV06",
+        "level": 1,
+        "name": {
+          "local": "La Paz",
+          "en": "La Paz",
+          "slug": "la-paz-sv06"
+        }
+      },
+      {
+        "id": "SV06001",
+        "level": 2,
+        "name": {
+          "local": "La Paz Centro",
+          "en": "La Paz Centro",
+          "slug": "la-paz-centro-sv06001"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "13.622",
+      "lon": "-88.958"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SV06001005",
+    "level": 3,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "San Antonio Masahuat",
+      "en": "San Antonio Masahuat",
+      "slug": "san-antonio-masahuat-sv06001005"
+    },
+    "code": {
+      "id": "SV06001005",
+      "iso": null
+    },
+    "parent": {
+      "id": "SV06001",
+      "level": 2,
+      "name": {
+        "local": "La Paz Centro",
+        "en": "La Paz Centro",
+        "slug": "la-paz-centro-sv06001"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SV06",
+        "level": 1,
+        "name": {
+          "local": "La Paz",
+          "en": "La Paz",
+          "slug": "la-paz-sv06"
+        }
+      },
+      {
+        "id": "SV06001",
+        "level": 2,
+        "name": {
+          "local": "La Paz Centro",
+          "en": "La Paz Centro",
+          "slug": "la-paz-centro-sv06001"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "13.566",
+      "lon": "-89.025"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SV06001006",
+    "level": 3,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "San Emigdio",
+      "en": "San Emigdio",
+      "slug": "san-emigdio-sv06001006"
+    },
+    "code": {
+      "id": "SV06001006",
+      "iso": null
+    },
+    "parent": {
+      "id": "SV06001",
+      "level": 2,
+      "name": {
+        "local": "La Paz Centro",
+        "en": "La Paz Centro",
+        "slug": "la-paz-centro-sv06001"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SV06",
+        "level": 1,
+        "name": {
+          "local": "La Paz",
+          "en": "La Paz",
+          "slug": "la-paz-sv06"
+        }
+      },
+      {
+        "id": "SV06001",
+        "level": 2,
+        "name": {
+          "local": "La Paz Centro",
+          "en": "La Paz Centro",
+          "slug": "la-paz-centro-sv06001"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "13.64",
+      "lon": "-88.974"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SV06001007",
+    "level": 3,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "San Juan Tepezontes",
+      "en": "San Juan Tepezontes",
+      "slug": "san-juan-tepezontes-sv06001007"
+    },
+    "code": {
+      "id": "SV06001007",
+      "iso": null
+    },
+    "parent": {
+      "id": "SV06001",
+      "level": 2,
+      "name": {
+        "local": "La Paz Centro",
+        "en": "La Paz Centro",
+        "slug": "la-paz-centro-sv06001"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SV06",
+        "level": 1,
+        "name": {
+          "local": "La Paz",
+          "en": "La Paz",
+          "slug": "la-paz-sv06"
+        }
+      },
+      {
+        "id": "SV06001",
+        "level": 2,
+        "name": {
+          "local": "La Paz Centro",
+          "en": "La Paz Centro",
+          "slug": "la-paz-centro-sv06001"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "13.592",
+      "lon": "-88.992"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SV06001008",
+    "level": 3,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "San Luis La Herradura",
+      "en": "San Luis La Herradura",
+      "slug": "san-luis-la-herradura-sv06001008"
+    },
+    "code": {
+      "id": "SV06001008",
+      "iso": null
+    },
+    "parent": {
+      "id": "SV06001",
+      "level": 2,
+      "name": {
+        "local": "La Paz Centro",
+        "en": "La Paz Centro",
+        "slug": "la-paz-centro-sv06001"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SV06",
+        "level": 1,
+        "name": {
+          "local": "La Paz",
+          "en": "La Paz",
+          "slug": "la-paz-sv06"
+        }
+      },
+      {
+        "id": "SV06001",
+        "level": 2,
+        "name": {
+          "local": "La Paz Centro",
+          "en": "La Paz Centro",
+          "slug": "la-paz-centro-sv06001"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "13.347",
+      "lon": "-88.913"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SV06001009",
+    "level": 3,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "San Miguel Tepezontes",
+      "en": "San Miguel Tepezontes",
+      "slug": "san-miguel-tepezontes-sv06001009"
+    },
+    "code": {
+      "id": "SV06001009",
+      "iso": null
+    },
+    "parent": {
+      "id": "SV06001",
+      "level": 2,
+      "name": {
+        "local": "La Paz Centro",
+        "en": "La Paz Centro",
+        "slug": "la-paz-centro-sv06001"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SV06",
+        "level": 1,
+        "name": {
+          "local": "La Paz",
+          "en": "La Paz",
+          "slug": "la-paz-sv06"
+        }
+      },
+      {
+        "id": "SV06001",
+        "level": 2,
+        "name": {
+          "local": "La Paz Centro",
+          "en": "La Paz Centro",
+          "slug": "la-paz-centro-sv06001"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "13.621",
+      "lon": "-89.015"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SV06001010",
+    "level": 3,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "San Pedro Nonualco",
+      "en": "San Pedro Nonualco",
+      "slug": "san-pedro-nonualco-sv06001010"
+    },
+    "code": {
+      "id": "SV06001010",
+      "iso": null
+    },
+    "parent": {
+      "id": "SV06001",
+      "level": 2,
+      "name": {
+        "local": "La Paz Centro",
+        "en": "La Paz Centro",
+        "slug": "la-paz-centro-sv06001"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SV06",
+        "level": 1,
+        "name": {
+          "local": "La Paz",
+          "en": "La Paz",
+          "slug": "la-paz-sv06"
+        }
+      },
+      {
+        "id": "SV06001",
+        "level": 2,
+        "name": {
+          "local": "La Paz Centro",
+          "en": "La Paz Centro",
+          "slug": "la-paz-centro-sv06001"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "13.586",
+      "lon": "-88.926"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SV06001011",
+    "level": 3,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Santa María Ostuma",
+      "en": "Santa Maria Ostuma",
+      "slug": "santa-maria-ostuma-sv06001011"
+    },
+    "code": {
+      "id": "SV06001011",
+      "iso": null
+    },
+    "parent": {
+      "id": "SV06001",
+      "level": 2,
+      "name": {
+        "local": "La Paz Centro",
+        "en": "La Paz Centro",
+        "slug": "la-paz-centro-sv06001"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SV06",
+        "level": 1,
+        "name": {
+          "local": "La Paz",
+          "en": "La Paz",
+          "slug": "la-paz-sv06"
+        }
+      },
+      {
+        "id": "SV06001",
+        "level": 2,
+        "name": {
+          "local": "La Paz Centro",
+          "en": "La Paz Centro",
+          "slug": "la-paz-centro-sv06001"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "13.622",
+      "lon": "-88.919"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SV06001012",
+    "level": 3,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Santiago Nonualco",
+      "en": "Santiago Nonualco",
+      "slug": "santiago-nonualco-sv06001012"
+    },
+    "code": {
+      "id": "SV06001012",
+      "iso": null
+    },
+    "parent": {
+      "id": "SV06001",
+      "level": 2,
+      "name": {
+        "local": "La Paz Centro",
+        "en": "La Paz Centro",
+        "slug": "la-paz-centro-sv06001"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SV06",
+        "level": 1,
+        "name": {
+          "local": "La Paz",
+          "en": "La Paz",
+          "slug": "la-paz-sv06"
+        }
+      },
+      {
+        "id": "SV06001",
+        "level": 2,
+        "name": {
+          "local": "La Paz Centro",
+          "en": "La Paz Centro",
+          "slug": "la-paz-centro-sv06001"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "13.452",
+      "lon": "-88.954"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

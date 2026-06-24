@@ -1,0 +1,542 @@
+[
+  {
+    "id": "SV14001001",
+    "level": 3,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "California",
+      "en": "California",
+      "slug": "california-sv14001001"
+    },
+    "code": {
+      "id": "SV14001001",
+      "iso": null
+    },
+    "parent": {
+      "id": "SV14001",
+      "level": 2,
+      "name": {
+        "local": "Usulután Este",
+        "en": "Usulutan Este",
+        "slug": "usulutan-este-sv14001"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SV14",
+        "level": 1,
+        "name": {
+          "local": "Usulután",
+          "en": "Usulutan",
+          "slug": "usulutan-sv14"
+        }
+      },
+      {
+        "id": "SV14001",
+        "level": 2,
+        "name": {
+          "local": "Usulután Este",
+          "en": "Usulutan Este",
+          "slug": "usulutan-este-sv14001"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "13.435",
+      "lon": "-88.455"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SV14001002",
+    "level": 3,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Concepción Batres",
+      "en": "Concepcion Batres",
+      "slug": "concepcion-batres-sv14001002"
+    },
+    "code": {
+      "id": "SV14001002",
+      "iso": null
+    },
+    "parent": {
+      "id": "SV14001",
+      "level": 2,
+      "name": {
+        "local": "Usulután Este",
+        "en": "Usulutan Este",
+        "slug": "usulutan-este-sv14001"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SV14",
+        "level": 1,
+        "name": {
+          "local": "Usulután",
+          "en": "Usulutan",
+          "slug": "usulutan-sv14"
+        }
+      },
+      {
+        "id": "SV14001",
+        "level": 2,
+        "name": {
+          "local": "Usulután Este",
+          "en": "Usulutan Este",
+          "slug": "usulutan-este-sv14001"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "13.277",
+      "lon": "-88.361"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SV14001003",
+    "level": 3,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Ereguayquín",
+      "en": "Ereguayquin",
+      "slug": "ereguayquin-sv14001003"
+    },
+    "code": {
+      "id": "SV14001003",
+      "iso": null
+    },
+    "parent": {
+      "id": "SV14001",
+      "level": 2,
+      "name": {
+        "local": "Usulután Este",
+        "en": "Usulutan Este",
+        "slug": "usulutan-este-sv14001"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SV14",
+        "level": 1,
+        "name": {
+          "local": "Usulután",
+          "en": "Usulutan",
+          "slug": "usulutan-sv14"
+        }
+      },
+      {
+        "id": "SV14001",
+        "level": 2,
+        "name": {
+          "local": "Usulután Este",
+          "en": "Usulutan Este",
+          "slug": "usulutan-este-sv14001"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "13.333",
+      "lon": "-88.385"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SV14001004",
+    "level": 3,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Jucuarán",
+      "en": "Jucuaran",
+      "slug": "jucuaran-sv14001004"
+    },
+    "code": {
+      "id": "SV14001004",
+      "iso": null
+    },
+    "parent": {
+      "id": "SV14001",
+      "level": 2,
+      "name": {
+        "local": "Usulután Este",
+        "en": "Usulutan Este",
+        "slug": "usulutan-este-sv14001"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SV14",
+        "level": 1,
+        "name": {
+          "local": "Usulután",
+          "en": "Usulutan",
+          "slug": "usulutan-sv14"
+        }
+      },
+      {
+        "id": "SV14001",
+        "level": 2,
+        "name": {
+          "local": "Usulután Este",
+          "en": "Usulutan Este",
+          "slug": "usulutan-este-sv14001"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "13.233",
+      "lon": "-88.267"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SV14001005",
+    "level": 3,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Ozatlán",
+      "en": "Ozatlan",
+      "slug": "ozatlan-sv14001005"
+    },
+    "code": {
+      "id": "SV14001005",
+      "iso": null
+    },
+    "parent": {
+      "id": "SV14001",
+      "level": 2,
+      "name": {
+        "local": "Usulután Este",
+        "en": "Usulutan Este",
+        "slug": "usulutan-este-sv14001"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SV14",
+        "level": 1,
+        "name": {
+          "local": "Usulután",
+          "en": "Usulutan",
+          "slug": "usulutan-sv14"
+        }
+      },
+      {
+        "id": "SV14001",
+        "level": 2,
+        "name": {
+          "local": "Usulután Este",
+          "en": "Usulutan Este",
+          "slug": "usulutan-este-sv14001"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "13.369",
+      "lon": "-88.517"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SV14001006",
+    "level": 3,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "San Dionisio",
+      "en": "San Dionisio",
+      "slug": "san-dionisio-sv14001006"
+    },
+    "code": {
+      "id": "SV14001006",
+      "iso": null
+    },
+    "parent": {
+      "id": "SV14001",
+      "level": 2,
+      "name": {
+        "local": "Usulután Este",
+        "en": "Usulutan Este",
+        "slug": "usulutan-este-sv14001"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SV14",
+        "level": 1,
+        "name": {
+          "local": "Usulután",
+          "en": "Usulutan",
+          "slug": "usulutan-sv14"
+        }
+      },
+      {
+        "id": "SV14001",
+        "level": 2,
+        "name": {
+          "local": "Usulután Este",
+          "en": "Usulutan Este",
+          "slug": "usulutan-este-sv14001"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "13.219",
+      "lon": "-88.502"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SV14001007",
+    "level": 3,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Santa Elena",
+      "en": "Santa Elena",
+      "slug": "santa-elena-sv14001007"
+    },
+    "code": {
+      "id": "SV14001007",
+      "iso": null
+    },
+    "parent": {
+      "id": "SV14001",
+      "level": 2,
+      "name": {
+        "local": "Usulután Este",
+        "en": "Usulutan Este",
+        "slug": "usulutan-este-sv14001"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SV14",
+        "level": 1,
+        "name": {
+          "local": "Usulután",
+          "en": "Usulutan",
+          "slug": "usulutan-sv14"
+        }
+      },
+      {
+        "id": "SV14001",
+        "level": 2,
+        "name": {
+          "local": "Usulután Este",
+          "en": "Usulutan Este",
+          "slug": "usulutan-este-sv14001"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "13.404",
+      "lon": "-88.417"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SV14001008",
+    "level": 3,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Santa María",
+      "en": "Santa Maria",
+      "slug": "santa-maria-sv14001008"
+    },
+    "code": {
+      "id": "SV14001008",
+      "iso": null
+    },
+    "parent": {
+      "id": "SV14001",
+      "level": 2,
+      "name": {
+        "local": "Usulután Este",
+        "en": "Usulutan Este",
+        "slug": "usulutan-este-sv14001"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SV14",
+        "level": 1,
+        "name": {
+          "local": "Usulután",
+          "en": "Usulutan",
+          "slug": "usulutan-sv14"
+        }
+      },
+      {
+        "id": "SV14001",
+        "level": 2,
+        "name": {
+          "local": "Usulután Este",
+          "en": "Usulutan Este",
+          "slug": "usulutan-este-sv14001"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "13.333",
+      "lon": "-88.41"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SV14001009",
+    "level": 3,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Tecapán",
+      "en": "Tecapan",
+      "slug": "tecapan-sv14001009"
+    },
+    "code": {
+      "id": "SV14001009",
+      "iso": null
+    },
+    "parent": {
+      "id": "SV14001",
+      "level": 2,
+      "name": {
+        "local": "Usulután Este",
+        "en": "Usulutan Este",
+        "slug": "usulutan-este-sv14001"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SV14",
+        "level": 1,
+        "name": {
+          "local": "Usulután",
+          "en": "Usulutan",
+          "slug": "usulutan-sv14"
+        }
+      },
+      {
+        "id": "SV14001",
+        "level": 2,
+        "name": {
+          "local": "Usulután Este",
+          "en": "Usulutan Este",
+          "slug": "usulutan-este-sv14001"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "13.425",
+      "lon": "-88.502"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SV14001010",
+    "level": 3,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Usulután",
+      "en": "Usulutan",
+      "slug": "usulutan-sv14001010"
+    },
+    "code": {
+      "id": "SV14001010",
+      "iso": null
+    },
+    "parent": {
+      "id": "SV14001",
+      "level": 2,
+      "name": {
+        "local": "Usulután Este",
+        "en": "Usulutan Este",
+        "slug": "usulutan-este-sv14001"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SV14",
+        "level": 1,
+        "name": {
+          "local": "Usulután",
+          "en": "Usulutan",
+          "slug": "usulutan-sv14"
+        }
+      },
+      {
+        "id": "SV14001",
+        "level": 2,
+        "name": {
+          "local": "Usulután Este",
+          "en": "Usulutan Este",
+          "slug": "usulutan-este-sv14001"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "13.288",
+      "lon": "-88.418"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

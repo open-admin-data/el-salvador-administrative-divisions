@@ -1,0 +1,218 @@
+[
+  {
+    "id": "SV13003001",
+    "level": 3,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Juayúa",
+      "en": "Juayua",
+      "slug": "juayua-sv13003001"
+    },
+    "code": {
+      "id": "SV13003001",
+      "iso": null
+    },
+    "parent": {
+      "id": "SV13003",
+      "level": 2,
+      "name": {
+        "local": "Sonsonate Norte",
+        "en": "Sonsonate Norte",
+        "slug": "sonsonate-norte-sv13003"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SV13",
+        "level": 1,
+        "name": {
+          "local": "Sonsonate",
+          "en": "Sonsonate",
+          "slug": "sonsonate-sv13"
+        }
+      },
+      {
+        "id": "SV13003",
+        "level": 2,
+        "name": {
+          "local": "Sonsonate Norte",
+          "en": "Sonsonate Norte",
+          "slug": "sonsonate-norte-sv13003"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "13.859",
+      "lon": "-89.701"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SV13003002",
+    "level": 3,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Nahuizalco",
+      "en": "Nahuizalco",
+      "slug": "nahuizalco-sv13003002"
+    },
+    "code": {
+      "id": "SV13003002",
+      "iso": null
+    },
+    "parent": {
+      "id": "SV13003",
+      "level": 2,
+      "name": {
+        "local": "Sonsonate Norte",
+        "en": "Sonsonate Norte",
+        "slug": "sonsonate-norte-sv13003"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SV13",
+        "level": 1,
+        "name": {
+          "local": "Sonsonate",
+          "en": "Sonsonate",
+          "slug": "sonsonate-sv13"
+        }
+      },
+      {
+        "id": "SV13003",
+        "level": 2,
+        "name": {
+          "local": "Sonsonate Norte",
+          "en": "Sonsonate Norte",
+          "slug": "sonsonate-norte-sv13003"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "13.799",
+      "lon": "-89.713"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SV13003003",
+    "level": 3,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Salcoatitán",
+      "en": "Salcoatitan",
+      "slug": "salcoatitan-sv13003003"
+    },
+    "code": {
+      "id": "SV13003003",
+      "iso": null
+    },
+    "parent": {
+      "id": "SV13003",
+      "level": 2,
+      "name": {
+        "local": "Sonsonate Norte",
+        "en": "Sonsonate Norte",
+        "slug": "sonsonate-norte-sv13003"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SV13",
+        "level": 1,
+        "name": {
+          "local": "Sonsonate",
+          "en": "Sonsonate",
+          "slug": "sonsonate-sv13"
+        }
+      },
+      {
+        "id": "SV13003",
+        "level": 2,
+        "name": {
+          "local": "Sonsonate Norte",
+          "en": "Sonsonate Norte",
+          "slug": "sonsonate-norte-sv13003"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "13.836",
+      "lon": "-89.756"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SV13003004",
+    "level": 3,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Santa Catarina Masahuat",
+      "en": "Santa Catarina Masahuat",
+      "slug": "santa-catarina-masahuat-sv13003004"
+    },
+    "code": {
+      "id": "SV13003004",
+      "iso": null
+    },
+    "parent": {
+      "id": "SV13003",
+      "level": 2,
+      "name": {
+        "local": "Sonsonate Norte",
+        "en": "Sonsonate Norte",
+        "slug": "sonsonate-norte-sv13003"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SV13",
+        "level": 1,
+        "name": {
+          "local": "Sonsonate",
+          "en": "Sonsonate",
+          "slug": "sonsonate-sv13"
+        }
+      },
+      {
+        "id": "SV13003",
+        "level": 2,
+        "name": {
+          "local": "Sonsonate Norte",
+          "en": "Sonsonate Norte",
+          "slug": "sonsonate-norte-sv13003"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "13.79",
+      "lon": "-89.771"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

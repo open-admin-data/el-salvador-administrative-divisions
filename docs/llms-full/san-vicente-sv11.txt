@@ -1,0 +1,71 @@
+# San Vicente — El Salvador Administrative Divisions
+
+> 2 districts, 13 municipalitys
+> Code: SV11
+> Coordinates: 13.515, -88.739
+> Last updated: 2026-06-24. License: CC-BY-4.0.
+
+## Districts
+
+### San Vicente Norte
+
+Code: SV11001, Coordinates: 13.697, -88.681
+Municipalitys: 7
+
+#### Apastepeque
+
+Code: SV11001001, Coordinates: 13.653, -88.703
+
+#### San Esteban Catarina
+
+Code: SV11001002, Coordinates: 13.728, -88.743
+
+#### San Ildefonso
+
+Code: SV11001003, Coordinates: 13.673, -88.553
+
+#### San Lorenzo
+
+Code: SV11001004, Coordinates: 13.694, -88.815
+
+#### San Sebastián (San Sebastian)
+
+Code: SV11001005, Coordinates: 13.748, -88.813
+
+#### Santa Clara
+
+Code: SV11001006, Coordinates: 13.728, -88.643
+
+#### Santo Domingo
+
+Code: SV11001007, Coordinates: 13.704, -88.848
+
+### San Vicente Sur
+
+Code: SV11002, Coordinates: 13.463, -88.746
+Municipalitys: 6
+
+#### Guadalupe
+
+Code: SV11002001, Coordinates: 13.613, -88.862
+
+#### San Cayetano Istepeque
+
+Code: SV11002002, Coordinates: 13.649, -88.807
+
+#### San Vicente
+
+Code: SV11002003, Coordinates: 13.556, -88.726
+
+#### Tecoluca
+
+Code: SV11002004, Coordinates: 13.418, -88.746
+
+#### Tepetitán (Tepetitan)
+
+Code: SV11002005, Coordinates: 13.639, -88.836
+
+#### Verapaz
+
+Code: SV11002006, Coordinates: 13.658, -88.865
+

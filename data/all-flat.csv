@@ -1,0 +1,64 @@
+# Data from Open Admin Data (https://openadmindata.org/sv/) — CC-BY-4.0. Please cite: https://github.com/open-admin-data/el-salvador-administrative-divisions
+id,level,level_name.local,level_name.en,name.local,name.en,name.slug,code.id,code.iso,parent.id,parent.name.local,parent.name.en,children_count.department,children_count.district,children_count.municipality,zip_codes,geo.lat,geo.lon,source_url
+SV01,1,Departamento,Department,Ahuachapán,Ahuachapan,ahuachapan-sv01,SV01,,,,,,3,12,,13.863,-89.93,https://openadmindata.org/sv/departments/ahuachapan-sv01/
+SV01001,2,Distrito,District,Ahuachapán Centro,Ahuachapan Centro,ahuachapan-centro-sv01001,SV01001,,SV01,Ahuachapán,Ahuachapan,,,4,,13.913,-89.899,
+SV01002,2,Distrito,District,Ahuachapán Norte,Ahuachapan Norte,ahuachapan-norte-sv01002,SV01002,,SV01,Ahuachapán,Ahuachapan,,,4,,13.98,-89.738,
+SV01003,2,Distrito,District,Ahuachapán Sur,Ahuachapan Sur,ahuachapan-sur-sv01003,SV01003,,SV01,Ahuachapán,Ahuachapan,,,4,,13.78,-90.018,
+SV02,1,Departamento,Department,Cabañas,Cabanas,cabanas-sv02,SV02,,,,,,2,9,,13.879,-88.742,https://openadmindata.org/sv/departments/cabanas-sv02/
+SV02001,2,Distrito,District,Cabañas Este,Cabanas Este,cabanas-este-sv02001,SV02001,,SV02,Cabañas,Cabanas,,,5,,13.879,-88.613,
+SV02002,2,Distrito,District,Cabañas Oeste,Cabanas Oeste,cabanas-oeste-sv02002,SV02002,,SV02,Cabañas,Cabanas,,,4,,13.861,-88.862,
+SV03,1,Departamento,Department,Chalatenango,Chalatenango,chalatenango-sv03,SV03,,,,,,4,34,,14.163,-89.111,https://openadmindata.org/sv/departments/chalatenango-sv03/
+SV03001,2,Distrito,District,Chalatenango Centro,Chalatenango Centro,chalatenango-centro-sv03001,SV03001,,SV03,Chalatenango,Chalatenango,,,10,,14.181,-89.147,
+SV03002,2,Distrito,District,Chalatenango Norte,Chalatenango Norte,chalatenango-norte-sv03002,SV03002,,SV03,Chalatenango,Chalatenango,,,3,,14.333,-89.169,
+SV03003,2,Distrito,District,Chalatenango Sur,Chalatenango Sur,chalatenango-sur-sv03003,SV03003,,SV03,Chalatenango,Chalatenango,,,20,,14.066,-88.874,
+SV03999,2,Distrito,District,Embalse Cerron Grande,Embalse Cerron Grande,embalse-cerron-grande-sv03999,SV03999,,SV03,Chalatenango,Chalatenango,,,1,,14.006,-89.022,
+SV04,1,Departamento,Department,Cuscatlán,Cuscatlan,cuscatlan-sv04,SV04,,,,,,2,16,,13.845,-89.052,https://openadmindata.org/sv/departments/cuscatlan-sv04/
+SV04001,2,Distrito,District,Cuscatlán Norte,Cuscatlan Norte,cuscatlan-norte-sv04001,SV04001,,SV04,Cuscatlán,Cuscatlan,,,5,,13.876,-89.06,
+SV04002,2,Distrito,District,Cuscatlán Sur,Cuscatlan Sur,cuscatlan-sur-sv04002,SV04002,,SV04,Cuscatlán,Cuscatlan,,,11,,13.752,-88.918,
+SV05,1,Departamento,Department,La Libertad,La Libertad,la-libertad-sv05,SV05,,,,,,6,22,,13.74,-89.362,https://openadmindata.org/sv/departments/la-libertad-sv05/
+SV05001,2,Distrito,District,La Libertad Centro,La Libertad Centro,la-libertad-centro-sv05001,SV05001,,SV05,La Libertad,La Libertad,,,2,,13.845,-89.386,
+SV05002,2,Distrito,District,La Libertad Costa,La Libertad Costa,la-libertad-costa-sv05002,SV05002,,SV05,La Libertad,La Libertad,,,5,,13.536,-89.479,
+SV05003,2,Distrito,District,La Libertad Este,La Libertad Este,la-libertad-este-sv05003,SV05003,,SV05,La Libertad,La Libertad,,,5,,13.595,-89.261,
+SV05004,2,Distrito,District,La Libertad Norte,La Libertad Norte,la-libertad-norte-sv05004,SV05004,,SV05,La Libertad,La Libertad,,,3,,13.896,-89.282,
+SV05005,2,Distrito,District,La Libertad Oeste,La Libertad Oeste,la-libertad-oeste-sv05005,SV05005,,SV05,La Libertad,La Libertad,,,5,,13.694,-89.448,
+SV05006,2,Distrito,District,La Libertad Sur,La Libertad Sur,la-libertad-sur-sv05006,SV05006,,SV05,La Libertad,La Libertad,,,2,,13.627,-89.344,
+SV06,1,Departamento,Department,La Paz,La Paz,la-paz-sv06,SV06,,,,,,3,22,,13.462,-88.977,https://openadmindata.org/sv/departments/la-paz-sv06/
+SV06001,2,Distrito,District,La Paz Centro,La Paz Centro,la-paz-centro-sv06001,SV06001,,SV06,La Paz,La Paz,,,12,,13.476,-88.978,
+SV06002,2,Distrito,District,La Paz Este,La Paz Este,la-paz-este-sv06002,SV06002,,SV06,La Paz,La Paz,,,3,,13.444,-88.877,
+SV06003,2,Distrito,District,La Paz Oeste,La Paz Oeste,la-paz-oeste-sv06003,SV06003,,SV06,La Paz,La Paz,,,7,,13.494,-89.092,
+SV07,1,Departamento,Department,La Unión,La Union,la-union-sv07,SV07,,,,,,2,18,,13.525,-87.906,https://openadmindata.org/sv/departments/la-union-sv07/
+SV07001,2,Distrito,District,La Unión Norte,La Union Norte,la-union-norte-sv07001,SV07001,,SV07,La Unión,La Union,,,10,,13.65,-87.86,
+SV07002,2,Distrito,District,La Unión Sur,La Union Sur,la-union-sur-sv07002,SV07002,,SV07,La Unión,La Union,,,8,,13.369,-87.95,
+SV08,1,Departamento,Department,Morazán,Morazan,morazan-sv08,SV08,,,,,,2,26,,13.763,-88.093,https://openadmindata.org/sv/departments/morazan-sv08/
+SV08001,2,Distrito,District,Morazán Norte,Morazan Norte,morazan-norte-sv08001,SV08001,,SV08,Morazán,Morazan,,,11,,13.86,-88.11,
+SV08002,2,Distrito,District,Morazán Sur,Morazan Sur,morazan-sur-sv08002,SV08002,,SV08,Morazán,Morazan,,,15,,13.695,-88.11,
+SV09,1,Departamento,Department,San Miguel,San Miguel,san-miguel-sv09,SV09,,,,,,3,20,,13.529,-88.198,https://openadmindata.org/sv/departments/san-miguel-sv09/
+SV09001,2,Distrito,District,San Miguel Centro,San Miguel Centro,san-miguel-centro-sv09001,SV09001,,SV09,San Miguel,San Miguel,,,6,,13.39,-88.169,
+SV09002,2,Distrito,District,San Miguel Norte,San Miguel Norte,san-miguel-norte-sv09002,SV09002,,SV09,San Miguel,San Miguel,,,8,,13.738,-88.383,
+SV09003,2,Distrito,District,San Miguel Oeste,San Miguel Oeste,san-miguel-oeste-sv09003,SV09003,,SV09,San Miguel,San Miguel,,,6,,13.447,-88.332,
+SV10,1,Departamento,Department,San Salvador,San Salvador,san-salvador-sv10,SV10,,,,,,6,20,,13.763,-89.157,https://openadmindata.org/sv/departments/san-salvador-sv10/
+SV10001,2,Distrito,District,San Salvador Centro,San Salvador Centro,san-salvador-centro-sv10001,SV10001,,SV10,San Salvador,San Salvador,,,5,,13.711,-89.212,
+SV10002,2,Distrito,District,San Salvador Este,San Salvador Este,san-salvador-este-sv10002,SV10002,,SV10,San Salvador,San Salvador,,,4,,13.75,-89.091,
+SV10003,2,Distrito,District,San Salvador Norte,San Salvador Norte,san-salvador-norte-sv10003,SV10003,,SV10,San Salvador,San Salvador,,,3,,13.946,-89.209,
+SV10004,2,Distrito,District,San Salvador Oeste,San Salvador Oeste,san-salvador-oeste-sv10004,SV10004,,SV10,San Salvador,San Salvador,,,2,,13.82,-89.193,
+SV10005,2,Distrito,District,San Salvador Sur,San Salvador Sur,san-salvador-sur-sv10005,SV10005,,SV10,San Salvador,San Salvador,,,5,,13.57,-89.176,
+SV10899,2,Distrito,District,Lago de Llopango,Lago de Llopango,lago-de-llopango-sv10899,SV10899,,SV10,San Salvador,San Salvador,,,1,,13.667,-89.045,
+SV11,1,Departamento,Department,San Vicente,San Vicente,san-vicente-sv11,SV11,,,,,,2,13,,13.515,-88.739,https://openadmindata.org/sv/departments/san-vicente-sv11/
+SV11001,2,Distrito,District,San Vicente Norte,San Vicente Norte,san-vicente-norte-sv11001,SV11001,,SV11,San Vicente,San Vicente,,,7,,13.697,-88.681,
+SV11002,2,Distrito,District,San Vicente Sur,San Vicente Sur,san-vicente-sur-sv11002,SV11002,,SV11,San Vicente,San Vicente,,,6,,13.463,-88.746,
+SV12,1,Departamento,Department,Santa Ana,Santa Ana,santa-ana-sv12,SV12,,,,,,6,15,,14.111,-89.564,https://openadmindata.org/sv/departments/santa-ana-sv12/
+SV12001,2,Distrito,District,Santa Ana Centro,Santa Ana Centro,santa-ana-centro-sv12001,SV12001,,SV12,Santa Ana,Santa Ana,,,1,,13.956,-89.558,
+SV12002,2,Distrito,District,Santa Ana Este,Santa Ana Este,santa-ana-este-sv12002,SV12002,,SV12,Santa Ana,Santa Ana,,,2,,13.885,-89.49,
+SV12003,2,Distrito,District,Santa Ana Norte,Santa Ana Norte,santa-ana-norte-sv12003,SV12003,,SV12,Santa Ana,Santa Ana,,,4,,14.251,-89.374,
+SV12004,2,Distrito,District,Santa Ana Oeste,Santa Ana Oeste,santa-ana-oeste-sv12004,SV12004,,SV12,Santa Ana,Santa Ana,,,6,,14.046,-89.677,
+SV12998,2,Distrito,District,Lago de Guija,Lago de Guija,lago-de-guija-sv12998,SV12998,,SV12,Santa Ana,Santa Ana,,,1,,14.267,-89.51,
+SV12999,2,Distrito,District,Lago de Coatepeque,Lago de Coatepeque,lago-de-coatepeque-sv12999,SV12999,,SV12,Santa Ana,Santa Ana,,,1,,13.861,-89.542,
+SV13,1,Departamento,Department,Sonsonate,Sonsonate,sonsonate-sv13,SV13,,,,,,4,16,,13.712,-89.647,https://openadmindata.org/sv/departments/sonsonate-sv13/
+SV13001,2,Distrito,District,Sonsonate Centro,Sonsonate Centro,sonsonate-centro-sv13001,SV13001,,SV13,Sonsonate,Sonsonate,,,5,,13.652,-89.711,
+SV13002,2,Distrito,District,Sonsonate Este,Sonsonate Este,sonsonate-este-sv13002,SV13002,,SV13,Sonsonate,Sonsonate,,,6,,13.675,-89.599,
+SV13003,2,Distrito,District,Sonsonate Norte,Sonsonate Norte,sonsonate-norte-sv13003,SV13003,,SV13,Sonsonate,Sonsonate,,,4,,13.826,-89.718,
+SV13004,2,Distrito,District,Sonsonate Oeste,Sonsonate Oeste,sonsonate-oeste-sv13004,SV13004,,SV13,Sonsonate,Sonsonate,,,1,,13.612,-89.816,
+SV14,1,Departamento,Department,Usulután,Usulutan,usulutan-sv14,SV14,,,,,,3,23,,13.426,-88.534,https://openadmindata.org/sv/departments/usulutan-sv14/
+SV14001,2,Distrito,District,Usulután Este,Usulutan Este,usulutan-este-sv14001,SV14001,,SV14,Usulután,Usulutan,,,10,,13.315,-88.391,
+SV14002,2,Distrito,District,Usulután Norte,Usulutan Norte,usulutan-norte-sv14002,SV14002,,SV14,Usulután,Usulutan,,,9,,13.558,-88.513,
+SV14003,2,Distrito,District,Usulután Oeste,Usulutan Oeste,usulutan-oeste-sv14003,SV14003,,SV14,Usulután,Usulutan,,,4,,13.344,-88.617,

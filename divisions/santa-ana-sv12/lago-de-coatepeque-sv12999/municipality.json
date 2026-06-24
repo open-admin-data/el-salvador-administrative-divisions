@@ -1,0 +1,56 @@
+[
+  {
+    "id": "SV12999001",
+    "level": 3,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Lago de Coatepeque",
+      "en": "Lago de Coatepeque",
+      "slug": "lago-de-coatepeque-sv12999001"
+    },
+    "code": {
+      "id": "SV12999001",
+      "iso": null
+    },
+    "parent": {
+      "id": "SV12999",
+      "level": 2,
+      "name": {
+        "local": "Lago de Coatepeque",
+        "en": "Lago de Coatepeque",
+        "slug": "lago-de-coatepeque-sv12999"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SV12",
+        "level": 1,
+        "name": {
+          "local": "Santa Ana",
+          "en": "Santa Ana",
+          "slug": "santa-ana-sv12"
+        }
+      },
+      {
+        "id": "SV12999",
+        "level": 2,
+        "name": {
+          "local": "Lago de Coatepeque",
+          "en": "Lago de Coatepeque",
+          "slug": "lago-de-coatepeque-sv12999"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "13.861",
+      "lon": "-89.542"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

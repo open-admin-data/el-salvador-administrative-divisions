@@ -1,0 +1,4 @@
+id,name.local,name.en,name.slug,code.id,children_count.municipality,geo.lat,geo.lon
+SV06001,La Paz Centro,La Paz Centro,la-paz-centro-sv06001,SV06001,12,13.476,-88.978
+SV06002,La Paz Este,La Paz Este,la-paz-este-sv06002,SV06002,3,13.444,-88.877
+SV06003,La Paz Oeste,La Paz Oeste,la-paz-oeste-sv06003,SV06003,7,13.494,-89.092

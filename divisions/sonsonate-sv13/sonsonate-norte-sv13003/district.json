@@ -1,0 +1,47 @@
+{
+  "id": "SV13003",
+  "level": 2,
+  "level_name": {
+    "local": "Distrito",
+    "en": "District"
+  },
+  "name": {
+    "local": "Sonsonate Norte",
+    "en": "Sonsonate Norte",
+    "slug": "sonsonate-norte-sv13003"
+  },
+  "code": {
+    "id": "SV13003",
+    "iso": null
+  },
+  "parent": {
+    "id": "SV13",
+    "level": 1,
+    "name": {
+      "local": "Sonsonate",
+      "en": "Sonsonate",
+      "slug": "sonsonate-sv13"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "SV13",
+      "level": 1,
+      "name": {
+        "local": "Sonsonate",
+        "en": "Sonsonate",
+        "slug": "sonsonate-sv13"
+      }
+    }
+  ],
+  "children_count": {
+    "municipality": 4
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "13.826",
+    "lon": "-89.718"
+  },
+  "metadata": {},
+  "source": {}
+}

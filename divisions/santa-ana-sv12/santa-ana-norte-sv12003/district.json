@@ -1,0 +1,47 @@
+{
+  "id": "SV12003",
+  "level": 2,
+  "level_name": {
+    "local": "Distrito",
+    "en": "District"
+  },
+  "name": {
+    "local": "Santa Ana Norte",
+    "en": "Santa Ana Norte",
+    "slug": "santa-ana-norte-sv12003"
+  },
+  "code": {
+    "id": "SV12003",
+    "iso": null
+  },
+  "parent": {
+    "id": "SV12",
+    "level": 1,
+    "name": {
+      "local": "Santa Ana",
+      "en": "Santa Ana",
+      "slug": "santa-ana-sv12"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "SV12",
+      "level": 1,
+      "name": {
+        "local": "Santa Ana",
+        "en": "Santa Ana",
+        "slug": "santa-ana-sv12"
+      }
+    }
+  ],
+  "children_count": {
+    "municipality": 4
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "14.251",
+    "lon": "-89.374"
+  },
+  "metadata": {},
+  "source": {}
+}

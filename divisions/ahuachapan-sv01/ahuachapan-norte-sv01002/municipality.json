@@ -1,0 +1,218 @@
+[
+  {
+    "id": "SV01002001",
+    "level": 3,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Atiquizaya",
+      "en": "Atiquizaya",
+      "slug": "atiquizaya-sv01002001"
+    },
+    "code": {
+      "id": "SV01002001",
+      "iso": null
+    },
+    "parent": {
+      "id": "SV01002",
+      "level": 2,
+      "name": {
+        "local": "Ahuachapán Norte",
+        "en": "Ahuachapan Norte",
+        "slug": "ahuachapan-norte-sv01002"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SV01",
+        "level": 1,
+        "name": {
+          "local": "Ahuachapán",
+          "en": "Ahuachapan",
+          "slug": "ahuachapan-sv01"
+        }
+      },
+      {
+        "id": "SV01002",
+        "level": 2,
+        "name": {
+          "local": "Ahuachapán Norte",
+          "en": "Ahuachapan Norte",
+          "slug": "ahuachapan-norte-sv01002"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "13.956",
+      "lon": "-89.731"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SV01002002",
+    "level": 3,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "El Refugio",
+      "en": "El Refugio",
+      "slug": "el-refugio-sv01002002"
+    },
+    "code": {
+      "id": "SV01002002",
+      "iso": null
+    },
+    "parent": {
+      "id": "SV01002",
+      "level": 2,
+      "name": {
+        "local": "Ahuachapán Norte",
+        "en": "Ahuachapan Norte",
+        "slug": "ahuachapan-norte-sv01002"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SV01",
+        "level": 1,
+        "name": {
+          "local": "Ahuachapán",
+          "en": "Ahuachapan",
+          "slug": "ahuachapan-sv01"
+        }
+      },
+      {
+        "id": "SV01002",
+        "level": 2,
+        "name": {
+          "local": "Ahuachapán Norte",
+          "en": "Ahuachapan Norte",
+          "slug": "ahuachapan-norte-sv01002"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "13.983",
+      "lon": "-89.7"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SV01002003",
+    "level": 3,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "San Lorenzo",
+      "en": "San Lorenzo",
+      "slug": "san-lorenzo-sv01002003"
+    },
+    "code": {
+      "id": "SV01002003",
+      "iso": null
+    },
+    "parent": {
+      "id": "SV01002",
+      "level": 2,
+      "name": {
+        "local": "Ahuachapán Norte",
+        "en": "Ahuachapan Norte",
+        "slug": "ahuachapan-norte-sv01002"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SV01",
+        "level": 1,
+        "name": {
+          "local": "Ahuachapán",
+          "en": "Ahuachapan",
+          "slug": "ahuachapan-sv01"
+        }
+      },
+      {
+        "id": "SV01002",
+        "level": 2,
+        "name": {
+          "local": "Ahuachapán Norte",
+          "en": "Ahuachapan Norte",
+          "slug": "ahuachapan-norte-sv01002"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "14.024",
+      "lon": "-89.759"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SV01002004",
+    "level": 3,
+    "level_name": {
+      "local": "Municipio",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Turín",
+      "en": "Turin",
+      "slug": "turin-sv01002004"
+    },
+    "code": {
+      "id": "SV01002004",
+      "iso": null
+    },
+    "parent": {
+      "id": "SV01002",
+      "level": 2,
+      "name": {
+        "local": "Ahuachapán Norte",
+        "en": "Ahuachapan Norte",
+        "slug": "ahuachapan-norte-sv01002"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SV01",
+        "level": 1,
+        "name": {
+          "local": "Ahuachapán",
+          "en": "Ahuachapan",
+          "slug": "ahuachapan-sv01"
+        }
+      },
+      {
+        "id": "SV01002",
+        "level": 2,
+        "name": {
+          "local": "Ahuachapán Norte",
+          "en": "Ahuachapan Norte",
+          "slug": "ahuachapan-norte-sv01002"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "13.959",
+      "lon": "-89.766"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]
