@@ -3,7 +3,7 @@
 > 3 districts, 20 municipalitys
 > Code: SV09
 > Coordinates: 13.529, -88.198
-> Last updated: 2026-06-24. License: CC-BY-4.0.
+> Last updated: 2026-08-19. License: CC-BY-4.0.
 
 ## Districts
 

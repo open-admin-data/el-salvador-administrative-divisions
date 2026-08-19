@@ -3,7 +3,7 @@
 > 6 districts, 20 municipalitys
 > Code: SV10
 > Coordinates: 13.763, -89.157
-> Last updated: 2026-06-24. License: CC-BY-4.0.
+> Last updated: 2026-08-19. License: CC-BY-4.0.
 
 ## Districts
 

@@ -3,7 +3,7 @@
 > 3 districts, 22 municipalitys
 > Code: SV06
 > Coordinates: 13.462, -88.977
-> Last updated: 2026-06-24. License: CC-BY-4.0.
+> Last updated: 2026-08-19. License: CC-BY-4.0.
 
 ## Districts
 
