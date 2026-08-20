@@ -12,9 +12,10 @@
 | Coordinates | ✅ Included (all levels) |
 | Formats | JSON, NDJSON, CSV |
 | License | CC-BY-4.0 |
-| Last Updated | 2026-08-19 |
+| Last Updated | 2026-08-20 |
 | Website | [openadmindata.org/sv](https://openadmindata.org/sv/) |
 | API | [openadmindata.org/api/sv](https://openadmindata.org/api/sv/) |
+| Flag | [PNG](https://onlygames.me/flags-png/sv/) · [SVG](https://onlygames.me/flags-svg/sv/) · [PDF](https://onlygames.me/flags-pdf/sv/) |
 | National Anthem | [🎵 Listen & Download El Salvador National Anthem MP3](https://onlygames.me/national-anthems/sv/) |
 
 ## Browse by Department

@@ -3,7 +3,7 @@
 > 6 districts, 15 municipalitys
 > Code: SV12
 > Coordinates: 14.111, -89.564
-> Last updated: 2026-08-19. License: CC-BY-4.0.
+> Last updated: 2026-08-20. License: CC-BY-4.0.
 
 ## Districts
 
