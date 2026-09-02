@@ -3,7 +3,7 @@
 > 3 districts, 23 municipalitys
 > Code: SV14
 > Coordinates: 13.426, -88.534
-> Last updated: 2026-08-20. License: CC-BY-4.0.
+> Last updated: 2026-09-02. License: CC-BY-4.0.
 
 ## Districts
 
